@@ -239,8 +239,8 @@ E -                         R RRRNRN ORRRNN ORNN
      00'   © o) Dzierżonió
                         MZKw
      04'     1) Bielawa Gazownia                 4:32B    4:4985    5:04B      5:26B     5:41S5   5:49BW      6:01BS    6:20B     6:42S
-     07'                      I
-             2) Bielawa Bieltex                  6:46B    7:17W     7:47CS     7:50S    7:50BW     7:57BS     8:03S5     8:27      9:02
+     07'     2) Bielawa Bieltex
+                              I                  6:46B    7:17W     7:47CS     7:50S    7:50BW     7:57BS     8:03S5     8:27      9:02
      08'     3) Bielawa Bata
                                                   9:54    10:40C€   11:54     12:25€     13:28     13:32      13:56C   14:29D     14:56
      10'     4) Bielawa LOK
@@ -299,8 +299,8 @@ O                                                                               
          00'   © o) Dzierżonió
                             MZKw
          04'     1) Bielawa Gazownia                4:40B      5:11D      5:41   — 6:300       6:52C — 7:16 |             7:58    8:11C — 8:41
-         07'                      I
-                 2) Bielawa Bieltex                 9:41C     10:38C — 11:11      11:41C / 12:15            12:42C       13:42C   14:16S       14:19W
+         07'     2) Bielawa Bieltex
+                                  I                 9:41C     10:38C — 11:11      11:41C / 12:15            12:42C       13:42C   14:16S       14:19W
          08'     3) Bielawa Bata
                                                     14:42C    15:12     15:42C    16:38C       17:41C — 18:11            18:41D   19:11A       19:41C
          09'     4) Bielawa Łącznik1 Maja
@@ -358,8 +358,8 @@ O                                                                               
        00'       © o) Dzierżonió
                               MZKw
        04'         1) Bielawa Gazownia                  5:02        6:04    6:20W    6:21BS     6:29DS     7:02      7:28W    7:28ES      8:02
-       07'                          I
-                   2) Bielawa Bieltex                   6:39595    8:309W   8:43CS   8:43DW     410:00   11:34G      12:36    13:02H    13:36S
+       07'         2) Bielawa Bieltex
+                                    I                   6:39595    8:309W   8:43CS   8:43DW     410:00   11:34G      12:36    13:02H    13:36S
        08'         3) Bielawa Bata
                                                        14:02F     14:36BS   14:39A   15:02H     15:40     15:57F     17:05
        09'         4) Bielawa Łącznik1 Maja
@@ -421,8 +421,8 @@ I [=]
        00'       © o) Dzierżonió
                               MZKw
        04'         1) Bielawa Gazownia                  8:50      — 9:36W   9:37S    12:01      12:39     13:40      14:43     15:46
-       07'                          I
-                   2) Bielawa Bieltex
+       07'         2) Bielawa Bieltex
+                                    I
        08'         3) Bielawa Bata                    S - kursuje tylko w dni nauki szkolnej
        10'         4) Bielawa LOK
                                                       W - kursuje tylko w dni wolne od nauki szkolnej
@@ -456,8 +456,8 @@ I [=]
      O0'   © o) Dzierżonió
                         MZKw
      04'     1) Bielawa Gazownia                 3:48GS   4:06H    4:14W      5:21D      5:46ES   5:50EW     5:51FS     6:40A     7:05A
-     07'                      I
-             2) Bielawa Bieltex                   8:02    9:18D    10:07A    12:08A     13:09A    14:32FS    14:36A   15:10W 15:10AS
+     07'     2) Bielawa Bieltex
+                              I                   8:02    9:18D    10:07A    12:08A     13:09A    14:32FS    14:36A   15:10W 15:10AS
      08'     3) Bielawa Bata
                                                  16:08D   17:21    19:28A    20:46C     22:19B
      10'     4) Bielawa LOK

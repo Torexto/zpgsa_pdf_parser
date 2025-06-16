@@ -1,0 +1,386 @@
+                                      LINIA:         Rozkład jazdy ważny od: 17.03.2025 r.
+
+
+
+67
+                                       1             KIERUNEK: Dzierżoniów Piłsudskiego
+                                                     Przystanek: Dzierżoniów MZK
+
+Czas    Nr    Nazwa przystanku
+maks.
+                                                           Dni robocze
+ 00'    0) Dzierżoniów MZK
+ 01'    1) Dzierżoniów              5:23  5:43S   6:00  6:22S 6:26S               6:26W       6:57     7:30     7:37S
+           Batalionów              7:41S 7:48AW 8:08AS 8:44      9:00             9:09S       9:19     9:49    10:52A
+ 03'    2) Dzierżoniów Dworzec
+                                   11:43  12:49  13:20  14:14   14:23             14:50      15:26    15:49     17:03
+           PKS młyn
+ 05'    3) Dzierżoniów            17:11A 17:21A 17:45A 18:15    18:43             19:15      19:43    20:43     21:13
+           Piłsudskiego            21:51  22:13 22:49A 23:13A
+                                                              Soboty
+                                    5:43   6:01   6:43   7:12    7:43              8:19       8:51     9:20      9:51
+                                   10:20  10:51  11:20  11:51   12:20             12:51      13:20    13:51     14:20
+                                   14:51 15:20A 15:35A 15:55A 16:13               16:45      17:20    18:13    18:49A
+                                  19:13A 20:11A 20:56   22:04 23:02A
+                                                              Niedziele i święta
+                                    6:32    7:59     9:14    10:58    11:37     12:13        12:44    13:13    13:52A
+                                   14:20   14:43    15:50    16:13    17:20 18:00A           18:13    18:59     19:59
+                                  20:07A   20:58    21:58
+                                 Legenda:
+                                 A - Kurs do: Dzierżoniów dworzec PKP
+                                 S - kursuje tylko w dni nauki szkolnej
+                                 W - kursuje tylko w dni wolne od nauki szkolnej
+
+
+
+                                                                 Organizator:ZPGSA, ul. Piastowska 19a, Tel: 74 832 87 78
+                                                                          Operator: Kłosok Sp z o.o. S.k Tel. 570 323 199
+                                         LINIA:       Rozkład jazdy ważny od: 17.03.2025 r.
+
+
+
+67
+                                         2            KIERUNEK: Dzierżoniów Os. Zielone
+                                                      Przystanek: Dzierżoniów MZK
+
+Czas    Nr       Nazwa przystanku
+maks.
+                                                              Dni robocze
+ 00'    0) Dzierżoniów MZK
+ 01'    1) Dzierżoniów               5:26C   6:07  6:28C   7:18     7:38   7:59  8:30   8:57   9:26
+             Batalionów               9:55  10:27 11:27B 11:57     12:27 12:57B 13:28C 14:30 14:59B
+ 03'    2) Dzierżoniów Dworzec
+                                     15:28  15:59  16:28  17:27    18:27  18:57 19:30E 20:00E 20:27E
+             PKS młyn
+ 05'    3) Dzierżoniów              20:57D 21:27F 22:03F 22:40E 23:16E
+             Piłsudskiego                                      Soboty
+ 07'    4) Dzierżoniów
+           Wrocławska (szkoła nr     5:27D  6:07   6:32E  7:02   7:37E   7:57  8:27E  8:57   9:30
+           4)                         9:59 10:57A 11:57 12:57B 13:27    13:57  14:27 14:57B 15:27E
+ 08'    5) Dzierżoniów Korczaka
+ 09'    6) Dzierżoniów
+                                    15:57E 16:27D 17:00D 17:27D 17:57D 18:27D 18:57E 19:29D 20:27D
+           Sikorskiego II           21:27D 22:27E
+ 10'    7) Dzierżoniów
+                                                                 Niedziele i święta
+           Sikorskiego I
+ 12'    8) Dzierżoniów Os.            7:27D 8:27D 9:40D 10:55D 12:27D 13:27 14:27A 15:27B 16:27A
+           Tęczowe                   17:27A 18:27D 20:27D 21:27D 22:32E
+ 14'    9) Dzierżoniów Os.
+           Zielone                  Legenda:
+                                    A - Kurs przez: Dzierżoniów Cmentarz Komunalny
+                                    B - Kurs przez: Dzierżoniów Cmentarz Komunalny, Dzierżoniów Os. Jasne
+                                    C - Kurs przez: Dzierżoniów Os. Jasne, Dzierżoniów Strefa Ekonomiczna,
+                                    Dzierżoniów Strefowa II
+                                    D - Kurs do: Dzierżoniów Piłsudskiego
+                                    E - Kurs do: Dzierżoniów dworzec PKP
+                                    F - Kurs do: Dzierżoniów ul.Strefowa przez: Dzierżoniów Os. Jasne,
+                                    Dzierżoniów Strefowa II
+
+
+
+                                                                           Operator: Kłosok Sp z o.o. S.k Tel. 570 323 199
+                                                                  Organizator:ZPGSA, ul. Piastowska 19a, Tel: 74 832 87 78
+                                      LINIA:        Rozkład jazdy ważny od: 01.04.2025 r.
+
+
+
+67
+                                       3            KIERUNEK: Dzierżoniów Piłsudskiego
+                                                    Przystanek: Dzierżoniów MZK
+
+Czas    Nr    Nazwa przystanku
+maks.
+                                                              Dni robocze
+ 00'    0) Dzierżoniów MZK
+ 01'    1) Dzierżoniów             5:46   6:42       7:08 7:22DS 7:42     8:17              9:12C   9:42   11:16
+           Batalionów             11:42C 12:42     13:42S 14:06A 14:42 15:07B               15:37 15:52CS 16:07C
+ 03'    2) Dzierżoniów Dworzec
+                                 16:22CS 16:47     17:12W 17:41C
+           PKS młyn
+ 05'    3) Dzierżoniów                                            Soboty
+           Piłsudskiego
+                                   9:13    10:07   11:04    13:11   14:07        15:07
+                                                             Niedziele i święta
+                                  11:13    12:26   13:57    15:37    16:57 18:19C
+                                 Legenda:
+                                 A - Kurs do: Dzierżoniów ul.Strefowa przez: Dzierżoniów Strefa Ekonomiczna
+                                 B - Kurs do: Bielawa Pl. Kościelny przez: Dzierżoniów Strefa Ekonomiczna
+                                 C - Kurs do: Dzierżoniów dworzec PKP
+                                 D - Kurs do: Dzierżoniów Os. Zielone
+                                 S - kursuje tylko w dni nauki szkolnej
+                                 W - kursuje tylko w dni wolne od nauki szkolnej
+
+
+
+                                                                         Operator: Kłosok Sp z o.o. S.k Tel. 570 323 199
+                                                                Organizator:ZPGSA, ul. Piastowska 19a, Tel: 74 832 87 78
+
+
+
+
+                                      LINIA:        Rozkład jazdy ważny od: 17.03.2025 r.
+
+
+
+67
+                                       5            KIERUNEK: Dzierżoniów Piłsudskiego
+                                                    Przystanek: Dzierżoniów MZK
+
+Czas    Nr    Nazwa przystanku
+maks.
+                                                               Dni robocze
+ 00'    0) Dzierżoniów MZK
+ 01'    1) Dzierżoniów             9:36    10:36   13:06    13:36   14:36  15:36            16:32
+           Batalionów
+ 03'    2) Dzierżoniów Dworzec
+           PKS młyn
+ 05'    3) Dzierżoniów
+           Piłsudskiego
+                                                                         Operator: Kłosok Sp z o.o. S.k Tel. 570 323 199
+                                                                Organizator:ZPGSA, ul. Piastowska 19a, Tel: 74 832 87 78
+                                         LINIA:         Rozkład jazdy ważny od: 17.03.2025 r.
+
+
+
+67
+                                          6             KIERUNEK: Dzierżoniów Piłsudskiego
+                                                        Przystanek: Dzierżoniów MZK
+
+Czas    Nr       Nazwa przystanku
+maks.
+                                                              Dni robocze
+ 00'     0) Dzierżoniów MZK
+ 01'     1) Dzierżoniów              5:20AS 5:31W 5:31H    6:20     6:45 7:39AS 7:42      8:08   9:18A
+             Batalionów              10:22 11:09A 13:12   14:09    15:39 16:16S 16:25AW 16:25AS 17:05A
+ 03'     2) Dzierżoniów Dworzec
+                                     19:10  20:28 21:50A 23:36A
+             PKS młyn
+ 05'     3) Dzierżoniów                                                Soboty
+             Piłsudskiego
+                                      5:32     7:12     8:38     9:38 10:38A         11:38      13:07A   14:38     16:20
+        (NŻ) - na żądanie
+                                     18:28    20:27    21:50    23:28A
+                                                                 Niedziele i święta
+                                     7:35A    10:17    12:12    14:12    16:27     18:28        20:19    21:50    23:28A
+                                    Legenda:
+                                    A - Kurs do: Dzierżoniów dworzec PKP
+                                    H - Uwaga: kursuje tylko w okresie ferii zimowych i przerw świąteczny
+                                    S - kursuje tylko w dni nauki szkolnej
+                                    W - kursuje tylko w dni wolne od nauki szkolnej
+
+
+
+                                                                             Operator: Kłosok Sp z o.o. S.k Tel. 570 323 199
+                                                                    Organizator:ZPGSA, ul. Piastowska 19a, Tel: 74 832 87 78
+                                         LINIA:        Rozkład jazdy ważny od: 17.03.2025 r.
+
+
+
+66
+                                         1             KIERUNEK: Bielawa Nowobielawska
+                                                       Przystanek: Dzierżoniów MZK
+
+Czas    Nr       Nazwa przystanku
+maks.
+                                                               Dni robocze
+ 00'     0) Dzierżoniów MZK
+ 04'     1) Bielawa Gazownia         4:32B 4:49S 5:04B 5:26B 5:41S 5:49BW 6:01BS 6:20B 6:42S
+ 07'     2) Bielawa Bieltex I        6:46B 7:17W 7:17CS 7:50S 7:50BW 7:57BS 8:03S        8:27   9:02
+ 08'     3) Bielawa Bata
+                                      9:54 10:40C 11:54 12:25C 13:28       13:32 13:56C 14:29D 14:56
+ 10'     4) Bielawa LOK
+ 11'     5) Bielawa Hotel "Pod       15:56 16:02B 16:21CW 16:34CS 16:50 16:59B 17:29S 17:30W 17:57B
+             Wielką Sową"            18:33 19:01A 20:01 21:01B 21:31       22:09  22:31
+ 12'     6) Bielawa Żeromskiego
+             (Pl. Wolności)                                      Soboty
+ 14'     7) Bielawa Bielbaw            4:59   5:17  6:01   6:19B    7:01  7:30  7:34   7:44B 8:01C
+ 15'     8) Bielawa Ludowa
+ 16'     9) Bielawa Pl. Kościelny
+                                      8:37B 9:09C 9:38B 10:09C 10:38B 11:09C 11:38B 12:09C 12:38B
+ 17'    10) Bielawa Waryńskiego      13:09C 13:38B 14:09C 14:38B 15:09   15:25 15:59C 16:31C 17:03C
+             (Bieltex V)              17:38  18:31 19:20C 20:12 21:14B 22:22
+ 18'    11) Bielawa Sowia
+ 20'    12) Bielawa                                             Niedziele i święta
+             Nowobielawska            5:52   6:50B    8:17C    10:17 10:26C 10:52               11:31 11:55C 12:31
+                                     13:02B 13:31C    13:59    14:31 15:01C 16:08              16:31C 17:38 17:59C
+                                     18:31C 19:17B    20:17    21:16
+                                    Legenda:
+                                    A - Kurs przez: Jodłownik
+                                    B - Kurs do: Jodłownik przez: Bielawa Nowobielawska
+                                    C - Kurs do: Bielawa Leśny Dworek
+                                    D - Kurs do: Jodłownik przez: Bielawa Nowobielawska, Bielawa Leśny Dworek
+                                    S - kursuje tylko w dni nauki szkolnej
+                                    W - kursuje tylko w dni wolne od nauki szkolnej
+
+
+
+                                                                   Organizator:ZPGSA, ul. Piastowska 19a, Tel: 74 832 87 78
+                                                                            Operator: Kłosok Sp z o.o. S.k Tel. 570 323 199
+                                          LINIA:        Rozkład jazdy ważny od: 17.03.2025 r.
+
+
+
+66
+                                           2            KIERUNEK: Bielawa Słowiańska
+                                                        Przystanek: Dzierżoniów MZK
+
+Czas    Nr      Nazwa przystanku
+maks.
+                                                              Dni robocze
+ 00'     0) Dzierżoniów MZK
+ 04'     1) Bielawa Gazownia           4:40B 5:11D   5:41  6:30C 6:52C    7:16 7:58   8:11C   8:41
+ 07'     2) Bielawa Bieltex I          9:41C 10:38C 11:11 11:41C 12:15 12:42C 13:42C 14:16S 14:19W
+ 08'     3) Bielawa Bata
+                                      14:42C 15:12 15:42C 16:38C 17:41C 18:11 18:41D 19:11A 19:41C
+ 09'     4) Bielawa Łącznik 1 Maja
+ 11'     5) Bielawa Os. XXV-lecia      20:11  20:41 21:10  22:00   22:34
+ 12'     6) Bielawa Andersa I
+                                                                      Soboty
+ 13'     7) Bielawa Sikorskiego
+ 14'     8) Bielawa Góra Parkowa       4:41B 5:11B    5:40       6:11    6:41 7:11   7:41   8:11                    8:41
+ 15'     9) Bielawa Bielbaw            9:11B 10:11   11:11      12:14 12:41A 13:11B 13:41C 14:14                   14:41
+ 16'    10) Bielawa Ludowa
+ 17'    11) Bielawa
+                                      15:11B 15:41C 16:11A      16:40 17:13A 17:40C 18:10 18:40B                   19:42
+             Frankowskiego             20:40  21:40
+ 18'    12) Bielawa Kasztanowa
+                                                                 Niedziele i święta
+ 19'    13) Bielawa Os. Białe
+ 20'    14) Bielawa Słowiańska         6:41    7:40   8:40      9:53C 11:08C 12:40              13:41C   14:41    15:38C
+                                      16:41   17:39C 18:40B     20:40    21:40
+                                     Legenda:
+                                     A - Kurs przez: Bielawa Park Handlowy
+                                     B - Kurs przez: Bielawa Stacja Bielawa Zachodnia
+                                     C - Kurs do: Bielawa Camping Sudety
+                                     D - Kurs do: Bielawa Camping Sudety przez: Bielawa Stacja Bielawa Zachodnia
+                                     S - kursuje tylko w dni nauki szkolnej
+                                     W - kursuje tylko w dni wolne od nauki szkolnej
+
+
+
+                                                                             Operator: Kłosok Sp z o.o. S.k Tel. 570 323 199
+                                                                    Organizator:ZPGSA, ul. Piastowska 19a, Tel: 74 832 87 78
+                                          LINIA:         Rozkład jazdy ważny od: 01.04.2025 r.
+
+
+
+66
+                                           3             KIERUNEK: Bielawa Pl. Kościelny
+                                                         Przystanek: Dzierżoniów MZK
+
+Czas    Nr       Nazwa przystanku
+maks.
+                                                                Dni robocze
+ 00'     0) Dzierżoniów MZK
+ 04'     1) Bielawa Gazownia            5:02   6:04   6:21W 6:21BS 6:29DS 7:02                   7:28W 7:28ES 8:02
+ 07'     2) Bielawa Bieltex I          8:35S 8:35W 8:43CS 8:43DW 10:00 11:34G                    12:36 13:02H 13:36S
+ 08'     3) Bielawa Bata
+                                      14:02F 14:36BS 14:39A 15:02H 15:40 15:57F                  17:05
+ 09'     4) Bielawa Łącznik 1 Maja
+ 11'     5) Bielawa Os. XXV-lecia                                     Soboty
+ 12'     6) Bielawa Andersa I
+ 13'     7) Bielawa Sikorskiego
+                                       9:31   10:25G 11:24A      13:29 14:25G
+ 14'     8) Bielawa Góra Parkowa                             Niedziele i święta
+ 15'     9) Bielawa Bielbaw
+ 16'    10) Bielawa Ludowa
+                                      11:16   12:44D 14:15F 15:55F 17:15
+ 17'    11) Bielawa                  Legenda:
+            Frankowskiego            A - Kurs przez: Bielawa Park Handlowy
+ 18'    12) Bielawa Pl. Kościelny    B - Kurs przez: Bielawa Cmentarz Komunalny, Bielawa Myśliszów, Kietlice,
+                                     Owiesno 81
+                                     C - Kurs przez: Bielawa Cmentarz Komunalny, Bielawa Myśliszów, Owiesno 81
+                                     D - Kurs przez: Bielawa Stacja Bielawa Zachodnia
+                                     E - Kurs do: Bielawa Leśny Dworek
+                                     F - Kurs przez: Bielawa Cmentarz Komunalny, Bielawa Myśliszów
+                                     G - Kurs przez: Bielawa Park Handlowy, Bielawa Cmentarz Komunalny, Bielawa
+                                     Myśliszów
+                                     H - Kurs przez: Bielawa Cmentarz Komunalny, Bielawa Myśliszów, Bielawa
+                                     Stacja Bielawa Zachodnia
+                                     S - kursuje tylko w dni nauki szkolnej
+                                     W - kursuje tylko w dni wolne od nauki szkolnej
+
+
+
+                                                                              Operator: Kłosok Sp z o.o. S.k Tel. 570 323 199
+                                                                     Organizator:ZPGSA, ul. Piastowska 19a, Tel: 74 832 87 78
+
+
+
+
+                                          LINIA:         Rozkład jazdy ważny od: 17.03.2025 r.
+
+
+
+66
+                                           5             KIERUNEK: Jodłownik
+                                                         Przystanek: Dzierżoniów MZK
+
+Czas    Nr       Nazwa przystanku
+maks.
+                                                                    Dni robocze
+ 00'     0) Dzierżoniów MZK
+ 04'     1) Bielawa Gazownia           8:50    9:36W    9:37S    12:01   12:39  13:40            14:43    15:46
+ 07'     2) Bielawa Bieltex I        Legenda:
+ 08'     3) Bielawa Bata             S - kursuje tylko w dni nauki szkolnej
+ 10'     4) Bielawa LOK              W - kursuje tylko w dni wolne od nauki szkolnej
+ 11'     5) Bielawa Hotel "Pod
+             Wielką Sową"
+ 12'     6) Bielawa Żeromskiego
+             (Pl. Wolności)
+ 14'     7) Bielawa Bielbaw                                                   Operator: Kłosok Sp z o.o. S.k Tel. 570 323 199
+ 15'     8) Bielawa Ludowa                                           Organizator:ZPGSA, ul. Piastowska 19a, Tel: 74 832 87 78
+ 16'     9) Bielawa Pl. Kościelny
+ 17'    10) Bielawa Waryńskiego
+             (Bieltex V)
+ 18'    11) Bielawa Sowia
+ 22'    12) Jodłownik
+                                         LINIA:         Rozkład jazdy ważny od: 17.03.2025 r.
+
+
+
+66
+                                          6             KIERUNEK: Rudnica III
+                                                        Przystanek: Dzierżoniów MZK
+
+Czas    Nr      Nazwa przystanku
+maks.
+                                                             Dni robocze
+ 00'     0) Dzierżoniów MZK
+ 04'     1) Bielawa Gazownia         3:48GS 4:06H 4:14W 5:21D 5:46ES 5:50EW 5:51FS 6:40A 7:05A
+ 07'     2) Bielawa Bieltex I         8:02  9:18D 10:07A 12:08A 13:09A 14:32FS 14:36A 15:10W 15:10AS
+ 08'     3) Bielawa Bata
+                                     16:08D 17:21 19:28A 20:46C 22:19B
+ 10'     4) Bielawa LOK
+ 11'     5) Bielawa Hotel "Pod                                   Soboty
+            Wielką Sową"
+ 12'     6) Bielawa Żeromskiego
+                                      4:24D 5:51A 7:31A 8:14A 8:56D                  9:56A      11:56A 12:56D 14:56A
+            (Pl. Wolności)           16:38B 18:46B 20:46C 22:08B
+ 14'     7) Bielawa Bielbaw
+                                                            Niedziele i święta
+ 15'     8) Bielawa Ludowa
+ 16'     9) Bielawa Ostroszowicka    6:28A    8:36A 10:36B 12:31C 14:38B 16:46B 18:46B 20:38A 22:08B
+ 18'    10) Bielawa Ace Rico        Legenda:
+ 20'    11) Bielawa Szewska
+                                    A - Kurs do: Grodziszcze Sklep
+ 21'    12) Bielawa Józefówek
+                                    B - Kurs do: Grodziszcze Sklep przez: Jodłownik
+ 23'    13) Ostroszowice I NŻ
+ 24'    14) OstroszowiceSklep
+                                    C - Kurs do: Grodziszcze Sklep
+ 26'    15) Ostroszowice Poczta     D - Kurs do: Ostroszowice Ośrodek zdrowia
+ 27'    16) Ostroszowice Zakład     E - Kurs do: Ostroszowice Ośrodek zdrowia
+            Stolarski               F - Kurs do: Jemna przez: Owiesno 81, Przedborowa I
+ 28'    17) Ostroszowice Ośrodek    G - Kurs do: Jemna
+            zdrowia                 H - Kurs do Jemna : kursuje tylko w okresie ferii zimowych i przerw
+ 30'    18) Grodziszcze I           światecznych
+ 32'    19) Grodziszcze Sklep       S - kursuje tylko w dni nauki szkolnej
+ 34'    20) Rudnica I               W - kursuje tylko w dni wolne od nauki szkolnej
+ 36'    21) Rudnica II
+ 40'    22) Rudnica III
+        (NŻ) - na żądanie
+                                                                             Operator: Kłosok Sp z o.o. S.k Tel. 570 323 199
+                                                                    Organizator:ZPGSA, ul. Piastowska 19a, Tel: 74 832 87 78
+

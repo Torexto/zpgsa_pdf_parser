@@ -36,8 +36,13 @@ fn extract_text(pdf: &Path) -> Vec<String> {
         let mut text = String::new();
 
         if let Ok(_) = reader.read_to_string(&mut text) {
-            let text = text.split_whitespace().map(|s| format!("{} ", s)).collect();
-            pages.push(text);
+            let text = text.split_whitespace().map(|s| format!("{} ", s)).collect::<String>();
+            let mut lines = text.split("LINIA: Rozkład jazdy ważny od: 17.03.2025 r.");
+            for line in lines {
+                println!("{}", line);
+                println!("------------------------------");
+                pages.push(line.to_string());
+            }
         }
     }
 
@@ -50,7 +55,7 @@ fn process_pdf(path: &PathBuf) {
     let output_json = Path::new(OUTPUT_DIR).join(format!("{}.json", file_stem));
     let ocr_fixed = Path::new(OCR_TEMP).join(path.file_name().unwrap());
 
-    let needs_ocr = true;
+    let needs_ocr = false;
 
     let parse_target = if needs_ocr {
         if run_ocr(&path, &ocr_fixed) {
@@ -60,7 +65,7 @@ fn process_pdf(path: &PathBuf) {
             return;
         }
     } else {
-        path.clone()
+        ocr_fixed
     };
 
     let pages = extract_text(&parse_target);

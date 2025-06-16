@@ -41,8 +41,8 @@
 
                                                                                                                           'L
      16'   10) Dzierżoniów Wojska
-                         I
                  Polskiego
+                         I
      18'   11) Dzierżoniów Staszica
 
 
@@ -112,8 +112,8 @@ T2                    „SOWIOGÓRSKIE AUTOBUSY”
 15'    9) Dzierzoniów MZŻK                 22:09    23:07B
 19'   10) Bielawa Gazownia
                                                                              Niedziele i święta
-22'                     I
-      11) Bielawa Bieltex
+22'   11) Bielawa Bieltex
+                        I
 23'   12) Bielawa Bata                      5:39    6:37C         8:04D     10:04      10:13D    10:39     11:18     11:42D | 12:18
 25    13) Bielawa LOK
                                            12:49C   13:18D        13:46    13:57B      14:18    14:48D     15:55     16:18D     417:25
@@ -173,8 +173,8 @@ T2                 „SOWIOGÓRSKIE AUTOBUSY”
      16'   7) Bielawa Bieltex
                             I                     14:33    15:03D   |15:32B   15:33F     16:02B   16:03C      16:32     17:05C    17:32F
      17'   8) Bielawa Bata                        18:02    18:32D   19:02B     19:34     20:32     21:32      22:32B
-     18'                    1 Maja
-           9) Bielawa Łącznik
+     18'   9) Bielawa Łącznik
+                            1 Maja
      20'   10) Bielawa Os. XXV-lecia                                           Niedziele i święta
      21'   11) Bielawa Andersa
                              I                     6:33     732      832       9:45F     |11:00F | 12:32      13:33F 14:33 15:30F
@@ -362,8 +362,8 @@ OO                                                  LINIA:         Rozkład jazd
                  Batalionów
      15'     9) Dzierzoniów MZŻK
      19'    10) Bielawa Gazownia
-     22'                      I
-            11) Bielawa Bieltex
+     22'    11) Bielawa Bieltex
+                              I
      23'    12) Bielawa Bata
      25'    13) Bielawa LOK
      26'    14) Bielawa Hotel "Pod
@@ -419,8 +419,8 @@ O                             b                                      Przystanek:
                Batalionów                       Legenda:
      15'    9) Dzierzoniów MZŻK                 A - Kurs do: Grodziszcze Sklep
      19'   10) Bielawa Gazownia                 B - Kurs do: Grodziszcze Sklep przez: Jodłownik
-     22'                     I
-           11) Bielawa Bieltex                  C - Kurs do: Grodziszcze Sklep
+     22'   11) Bielawa Bieltex
+                             I                  C - Kurs do: Grodziszcze Sklep
      23'   12) Bielawa Bata
                                                 D - Kurs do: Ostroszowice Ośrodek zdrowia
      25    13) Bielawa LOK
@@ -505,8 +505,8 @@ I OT' 1) Dzierżoniów                            Legenda:
       03'    2) Dzierżoniów
                  Ząbkowicka
       05'    3) Dzierzżoniów Wojska
-                         I
                  Polskiego
+                         I
       07'   4) Piława Dolna POM                                                            Operator: Kłosok Sp z o.o. S.k Tel. 570 323 199
 
       08'    5) Piława Dolna I                                                   Organizator:ZPGSA, ul. Piastowska 19a, Tel: 74 832 87 78
@@ -864,8 +864,8 @@ I                                                                               
 
     !ElFI [=]                     '                          LINIA:         Rozkład jazdy ważny od: 17.03.2025 r.
       :                      A                             45               KIERUNEK: Dzierżoniów dworzec PKP
-    OI                          Ai oir
-                            aierkadk                                        Przystanek: Dzierżoniów Piłsudskiego
+    OI                      aierkadk
+                                Ai oir                                      Przystanek: Dzierżoniów Piłsudskiego
     72                     „SOWIOGÓRSKIE AUTOBUSY”
 
 
@@ -974,8 +974,8 @@ T2                     „SOWIOGÓRSKIE AUTOBUSY”
 
      !Ellil [=]                      '                         LINIA:   Rozkład jazdy ważny od: 17.03.2025 r.
           :                      A                           5O         KIERUNEK: Dzierżoniów dworzec PKP
-I                                   Ai oir
-                                aierkadk                                Przystanek: Dzierżoniów Piłsudskiego
+I                               aierkadk
+                                    Ai oir                              Przystanek: Dzierżoniów Piłsudskiego
      72                      „SOWIOGÓRSKIE AUTOBUSY”
 
 
@@ -1028,8 +1028,8 @@ I                   (NZ) - na żądanie                                         
 
 
 
-       RRR NNN
 E ==R=RH=RRNEN
+       RRR NNN
                                                             Rozkład jazdy ważny od: 01.04.2025 r.                                   I
                     AĄ,
               Związek Powiatowo-Gminny
@@ -1080,21 +1080,21 @@ u                                   E VV                                O7
 02'    1) Dzierżoniów
          Ząbkowicka
 04'   2) Dzierżoniów Wojska
-                 I
          Polskiego
+                 I
 06'   3) Dzierżoniów Staszica
                                                                                   Operator: Kłosok Sp z o.o. S.k Tel. 570 323 199
 09'   4) Dzierzoniów MZŻK
                                                                         Organizator:ZPGSA, ul. Piastowska 19a, Tel: 74 832 87 78
 13'   5) Bielawa Gazownia
-16'                    I
-      6) Bielawa Bieltex
+16'   6) Bielawa Bieltex
+                       I
 17'   7) Bielawa Bata
-18'                    1 Maja
-      8) Bielawa Łącznik
+18'   8) Bielawa Łącznik
+                       1 Maja
 20'   9) Bielawa Os. XXV-lecia
-21'                     I
-      10) Bielawa Andersa
+21'   10) Bielawa Andersa
+                        I
 22'   11) Bielawa Sikorskiego
 23'   12) Bielawa Góra Parkowa
 24'   13) Bielawa Bielbaw
@@ -1211,15 +1211,15 @@ I 04'          1) Dzierżoniów                      Legenda:
                    Górskie
 
      3421   ;Ż; E:Ż::yzż Xlćllcl›:tdeT(Z'ał                                                                   Operator: Kłosok Sp z o.o. S.k Tel. 570 323 199
-     36'    21) Kamignki Dolne NŻ                                                                                             19a, Tel: 74 832 87 78
-                                                                                                Organizator:ZPGSA, ul. Piastowska
+     36'    21) Kamignki Dolne NŻ                                                               Organizator:ZPGSA, ul. Piastowska
+                                                                                                                              19a, Tel: 74 832 87 78
      37'    22) Kamionkil          —
      39'    23) Kamionki II NZ
      40'    24) Kamionki III
 
             (NŻ) - na żądanie
-                                                                                                                           .
                          HNNNNNNNNNNNNNNNNN ZENNNNONNNNNNNNNNNOOEW ZUUNNONNNNNOOONNNNNNJ NENNNNNNNNNNNNNNNNNNN UENENNNNNNNNNN
+                                                                                                                           .
                                      E UUU N EEE
 
 
@@ -1270,17 +1270,17 @@ I 04'          1) Dzierżoniów                      Legenda:
       12) Pieszyce Bielawska
       13) Pieszyce Urząd Miejski                                                     Operator: Kłosok Sp z o.o. S.k Tel. 570 323 199
       14) Pieszyce Sanatoryjna                                             Organizator:ZPGSA, ul. Piastowska 19a, Tel: 74 832 87 78
-28'               I
-      15) Rościszów
+28'   15) Rościszów
+                  I
 
 
 
 
             _P                                                                                  NNN
-30'               II
-      16) Rościszów
-32'              IIl
-      17) Rościszów
+30'   16) Rościszów
+                  II
+32'   17) Rościszów
+                 IIl
 34'   18) Rościszów V
                           AĄ
 CĘU                                                                 Rozkład jazdy ważny od: 17.03.2025 r.
@@ -1565,8 +1565,8 @@ e
      16'   11) Roztocznik                      C - Nie kursuje przez: Roztocznik Wieś II                                                    I
                 skrzyżowanie                   S - kursuje tylko w dni nauki szkolnej
      19'   12) Byszów
-     21'           I
-           13) Gilów
+     21'   13) Gilów
+                   I
      23'   14) Gilów Sklep
      25'   15) Gilów skrzyżowanie                                                         Operator: Kłosok Sp z o.o. S.k Tel. 570 323 199
      27'   16) Gilów II NŻ                                                      Organizator:ZPGSA, ul. Piastowska 19a, Tel: 74 832 87 78
@@ -1614,8 +1614,8 @@ IĘŚĘ:. Nr Nazwa przystanku                                                   
  21'         12) Gilów I                                                           Organizator:ZPGSA, ul. Piastowska 19a, Tel: 74 832 87 78
  23'         13) Gilów Sklep
  25'         14) Gilów skrzyżowanie
- 27'                               I
-             15) Gola Dzierżoniowska
+ 27'         15) Gola Dzierżoniowska
+                                   I
                    NŻ
  29'         16) Gola Dzierżoniowska
 
@@ -1648,8 +1648,8 @@ IĘŚĘ:. Nr Nazwa przystanku                                                   
      14'    8) Roztocznik
                 skrzyżowanie
      17'    9) Byszów
-     19'           I
-           10) Gilów
+     19'   10) Gilów
+                   I
      21'   11) Gilów Sklep
      23'   12) Gilów skrzyżowanie
      25'   13) Gilów II NŻ
