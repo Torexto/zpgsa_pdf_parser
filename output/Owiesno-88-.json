@@ -1,0 +1,25 @@
+{
+  "354": [
+    {
+      "time": "13:00",
+      "line": "8",
+      "destination": "Ostroszowice Poczta",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "15:17",
+      "line": "8",
+      "destination": "Owiesno Kościół",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "15:28",
+      "line": "8",
+      "destination": "Dzierżoniów Staszica",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    }
+  ]
+}

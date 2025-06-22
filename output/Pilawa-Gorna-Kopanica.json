@@ -1,0 +1,32 @@
+{
+  "219": [
+    {
+      "time": "07:43",
+      "line": "31",
+      "destination": "Dzierżoniów dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "14:10",
+      "line": "31",
+      "destination": "Dzierżoniów dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "17:05",
+      "line": "31",
+      "destination": "Dzierżoniów dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:45",
+      "line": "38",
+      "destination": "Dzierżoniów dworzec PKP",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    }
+  ]
+}

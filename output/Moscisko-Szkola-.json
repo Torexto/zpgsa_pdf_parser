@@ -1,0 +1,25 @@
+{
+  "326": [
+    {
+      "time": "07:23",
+      "line": "7",
+      "destination": "Dzierżoniów Dolny Nowowiejska",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "12:57",
+      "line": "7",
+      "destination": "Dzierżoniów Dolny Nowowiejska",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "14:57",
+      "line": "7",
+      "destination": "Dzierżoniów Dolny Nowowiejska",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    }
+  ]
+}

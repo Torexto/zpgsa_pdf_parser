@@ -1,0 +1,137 @@
+{
+  "116": [
+    {
+      "time": "06:13",
+      "line": "B",
+      "destination": "Dzierżoniów Dolny Nowowiejska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:28",
+      "line": "B",
+      "destination": "Dzierżoniów Dolny Nowowiejska",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "08:57",
+      "line": "B",
+      "destination": "Dzierżoniów Dolny Nowowiejska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:57",
+      "line": "B",
+      "destination": "Dzierżoniów Dolny Nowowiejska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:56",
+      "line": "B",
+      "destination": "Dzierżoniów Dolny Nowowiejska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:02",
+      "line": "B",
+      "destination": "Dzierżoniów Dolny Nowowiejska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:57",
+      "line": "B",
+      "destination": "Dzierżoniów Dolny Nowowiejska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:57",
+      "line": "B",
+      "destination": "Dzierżoniów Dolny Nowowiejska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:27",
+      "line": "B",
+      "destination": "Dzierżoniów Dolny Nowowiejska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:26",
+      "line": "B",
+      "destination": "Dzierżoniów Dolny Nowowiejska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:26",
+      "line": "B",
+      "destination": "Dzierżoniów Dolny Nowowiejska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:23",
+      "line": "B",
+      "destination": "Dzierżoniów Dolny Nowowiejska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:56",
+      "line": "B",
+      "destination": "Dzierżoniów Dolny Nowowiejska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:57",
+      "line": "B",
+      "destination": "Dzierżoniów Dolny Nowowiejska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:57",
+      "line": "B",
+      "destination": "Dzierżoniów Dolny Nowowiejska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:57",
+      "line": "B",
+      "destination": "Dzierżoniów Dolny Nowowiejska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:57",
+      "line": "B",
+      "destination": "Dzierżoniów Dolny Nowowiejska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:27",
+      "line": "B",
+      "destination": "Dzierżoniów Dolny Nowowiejska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:10",
+      "line": "7",
+      "destination": "Mościsko Szkoła",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    }
+  ]
+}

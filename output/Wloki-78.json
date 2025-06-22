@@ -1,0 +1,25 @@
+{
+  "332": [
+    {
+      "time": "08:11",
+      "line": "4",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "13:18",
+      "line": "4",
+      "destination": "Uciechów 57",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "15:16",
+      "line": "4",
+      "destination": "Uciechów 57",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    }
+  ]
+}

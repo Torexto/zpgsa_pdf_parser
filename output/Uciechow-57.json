@@ -1,0 +1,25 @@
+{
+  "350": [
+    {
+      "time": "07:08",
+      "line": "10",
+      "destination": "Książnica 27",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "13:50",
+      "line": "10",
+      "destination": "Dzierżoniów Os. Zielone",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "15:48",
+      "line": "10",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    }
+  ]
+}

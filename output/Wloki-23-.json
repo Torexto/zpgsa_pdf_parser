@@ -1,0 +1,25 @@
+{
+  "329": [
+    {
+      "time": "07:29",
+      "line": "10",
+      "destination": "Książnica 27",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "12:35",
+      "line": "10",
+      "destination": "Książnica 27",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "14:32",
+      "line": "10",
+      "destination": "Książnica 27",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    }
+  ]
+}
