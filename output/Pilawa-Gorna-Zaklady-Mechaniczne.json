@@ -3,7 +3,7 @@
     {
       "time": "09:16",
       "line": "30",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -17,7 +17,7 @@
     {
       "time": "16:46",
       "line": "30",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -31,21 +31,21 @@
     {
       "time": "08:16",
       "line": "30",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "12:31",
       "line": "30",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "19:31",
       "line": "30",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -59,21 +59,21 @@
     {
       "time": "08:16",
       "line": "30",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
     {
       "time": "12:31",
       "line": "30",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
     {
       "time": "19:31",
       "line": "30",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
@@ -94,28 +94,28 @@
     {
       "time": "06:17",
       "line": "36",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
       "time": "07:17",
       "line": "36",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
       "time": "08:09",
       "line": "36",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
       "time": "19:29",
       "line": "36",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -129,63 +129,63 @@
     {
       "time": "06:17",
       "line": "36",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "16:29",
       "line": "36",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "21:09",
       "line": "36",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "06:17",
       "line": "36",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
     {
       "time": "14:28",
       "line": "36",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
     {
       "time": "21:09",
       "line": "36",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
     {
       "time": "15:32",
       "line": "39",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
       "time": "14:29",
       "line": "39",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "16:28",
       "line": "39",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "sunday",
       "school_restriction": "normal"
     }

@@ -3,7 +3,7 @@
     {
       "time": "16:33",
       "line": "30",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -24,7 +24,7 @@
     {
       "time": "14:41",
       "line": "45",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "school_only"
     }

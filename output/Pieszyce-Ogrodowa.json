@@ -1,4 +1,13 @@
 {
+  "142": [
+    {
+      "time": "22:00",
+      "line": "15",
+      "destination": "Pieszyce Mostek",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    }
+  ],
   "143": [
     {
       "time": "05:25",
@@ -243,15 +252,6 @@
       "line": "60",
       "destination": "Dzierżoniów dworzec PKP",
       "operating_days": "sunday",
-      "school_restriction": "normal"
-    }
-  ],
-  "142": [
-    {
-      "time": "22:00",
-      "line": "15",
-      "destination": "Pieszyce Mostek",
-      "operating_days": "mon_fri",
       "school_restriction": "normal"
     }
   ]

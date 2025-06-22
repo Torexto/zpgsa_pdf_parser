@@ -1,4 +1,349 @@
 {
+  "89": [
+    {
+      "time": "11:50",
+      "line": "A",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "04:29",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:30",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:59",
+      "line": "2",
+      "destination": "Dzierżoniów ul.Strefowa",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:40",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:04",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:46",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:00",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:30",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:30",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:27",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:00",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:30",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:03",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:30",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:30",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:04",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "14:07",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "14:30",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:00",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:30",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:27",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:30",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:00",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:30",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:00",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:30",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:30",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:30",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:30",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:00",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:00",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:03",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:30",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:00",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:30",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:03",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:30",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:00",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:30",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:30",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:30",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:27",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:30",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:28",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:37",
+      "line": "3",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "07:14",
+      "line": "10",
+      "destination": "Książnica 27",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "14:03",
+      "line": "10",
+      "destination": "Dzierżoniów Os. Zielone",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "16:01",
+      "line": "10",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    }
+  ],
   "88": [
     {
       "time": "05:16",
@@ -424,351 +769,6 @@
       "time": "15:35",
       "line": "4",
       "destination": "Uciechów 57",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    }
-  ],
-  "89": [
-    {
-      "time": "11:50",
-      "line": "A",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "04:29",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "05:30",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "05:59",
-      "line": "2",
-      "destination": "Dzierżoniów ul.Strefowa",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:40",
-      "line": "2",
-      "destination": "Bielawa Camping Sudety",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:04",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:46",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "08:00",
-      "line": "2",
-      "destination": "Bielawa Camping Sudety",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "08:30",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "09:30",
-      "line": "2",
-      "destination": "Bielawa Camping Sudety",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:27",
-      "line": "2",
-      "destination": "Bielawa Camping Sudety",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "11:00",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "11:30",
-      "line": "2",
-      "destination": "Bielawa Camping Sudety",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:03",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:30",
-      "line": "2",
-      "destination": "Bielawa Camping Sudety",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:30",
-      "line": "2",
-      "destination": "Bielawa Camping Sudety",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:04",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "14:07",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "mon_fri",
-      "school_restriction": "free_day_only"
-    },
-    {
-      "time": "14:30",
-      "line": "2",
-      "destination": "Bielawa Camping Sudety",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:00",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:30",
-      "line": "2",
-      "destination": "Bielawa Camping Sudety",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:27",
-      "line": "2",
-      "destination": "Bielawa Camping Sudety",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "17:30",
-      "line": "2",
-      "destination": "Bielawa Camping Sudety",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "18:00",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "18:30",
-      "line": "2",
-      "destination": "Bielawa Camping Sudety",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "19:00",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "19:30",
-      "line": "2",
-      "destination": "Bielawa Camping Sudety",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:30",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:30",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "08:30",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:00",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "11:00",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:03",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:30",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:00",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:30",
-      "line": "2",
-      "destination": "Bielawa Camping Sudety",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:03",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:30",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:00",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:30",
-      "line": "2",
-      "destination": "Bielawa Camping Sudety",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:30",
-      "line": "2",
-      "destination": "Bielawa Camping Sudety",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:30",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:27",
-      "line": "2",
-      "destination": "Bielawa Camping Sudety",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:30",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "17:28",
-      "line": "2",
-      "destination": "Bielawa Camping Sudety",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:37",
-      "line": "3",
-      "destination": "Dzierżoniów dworzec PKP",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "07:14",
-      "line": "10",
-      "destination": "Książnica 27",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "14:03",
-      "line": "10",
-      "destination": "Dzierżoniów Os. Zielone",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "16:01",
-      "line": "10",
-      "destination": "Dzierżoniów Piłsudskiego",
       "operating_days": "mon_fri",
       "school_restriction": "school_only"
     }

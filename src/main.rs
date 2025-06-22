@@ -86,6 +86,28 @@ fn suffix_parse(
     }
 }
 
+fn destination_update(original_des: &'_ str) -> &'_ str {
+    let des = original_des.strip_suffix(". Nie kursuje").unwrap_or(original_des);
+    if original_des != des {
+        println!("--Original: '{}', Cleaned: '{}'", original_des, des);
+    }
+
+    match des {
+        "Dzierżoniów Dzierżoniów dworzec  PKP" => "Dzierżoniów Dworzec PKP",
+        "Dzierżoniów Dzierżoniów dworzec PKP" => "Dzierżoniów Dworzec PKP",
+        "Dzierżoniów dworzec  PKP" => "Dzierżoniów Dworzec PKP",
+        "Dzierżoniów dworzec PKP" => "Dzierżoniów Dworzec PKP",
+        "Niemcza dworzec PKP" => "Niemcza Dworzec PKP",
+        "Jodłownik Jodłownik" => "Jodłownik",
+        "Dzierżoniów  Staszica. Nie kursuje" => "Dzierżoniów Staszica",
+        "Byszów 221/81" | "Byszów 221" | "Byszów 221. Nie kursuje" => "Byszów 221",
+        "Owiesno Kościół. Nie kursuje" => "Owiesno Kościół",
+        "Dzierżoniów dworzec PKP. Nie kursuje" => "Dzierżoniów dworzec PKP",
+        "Bielawa Camping Sudety. Nie kursuje" => "Bielawa Camping Sudety",
+        _ => des,
+    }
+}
+
 fn parse_line(line: &str, details: &mut HashMap<String, Vec<StopDetailsBus>>) {
     let mut stop_detail: Vec<StopDetailsBus> = Vec::new();
 
@@ -95,9 +117,40 @@ fn parse_line(line: &str, details: &mut HashMap<String, Vec<StopDetailsBus>>) {
 
     let info = line_info_regex.captures(line).unwrap();
 
-    let line_number = info.name("line_number").unwrap().as_str();
-    let destination = info.name("destination").unwrap().as_str();
-    let id = info.name("id").unwrap().as_str();
+    let line_number = info.name("line_number").unwrap().as_str().trim();
+    let destination = info.name("destination").unwrap().as_str().trim();
+    let stop = info.name("stop").unwrap().as_str().trim();
+    let id = info.name("id").unwrap().as_str().trim();
+
+    let destination = destination_update(destination);
+
+    let id = match stop {
+        "Jędrzejowice" => "5001",
+        _ => id,
+    };
+
+    let id = match id {
+        "337-338" => match destination {
+            "Dzierżoniów Piłsudskiego" => "338",
+            "Książnica 27" => "337",
+            _ => id,
+        },
+        "221" => match destination {
+            "Dobrocin Szkoła" => "5005",
+            _ => id,
+        },
+        "Handlowy" => "5002",
+        "Szkoła" => "5006",
+        "284." => "284",
+        "45." => "45",
+        "I" => "5009",
+        "Kościół" => "5011",
+        "51,53" => "51",
+        "999" => "84",
+        "14-15" => "14",
+        "352-353" => "352",
+        _ => id,
+    };
 
     let legend_regex = unsafe { Regex::new(r"Legenda:\s*(.*?)\s*Operator:").unwrap_unchecked() };
 
@@ -239,7 +292,7 @@ fn check_pdf(pdf: &PathBuf) -> bool {
                     && (c.is_alphanumeric() || c.is_ascii_punctuation() || c.is_whitespace())
             })
             .count();
-        count > (TOTAL as f32 * 0.6f32) as usize
+        count > (TOTAL as f32 * 0.8f32) as usize
     } else {
         false
     }
@@ -314,11 +367,15 @@ async fn main() {
     let pdfs: Vec<PathBuf> = pdfs
         .par_iter()
         .map(|pdf_path| {
-            if !check_pdf(pdf_path) && !ignore_ocr {
+            if !check_pdf(pdf_path) {
                 println!("{} is corrupted", pdf_path.display());
                 let fixed_path = Path::new(TEMP).join(pdf_path.file_name().unwrap());
                 let txt_exist = if !fixed_path.exists() {
-                    run_ocr(pdf_path, &fixed_path)
+                    if !ignore_ocr {
+                        run_ocr(pdf_path, &fixed_path)
+                    } else {
+                        false
+                    }
                 } else {
                     true
                 };
