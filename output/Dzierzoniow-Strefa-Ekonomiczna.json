@@ -94,7 +94,7 @@
     {
       "time": "21:37",
       "line": "15",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -164,14 +164,14 @@
     {
       "time": "13:56",
       "line": "45",
-      "destination": "Dzierżoniów dworzec PKP. Nie kursuje",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
       "time": "21:59",
       "line": "45",
-      "destination": "Dzierżoniów dworzec PKP. Nie kursuje",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -185,7 +185,7 @@
     {
       "time": "05:52",
       "line": "46",
-      "destination": "Dzierżoniów dworzec PKP. Nie kursuje",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },

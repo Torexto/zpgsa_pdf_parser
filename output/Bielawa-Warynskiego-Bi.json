@@ -1,762 +1,4 @@
 {
-  "9": [
-    {
-      "time": "04:48",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "05:05",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "05:20",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "05:42",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "05:57",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "06:05",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "free_day_only"
-    },
-    {
-      "time": "06:17",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "06:36",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:58",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "07:02",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:33",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "free_day_only"
-    },
-    {
-      "time": "07:33",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "08:06",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "08:06",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "free_day_only"
-    },
-    {
-      "time": "08:13",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "08:19",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "08:43",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "09:18",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:10",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:56",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:10",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:41",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:44",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:48",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:12",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:45",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:12",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:12",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:18",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:37",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "free_day_only"
-    },
-    {
-      "time": "16:50",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "17:06",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "17:15",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "17:45",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "17:46",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "free_day_only"
-    },
-    {
-      "time": "18:13",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "18:49",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "19:17",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "20:17",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "21:17",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "21:47",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "22:25",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "22:47",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "05:15",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "05:33",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:17",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:35",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:17",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:47",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:51",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "08:01",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "08:18",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "08:54",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "09:26",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "09:55",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:26",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:55",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "11:26",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "11:55",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:26",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:55",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:26",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:55",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:26",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:55",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:26",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:41",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:15",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:47",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "17:19",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "17:54",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "18:47",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "19:36",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "20:28",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "21:30",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "22:38",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:08",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:06",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "08:33",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:33",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:42",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "11:08",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "11:47",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:11",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:47",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:18",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:47",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:15",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:47",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:17",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:24",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:47",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "17:49",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "17:54",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "18:15",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "18:47",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "19:33",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "20:33",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "21:32",
-      "line": "1",
-      "destination": "Bielawa Nowobielawska",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:46",
-      "line": "3",
-      "destination": "Bielawa Leśny Dworek",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "09:06",
-      "line": "5",
-      "destination": "Jodłownik",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "09:52",
-      "line": "5",
-      "destination": "Jodłownik",
-      "operating_days": "mon_fri",
-      "school_restriction": "free_day_only"
-    },
-    {
-      "time": "09:53",
-      "line": "5",
-      "destination": "Jodłownik",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "12:17",
-      "line": "5",
-      "destination": "Jodłownik",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:55",
-      "line": "5",
-      "destination": "Jodłownik",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:56",
-      "line": "5",
-      "destination": "Jodłownik",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:59",
-      "line": "5",
-      "destination": "Jodłownik",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:02",
-      "line": "5",
-      "destination": "Jodłownik",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    }
-  ],
   "10": [
     {
       "time": "05:05",
@@ -1580,21 +822,21 @@
     {
       "time": "19:09",
       "line": "2",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
       "time": "19:38",
       "line": "2",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
       "time": "20:08",
       "line": "2",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -1622,14 +864,14 @@
     {
       "time": "22:21",
       "line": "2",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
       "time": "22:55",
       "line": "2",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -1650,7 +892,7 @@
     {
       "time": "06:13",
       "line": "2",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -1664,7 +906,7 @@
     {
       "time": "07:18",
       "line": "2",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -1678,7 +920,7 @@
     {
       "time": "08:08",
       "line": "2",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -1755,14 +997,14 @@
     {
       "time": "15:08",
       "line": "2",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "15:38",
       "line": "2",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -1804,7 +1046,7 @@
     {
       "time": "18:35",
       "line": "2",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -1832,7 +1074,7 @@
     {
       "time": "22:08",
       "line": "2",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -1930,7 +1172,7 @@
     {
       "time": "22:11",
       "line": "2",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
@@ -1951,7 +1193,7 @@
     {
       "time": "18:00",
       "line": "3",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
@@ -2009,6 +1251,764 @@
       "line": "60",
       "destination": "Pieszyce Sklep",
       "operating_days": "saturday",
+      "school_restriction": "normal"
+    }
+  ],
+  "9": [
+    {
+      "time": "04:48",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:05",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "05:20",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:42",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:57",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "06:05",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "06:17",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "06:36",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:58",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "07:02",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:33",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "07:33",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "08:06",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "08:06",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "08:13",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "08:19",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "08:43",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:18",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:10",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:56",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:10",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:41",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:44",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:48",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:12",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:45",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:12",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:12",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:18",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:37",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "16:50",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "17:06",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:15",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:45",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "17:46",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "18:13",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:49",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:17",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:17",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:17",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:47",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:25",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:47",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:15",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:33",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:17",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:35",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:17",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:47",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:51",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:01",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:18",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:54",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:26",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:55",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:26",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:55",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:26",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:55",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:26",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:55",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:26",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:55",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:26",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:55",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:26",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:41",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:15",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:47",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:19",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:54",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:47",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:36",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:28",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:30",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:38",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:08",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:06",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:33",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:33",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:42",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:08",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:47",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:11",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:47",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:18",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:47",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:15",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:47",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:17",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:24",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:47",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:49",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:54",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:15",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:47",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:33",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:33",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:32",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:46",
+      "line": "3",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "09:06",
+      "line": "5",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:52",
+      "line": "5",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "09:53",
+      "line": "5",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "12:17",
+      "line": "5",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:55",
+      "line": "5",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:56",
+      "line": "5",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:59",
+      "line": "5",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:02",
+      "line": "5",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
       "school_restriction": "normal"
     }
   ]

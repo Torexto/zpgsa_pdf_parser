@@ -10,14 +10,14 @@
     {
       "time": "13:00",
       "line": "9",
-      "destination": "Byszów 221. Nie kursuje",
+      "destination": "Byszów 221",
       "operating_days": "mon_fri",
       "school_restriction": "school_only"
     },
     {
       "time": "14:50",
       "line": "9",
-      "destination": "Byszów 221. Nie kursuje",
+      "destination": "Byszów 221",
       "operating_days": "mon_fri",
       "school_restriction": "school_only"
     },

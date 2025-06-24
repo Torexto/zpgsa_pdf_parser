@@ -88,10 +88,6 @@ fn suffix_parse(
 
 fn destination_update(original_des: &'_ str) -> &'_ str {
     let des = original_des.strip_suffix(". Nie kursuje").unwrap_or(original_des);
-    if original_des != des {
-        println!("--Original: '{}', Cleaned: '{}'", original_des, des);
-    }
-
     match des {
         "Dzierżoniów Dzierżoniów dworzec  PKP" => "Dzierżoniów Dworzec PKP",
         "Dzierżoniów Dzierżoniów dworzec PKP" => "Dzierżoniów Dworzec PKP",
@@ -174,7 +170,7 @@ fn parse_line(line: &str, details: &mut HashMap<String, Vec<StopDetailsBus>>) {
 
             let reg = unsafe { Regex::new(r"Kurs do:\s*(.*?)(?:\s+przez|$)").unwrap_unchecked() };
             if let Some(v) = reg.captures(&value) {
-                result.insert(label, v.get(1).unwrap().as_str().to_string());
+                result.insert(label, destination_update(v.get(1).unwrap().as_str()).to_string());
             }
         }
         result

@@ -528,14 +528,14 @@
     {
       "time": "07:27",
       "line": "60",
-      "destination": "Bielawa Camping Sudety. Nie kursuje",
+      "destination": "Bielawa Camping Sudety",
       "operating_days": "mon_fri",
       "school_restriction": "free_day_only"
     },
     {
       "time": "07:57",
       "line": "60",
-      "destination": "Bielawa Camping Sudety. Nie kursuje",
+      "destination": "Bielawa Camping Sudety",
       "operating_days": "mon_fri",
       "school_restriction": "school_only"
     },

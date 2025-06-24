@@ -1,76 +1,4 @@
 {
-  "127": [
-    {
-      "time": "05:46",
-      "line": "A",
-      "destination": "Dzierżoniów Staszica",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:22",
-      "line": "B",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "05:48",
-      "line": "2",
-      "destination": "Dzierżoniów Os. Zielone",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:20",
-      "line": "2",
-      "destination": "Bielawa Camping Sudety",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:51",
-      "line": "2",
-      "destination": "Dzierżoniów Os. Zielone",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:51",
-      "line": "2",
-      "destination": "Dzierżoniów Os. Zielone",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "21:51",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "22:25",
-      "line": "2",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:29",
-      "line": "3",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:30",
-      "line": "3",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    }
-  ],
   "126": [
     {
       "time": "05:36",
@@ -137,6 +65,78 @@
     },
     {
       "time": "15:20",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    }
+  ],
+  "127": [
+    {
+      "time": "05:46",
+      "line": "A",
+      "destination": "Dzierżoniów Staszica",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:22",
+      "line": "B",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:48",
+      "line": "2",
+      "destination": "Dzierżoniów Os. Zielone",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:20",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:51",
+      "line": "2",
+      "destination": "Dzierżoniów Os. Zielone",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:51",
+      "line": "2",
+      "destination": "Dzierżoniów Os. Zielone",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:51",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:25",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:29",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:30",
       "line": "3",
       "destination": "Bielawa Pl. Kościelny",
       "operating_days": "mon_fri",

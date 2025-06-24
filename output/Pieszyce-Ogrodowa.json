@@ -1,13 +1,4 @@
 {
-  "142": [
-    {
-      "time": "22:00",
-      "line": "15",
-      "destination": "Pieszyce Mostek",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    }
-  ],
   "143": [
     {
       "time": "05:25",
@@ -117,7 +108,7 @@
     {
       "time": "17:40",
       "line": "60",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -145,7 +136,7 @@
     {
       "time": "22:46",
       "line": "60",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -159,7 +150,7 @@
     {
       "time": "12:23",
       "line": "60",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -194,7 +185,7 @@
     {
       "time": "22:56",
       "line": "60",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -208,7 +199,7 @@
     {
       "time": "12:21",
       "line": "60",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
@@ -222,7 +213,7 @@
     {
       "time": "13:53",
       "line": "60",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
@@ -250,8 +241,17 @@
     {
       "time": "21:23",
       "line": "60",
-      "destination": "Dzierżoniów dworzec PKP",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "sunday",
+      "school_restriction": "normal"
+    }
+  ],
+  "142": [
+    {
+      "time": "22:00",
+      "line": "15",
+      "destination": "Pieszyce Mostek",
+      "operating_days": "mon_fri",
       "school_restriction": "normal"
     }
   ]

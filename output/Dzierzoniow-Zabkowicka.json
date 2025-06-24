@@ -136,21 +136,21 @@
     {
       "time": "07:39",
       "line": "9",
-      "destination": "Piława Dolna Szkoła. Nie kursuje",
+      "destination": "Piława Dolna Szkoła",
       "operating_days": "mon_fri",
       "school_restriction": "school_only"
     },
     {
       "time": "12:56",
       "line": "9",
-      "destination": "Byszów 221. Nie kursuje",
+      "destination": "Byszów 221",
       "operating_days": "mon_fri",
       "school_restriction": "school_only"
     },
     {
       "time": "14:46",
       "line": "9",
-      "destination": "Byszów 221. Nie kursuje",
+      "destination": "Byszów 221",
       "operating_days": "mon_fri",
       "school_restriction": "school_only"
     },
@@ -521,7 +521,7 @@
     {
       "time": "05:08",
       "line": "36",
-      "destination": "Niemcza dworzec PKP",
+      "destination": "Niemcza Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -570,7 +570,7 @@
     {
       "time": "05:07",
       "line": "36",
-      "destination": "Niemcza dworzec PKP",
+      "destination": "Niemcza Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -598,7 +598,7 @@
     {
       "time": "05:07",
       "line": "36",
-      "destination": "Niemcza dworzec PKP",
+      "destination": "Niemcza Dworzec PKP",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },

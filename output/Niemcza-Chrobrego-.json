@@ -17,7 +17,7 @@
     {
       "time": "05:43",
       "line": "36",
-      "destination": "Niemcza dworzec PKP",
+      "destination": "Niemcza Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -66,7 +66,7 @@
     {
       "time": "05:42",
       "line": "36",
-      "destination": "Niemcza dworzec PKP",
+      "destination": "Niemcza Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -94,7 +94,7 @@
     {
       "time": "05:42",
       "line": "36",
-      "destination": "Niemcza dworzec PKP",
+      "destination": "Niemcza Dworzec PKP",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },

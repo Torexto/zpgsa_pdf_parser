@@ -243,14 +243,14 @@
     {
       "time": "12:58",
       "line": "9",
-      "destination": "Byszów 221. Nie kursuje",
+      "destination": "Byszów 221",
       "operating_days": "mon_fri",
       "school_restriction": "school_only"
     },
     {
       "time": "14:48",
       "line": "9",
-      "destination": "Byszów 221. Nie kursuje",
+      "destination": "Byszów 221",
       "operating_days": "mon_fri",
       "school_restriction": "school_only"
     },
