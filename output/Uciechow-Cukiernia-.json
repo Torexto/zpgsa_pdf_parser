@@ -1,27 +1,4 @@
 {
-  "348": [
-    {
-      "time": "07:06",
-      "line": "4",
-      "destination": "Uciechów 57",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "13:48",
-      "line": "4",
-      "destination": "Uciechów 57",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "15:46",
-      "line": "4",
-      "destination": "Uciechów 57",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    }
-  ],
   "349": [
     {
       "time": "07:12",
@@ -41,6 +18,29 @@
       "time": "15:52",
       "line": "10",
       "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    }
+  ],
+  "348": [
+    {
+      "time": "07:06",
+      "line": "4",
+      "destination": "Uciechów 57",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "13:48",
+      "line": "4",
+      "destination": "Uciechów 57",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "15:46",
+      "line": "4",
+      "destination": "Uciechów 57",
       "operating_days": "mon_fri",
       "school_restriction": "school_only"
     }

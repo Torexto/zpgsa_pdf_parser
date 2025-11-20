@@ -145,7 +145,7 @@ fn parse_line(line: &str, details: &mut HashMap<String, Vec<StopDetailsBus>>) {
         "999" => "84",
         "14-15" => "14",
         "352-353" => "352",
-        "(hotel)" => "6000",
+        "(hotel)" => "5012",
         _ => id,
     };
 
