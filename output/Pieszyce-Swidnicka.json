@@ -1,1 +1,410 @@
-{}
+{
+  "183": [
+    {
+      "time": "04:48",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:05",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:42",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:09",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:55",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:25",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:05",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:35",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:15",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:45",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:35",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:55",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:05",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:45",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:25",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:12",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:45",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:25",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:55",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:40",
+      "line": "15",
+      "destination": "Pieszyce Mostek",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:15",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:30",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:51",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:30",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "04:45",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:06",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:16",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:29",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:07",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:52",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:22",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:37",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:22",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:52",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:36",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:49",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:57",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:21",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:43",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:18",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:37",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:27",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:42",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:25",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:05",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:40",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:54",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:54",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:54",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:17",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:42",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:44",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:49",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:54",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:59",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:22",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:09",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:49",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    }
+  ]
+}

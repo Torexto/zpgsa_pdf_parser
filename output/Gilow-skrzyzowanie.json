@@ -1,216 +1,4 @@
 {
-  "266": [
-    {
-      "time": "04:36",
-      "line": "45",
-      "destination": "Niemcza Remiza",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:44",
-      "line": "45",
-      "destination": "Niemcza Remiza",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "07:38",
-      "line": "45",
-      "destination": "Niemcza Remiza",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "08:39",
-      "line": "45",
-      "destination": "Niemcza Remiza",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "11:39",
-      "line": "45",
-      "destination": "Niemcza Remiza",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:51",
-      "line": "45",
-      "destination": "Niemcza Remiza",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:16",
-      "line": "45",
-      "destination": "Podlesie",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "18:45",
-      "line": "45",
-      "destination": "Niemcza Remiza",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "20:38",
-      "line": "45",
-      "destination": "Niemcza Remiza",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "23:08",
-      "line": "45",
-      "destination": "Niemcza Remiza",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:50",
-      "line": "45",
-      "destination": "Niemcza Remiza",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "08:48",
-      "line": "45",
-      "destination": "Niemcza Remiza",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:50",
-      "line": "45",
-      "destination": "Niemcza Remiza",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:50",
-      "line": "45",
-      "destination": "Niemcza Remiza",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "18:48",
-      "line": "45",
-      "destination": "Niemcza Remiza",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "20:48",
-      "line": "45",
-      "destination": "Niemcza Remiza",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:50",
-      "line": "45",
-      "destination": "Niemcza Remiza",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "18:48",
-      "line": "45",
-      "destination": "Niemcza Remiza",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "20:48",
-      "line": "45",
-      "destination": "Niemcza Remiza",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:05",
-      "line": "46",
-      "destination": "Gola Dzierżoniowska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:03",
-      "line": "46",
-      "destination": "Gola Dzierżoniowska",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:41",
-      "line": "46",
-      "destination": "Niemcza Remiza",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:04",
-      "line": "46",
-      "destination": "Niemcza Remiza",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:56",
-      "line": "46",
-      "destination": "Niemcza Remiza",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:50",
-      "line": "46",
-      "destination": "Niemcza Remiza",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:50",
-      "line": "46",
-      "destination": "Niemcza Remiza",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:20",
-      "line": "46",
-      "destination": "Niemcza Remiza",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:50",
-      "line": "46",
-      "destination": "Niemcza Remiza",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:32",
-      "line": "49",
-      "destination": "Kietlin",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:45",
-      "line": "49",
-      "destination": "Kietlin",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    }
-  ],
   "265": [
     {
       "time": "09:11",
@@ -419,6 +207,218 @@
       "time": "16:32",
       "line": "51",
       "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    }
+  ],
+  "266": [
+    {
+      "time": "04:36",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:44",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "07:38",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:39",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:39",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:51",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:16",
+      "line": "45",
+      "destination": "Podlesie",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "18:45",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "20:38",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "23:08",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:50",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:48",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:50",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:50",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:48",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:48",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:50",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:48",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:48",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:05",
+      "line": "46",
+      "destination": "Gola Dzierżoniowska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:03",
+      "line": "46",
+      "destination": "Gola Dzierżoniowska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:41",
+      "line": "46",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:04",
+      "line": "46",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:56",
+      "line": "46",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:50",
+      "line": "46",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:50",
+      "line": "46",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:20",
+      "line": "46",
+      "destination": "Niemcza Remiza",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:50",
+      "line": "46",
+      "destination": "Niemcza Remiza",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:32",
+      "line": "49",
+      "destination": "Kietlin",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:45",
+      "line": "49",
+      "destination": "Kietlin",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     }

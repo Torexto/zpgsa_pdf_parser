@@ -1,154 +1,7 @@
 {
-  "85": [
+  "87": [
     {
-      "time": "05:26",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "05:53",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:39",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:09",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:49",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "08:19",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "08:59",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "09:29",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:19",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:39",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "11:49",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:29",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:09",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:56",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:19",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:09",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:39",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:24",
-      "line": "15",
-      "destination": "Pieszyce Mostek",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:59",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "18:14",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "20:35",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "22:13",
+      "time": "05:24",
       "line": "15",
       "destination": "Kamionki III",
       "operating_days": "mon_fri",
@@ -158,398 +11,524 @@
       "time": "05:51",
       "line": "15",
       "destination": "Kamionki III",
-      "operating_days": "saturday",
+      "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
-      "time": "07:01",
+      "time": "06:37",
       "line": "15",
       "destination": "Kamionki III",
-      "operating_days": "saturday",
+      "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
-      "time": "08:14",
+      "time": "07:07",
       "line": "15",
       "destination": "Kamionki III",
-      "operating_days": "saturday",
+      "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
-      "time": "09:52",
+      "time": "07:47",
       "line": "15",
       "destination": "Kamionki III",
-      "operating_days": "saturday",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:17",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:57",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:27",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:17",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
       "time": "10:37",
       "line": "15",
       "destination": "Kamionki III",
-      "operating_days": "saturday",
+      "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
-      "time": "11:07",
+      "time": "11:32",
       "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "saturday",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
-      "time": "12:22",
+      "time": "11:47",
       "line": "15",
       "destination": "Kamionki III",
-      "operating_days": "saturday",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:27",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
       "time": "13:07",
       "line": "15",
       "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:54",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:17",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:07",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:37",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:22",
+      "line": "15",
+      "destination": "Pieszyce Mostek",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:57",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:20",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:12",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:23",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:33",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:58",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:11",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:36",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:37",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
-      "time": "13:37",
+      "time": "05:49",
       "line": "15",
       "destination": "Kamionki III",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
-      "time": "15:21",
+      "time": "06:59",
       "line": "15",
       "destination": "Kamionki III",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
-      "time": "16:34",
+      "time": "08:12",
       "line": "15",
       "destination": "Kamionki III",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
-      "time": "18:42",
+      "time": "09:24",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:50",
       "line": "15",
       "destination": "Kamionki III",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
-      "time": "22:09",
+      "time": "10:35",
       "line": "15",
       "destination": "Kamionki III",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
-      "time": "06:31",
+      "time": "11:05",
       "line": "15",
       "destination": "Kamionki III",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "08:06",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "09:22",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:12",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:27",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "19:10",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "21:50",
-      "line": "15",
-      "destination": "Kamionki III",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "05:32",
-      "line": "21",
-      "destination": "Dzierżoniów ul.Strefowa",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:46",
-      "line": "21",
-      "destination": "Rościszów IV",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:48",
-      "line": "21",
-      "destination": "Rościszów IV",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:15",
-      "line": "21",
-      "destination": "Rościszów IV",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:32",
-      "line": "21",
-      "destination": "Rościszów IV",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:45",
-      "line": "21",
-      "destination": "Rościszów IV",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:46",
-      "line": "21",
-      "destination": "Rościszów IV",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:50",
-      "line": "21",
-      "destination": "Rościszów IV",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "18:16",
-      "line": "21",
-      "destination": "Rościszów IV",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "19:36",
-      "line": "21",
-      "destination": "Rościszów IV",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "22:18",
-      "line": "21",
-      "destination": "Rościszów IV",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:49",
-      "line": "21",
-      "destination": "Rościszów IV",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
-      "time": "07:49",
-      "line": "21",
-      "destination": "Rościszów IV",
+      "time": "11:47",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
-      "time": "10:31",
-      "line": "21",
-      "destination": "Rościszów IV",
+      "time": "12:20",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:05",
+      "line": "15",
+      "destination": "Kamionki III",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "13:35",
-      "line": "21",
-      "destination": "Rościszów IV",
+      "line": "15",
+      "destination": "Kamionki III",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
-      "time": "15:35",
-      "line": "21",
-      "destination": "Rościszów IV",
+      "time": "14:47",
+      "line": "15",
+      "destination": "Kamionki III",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
-      "time": "17:09",
-      "line": "21",
-      "destination": "Rościszów IV",
+      "time": "15:19",
+      "line": "15",
+      "destination": "Kamionki III",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
-      "time": "21:10",
-      "line": "21",
-      "destination": "Rościszów IV",
+      "time": "16:32",
+      "line": "15",
+      "destination": "Kamionki III",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
-      "time": "07:49",
-      "line": "21",
-      "destination": "Rościszów IV",
+      "time": "17:42",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:40",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:49",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:07",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:29",
+      "line": "15",
+      "destination": "Kamionki III",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
     {
-      "time": "09:06",
-      "line": "21",
-      "destination": "Rościszów IV",
+      "time": "07:37",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
     {
-      "time": "10:21",
-      "line": "21",
-      "destination": "Rościszów IV",
+      "time": "08:04",
+      "line": "15",
+      "destination": "Kamionki III",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
     {
-      "time": "13:09",
-      "line": "21",
-      "destination": "Rościszów IV",
+      "time": "09:20",
+      "line": "15",
+      "destination": "Kamionki III",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
     {
-      "time": "17:09",
-      "line": "21",
-      "destination": "Rościszów IV",
+      "time": "10:29",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
     {
-      "time": "21:09",
-      "line": "21",
-      "destination": "Rościszów IV",
+      "time": "13:10",
+      "line": "15",
+      "destination": "Kamionki III",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
     {
-      "time": "05:24",
+      "time": "14:22",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:25",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:42",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:08",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:25",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:48",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:22",
       "line": "22",
       "destination": "Bratoszów II",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
-      "time": "06:41",
+      "time": "06:23",
+      "line": "22",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:39",
       "line": "22",
       "destination": "Bratoszów II",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
-      "time": "07:38",
+      "time": "07:36",
       "line": "22",
       "destination": "Bratoszów II",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
-      "time": "08:38",
+      "time": "08:36",
       "line": "22",
       "destination": "Bratoszów II",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
-      "time": "11:04",
+      "time": "09:48",
+      "line": "22",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:02",
       "line": "22",
       "destination": "Bratoszów II",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
-      "time": "12:29",
+      "time": "11:59",
+      "line": "22",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:27",
       "line": "22",
       "destination": "Bratoszów II",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
-      "time": "13:28",
+      "time": "13:26",
       "line": "22",
       "destination": "Bratoszów II",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
-      "time": "14:33",
+      "time": "14:31",
       "line": "22",
       "destination": "Bratoszów II",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
-      "time": "15:38",
+      "time": "15:36",
       "line": "22",
       "destination": "Bratoszów II",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
-      "time": "16:43",
+      "time": "16:41",
       "line": "22",
       "destination": "Bratoszów II",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
-      "time": "18:09",
+      "time": "17:41",
+      "line": "22",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:07",
       "line": "22",
       "destination": "Bratoszów II",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
-      "time": "08:57",
+      "time": "08:55",
       "line": "22",
       "destination": "Bratoszów II",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
-      "time": "11:34",
+      "time": "11:32",
       "line": "22",
       "destination": "Bratoszów II",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:33",
+      "line": "22",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     }

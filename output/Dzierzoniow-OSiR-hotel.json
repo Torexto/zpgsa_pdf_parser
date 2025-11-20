@@ -1,0 +1,74 @@
+{
+  "6000": [
+    {
+      "time": "17:12",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:25",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:17",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:52",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:47",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:43",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:22",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:10",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:10",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:15",
+      "line": "46",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    }
+  ]
+}

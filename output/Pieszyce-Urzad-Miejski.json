@@ -1,4 +1,505 @@
 {
+  "145": [
+    {
+      "time": "05:23",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:19",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:49",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:29",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:59",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:39",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:09",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:59",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:19",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:14",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:29",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:49",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:26",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:59",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:49",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:19",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:04",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:39",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:02",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:54",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:05",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:30",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:18",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "23:04",
+      "line": "15",
+      "destination": "Dzierżoniów Batalionów Chłopskich",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:19",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:41",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:54",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:06",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:47",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:29",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:02",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:17",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:29",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:01",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:14",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:24",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:31",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:55",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:19",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:02",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:11",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:04",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:24",
+      "line": "15",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:07",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:39",
+      "line": "15",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    }
+  ],
+  "168": [
+    {
+      "time": "05:12",
+      "line": "21",
+      "destination": "Dzierżoniów ul.Strefowa",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:26",
+      "line": "21",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:28",
+      "line": "21",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:40",
+      "line": "21",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:06",
+      "line": "21",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:13",
+      "line": "21",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:26",
+      "line": "21",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:30",
+      "line": "21",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:35",
+      "line": "21",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:16",
+      "line": "21",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:21",
+      "line": "21",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "23:08",
+      "line": "21",
+      "destination": "Dzierżoniów Batalionów Chłopskich",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:26",
+      "line": "21",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:29",
+      "line": "21",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:52",
+      "line": "21",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:11",
+      "line": "21",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:21",
+      "line": "21",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:49",
+      "line": "21",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:07",
+      "line": "21",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:06",
+      "line": "21",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:46",
+      "line": "21",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:01",
+      "line": "21",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:21",
+      "line": "21",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:06",
+      "line": "21",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:06",
+      "line": "21",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:06",
+      "line": "21",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    }
+  ],
   "167": [
     {
       "time": "04:49",
@@ -183,752 +684,6 @@
       "school_restriction": "normal"
     }
   ],
-  "145": [
-    {
-      "time": "05:23",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:19",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:49",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:29",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:59",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "08:39",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "09:09",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "09:59",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:19",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "11:14",
-      "line": "15",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "11:29",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:49",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:26",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:59",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:49",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:19",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:04",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:39",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "17:02",
-      "line": "15",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "17:54",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "19:05",
-      "line": "15",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "21:30",
-      "line": "15",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "22:18",
-      "line": "15",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "23:04",
-      "line": "15",
-      "destination": "Dzierżoniów Batalionów Chłopskich",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "05:19",
-      "line": "15",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:41",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:54",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "09:06",
-      "line": "15",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:47",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "11:29",
-      "line": "15",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:02",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:17",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:29",
-      "line": "15",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:01",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:14",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "17:24",
-      "line": "15",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "19:31",
-      "line": "15",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "22:55",
-      "line": "15",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:19",
-      "line": "15",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "09:02",
-      "line": "15",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:11",
-      "line": "15",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:04",
-      "line": "15",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "17:24",
-      "line": "15",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "20:07",
-      "line": "15",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "22:39",
-      "line": "15",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "05:23",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "05:58",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:32",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:06",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "07:08",
-      "line": "60",
-      "destination": "Bielawa Camping Sudety",
-      "operating_days": "mon_fri",
-      "school_restriction": "free_day_only"
-    },
-    {
-      "time": "07:38",
-      "line": "60",
-      "destination": "Bielawa Camping Sudety",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "08:16",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:38",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:11",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:39",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:15",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:43",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:19",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:49",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:45",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "17:38",
-      "line": "60",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "19:21",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "20:36",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "21:31",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "22:44",
-      "line": "60",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:38",
-      "line": "60",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:21",
-      "line": "60",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:13",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:13",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:13",
-      "line": "60",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "19:08",
-      "line": "60",
-      "destination": "Bielawa Słowiańska",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "22:54",
-      "line": "60",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "09:16",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:19",
-      "line": "60",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:53",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:51",
-      "line": "60",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:23",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:23",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "18:23",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "21:21",
-      "line": "60",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    }
-  ],
-  "168": [
-    {
-      "time": "05:12",
-      "line": "21",
-      "destination": "Dzierżoniów ul.Strefowa",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:26",
-      "line": "21",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:28",
-      "line": "21",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "08:40",
-      "line": "21",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "11:06",
-      "line": "21",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:13",
-      "line": "21",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:26",
-      "line": "21",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:30",
-      "line": "21",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:35",
-      "line": "21",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "19:16",
-      "line": "21",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "20:21",
-      "line": "21",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "23:08",
-      "line": "21",
-      "destination": "Dzierżoniów Batalionów Chłopskich",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "05:26",
-      "line": "21",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:29",
-      "line": "21",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "08:52",
-      "line": "21",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "11:11",
-      "line": "21",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:21",
-      "line": "21",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:49",
-      "line": "21",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "18:07",
-      "line": "21",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "22:06",
-      "line": "21",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "08:46",
-      "line": "21",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:01",
-      "line": "21",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "11:21",
-      "line": "21",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:06",
-      "line": "21",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "18:06",
-      "line": "21",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "22:06",
-      "line": "21",
-      "destination": "Dzierżoniów Dworzec PKP",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    }
-  ],
   "144": [
     {
       "time": "04:53",
@@ -1059,7 +814,7 @@
     {
       "time": "16:45",
       "line": "15",
-      "destination": "Pieszyce Mostek",
+      "destination": "Pieszyce Mostek ZPGSA Rozkład ważny od 22.11.2025 do 28.02.2025",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -1087,7 +842,7 @@
     {
       "time": "22:01",
       "line": "15",
-      "destination": "Pieszyce Mostek",
+      "destination": "Pieszyce Mostek ZPGSA Rozkład ważny od 22.11.2025 do 28.02.2025",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },

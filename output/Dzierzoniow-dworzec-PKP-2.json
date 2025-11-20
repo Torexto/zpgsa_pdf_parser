@@ -1,0 +1,2986 @@
+{
+  "81": [
+    {
+      "time": "06:27",
+      "line": "B",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:42",
+      "line": "B",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:10",
+      "line": "B",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:11",
+      "line": "B",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:11",
+      "line": "B",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:11",
+      "line": "B",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:15",
+      "line": "B",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:11",
+      "line": "B",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:28",
+      "line": "B",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:41",
+      "line": "B",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:41",
+      "line": "B",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:10",
+      "line": "B",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:40",
+      "line": "B",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:11",
+      "line": "B",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:11",
+      "line": "B",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:11",
+      "line": "B",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:11",
+      "line": "B",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:11",
+      "line": "B",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:41",
+      "line": "B",
+      "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:22",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:37",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "05:45",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "05:57",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "06:16",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:38",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "06:42",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:13",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "07:13",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "07:46",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "07:46",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "07:53",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "07:59",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "08:23",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:58",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:50",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:36",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:50",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:21",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:24",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:28",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:52",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:25",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:52",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:52",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:58",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:17",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "16:30",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "16:46",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:55",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:25",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "17:26",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "17:53",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:29",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:57",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:57",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:57",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:27",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:05",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:27",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "04:55",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:13",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:57",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:15",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:57",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:26",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:57",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:33",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:05",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:34",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:05",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:34",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:05",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:34",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:05",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:34",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:05",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:34",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:05",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:34",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:05",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:21",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:55",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:27",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:59",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:34",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:27",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:16",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:08",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:10",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:18",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:48",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:46",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:13",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:13",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:22",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:48",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:27",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:51",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:27",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:58",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:27",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:55",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:27",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:57",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:04",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:27",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:34",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:55",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:27",
+      "line": "1",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:13",
+      "line": "1",
+      "destination": "Jodłownik",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:13",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:12",
+      "line": "1",
+      "destination": "Bielawa Nowobielawska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "04:36",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:07",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:37",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:26",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:48",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:12",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:07",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:37",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:37",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:34",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:07",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:37",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:11",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:38",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:38",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:12",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "14:15",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "14:38",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:08",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:38",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:34",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:37",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:07",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:37",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:07",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:37",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:07",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:37",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:06",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:56",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:30",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "04:37",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:07",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:36",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:07",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:37",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:07",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:37",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:07",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:37",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:07",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:07",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:07",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:10",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:37",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:07",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:37",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:10",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:37",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:07",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:37",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:07",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:36",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:09",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:36",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:06",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:36",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:38",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:36",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:36",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:37",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:36",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:36",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:49",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:04",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:36",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:37",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:37",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:34",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:37",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:35",
+      "line": "2",
+      "destination": "Bielawa Camping Sudety",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:36",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:36",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:36",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:00",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:17",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "06:17",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "06:25",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "06:58",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:24",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "07:24",
+      "line": "3",
+      "destination": "Bielawa Leśny Dworek",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "07:58",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:31",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "08:31",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "08:39",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "08:39",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "09:56",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:30",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:32",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:58",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:32",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "13:58",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:32",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "14:35",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:58",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:36",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:53",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:01",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:27",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:21",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:20",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:25",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:21",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:12",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:40",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:11",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:51",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:11",
+      "line": "3",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:46",
+      "line": "5",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:32",
+      "line": "5",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "09:33",
+      "line": "5",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "11:57",
+      "line": "5",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:35",
+      "line": "5",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:36",
+      "line": "5",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:39",
+      "line": "5",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:42",
+      "line": "5",
+      "destination": "Jodłownik",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:17",
+      "line": "6",
+      "destination": "Ostroszowice Ośrodek zdrowia",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:42",
+      "line": "6",
+      "destination": "Ostroszowice Ośrodek zdrowia",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "05:46",
+      "line": "6",
+      "destination": "Ostroszowice Ośrodek zdrowia",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "05:47",
+      "line": "6",
+      "destination": "Jemna",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "06:36",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:01",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:58",
+      "line": "6",
+      "destination": "Rudnica III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:14",
+      "line": "6",
+      "destination": "Ostroszowice Ośrodek zdrowia",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:03",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:04",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:05",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:28",
+      "line": "6",
+      "destination": "Jemna",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "14:32",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:06",
+      "line": "6",
+      "destination": "Rudnica III",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "15:06",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "16:04",
+      "line": "6",
+      "destination": "Ostroszowice Ośrodek zdrowia",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:17",
+      "line": "6",
+      "destination": "Rudnica III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:24",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:42",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:15",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:47",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:27",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:10",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:52",
+      "line": "6",
+      "destination": "Ostroszowice Ośrodek zdrowia",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:52",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:52",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:52",
+      "line": "6",
+      "destination": "Ostroszowice Ośrodek zdrowia",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:52",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:34",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:42",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:42",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:04",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:24",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:32",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:32",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:27",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:34",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:42",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:42",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:34",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:04",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "04:29",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "04:46",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:28",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:55",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:41",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:11",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:51",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:21",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:01",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:31",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:21",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:41",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:51",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:15",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:31",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:11",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:58",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:21",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:11",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:41",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:26",
+      "line": "15",
+      "destination": "Pieszyce Mostek",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:01",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:21",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:16",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:21",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:37",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:45",
+      "line": "15",
+      "destination": "Pieszyce Mostek",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:59",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "04:31",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:38",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:53",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:03",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:16",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:54",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:24",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:39",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:09",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:24",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:54",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:09",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:39",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:48",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:23",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:36",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:43",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:29",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:44",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:56",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:18",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:53",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:24",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:59",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:14",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:14",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:29",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:43",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:57",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:12",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:37",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:52",
+      "line": "15",
+      "destination": "Kamionki III",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:26",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:27",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:40",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:40",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:50",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:15",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:30",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:35",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:40",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:45",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:55",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:44",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:36",
+      "line": "22",
+      "destination": "Bratoszów II",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:26",
+      "line": "30",
+      "destination": "Przerzeczyn Zdrój",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:00",
+      "line": "30",
+      "destination": "Przerzeczyn Zdrój",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:39",
+      "line": "30",
+      "destination": "Podlesie",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:34",
+      "line": "30",
+      "destination": "Przerzeczyn Zdrój",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:26",
+      "line": "30",
+      "destination": "Przerzeczyn Zdrój",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:26",
+      "line": "30",
+      "destination": "Przerzeczyn Zdrój",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:26",
+      "line": "30",
+      "destination": "Przerzeczyn Zdrój",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:26",
+      "line": "30",
+      "destination": "Przerzeczyn Zdrój",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:26",
+      "line": "30",
+      "destination": "Przerzeczyn Zdrój",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:26",
+      "line": "30",
+      "destination": "Przerzeczyn Zdrój",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:26",
+      "line": "30",
+      "destination": "Przerzeczyn Zdrój",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:06",
+      "line": "31",
+      "destination": "Piława Górna Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "06:55",
+      "line": "31",
+      "destination": "Piława Górna Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "08:56",
+      "line": "31",
+      "destination": "Piława Górna Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:26",
+      "line": "31",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "12:56",
+      "line": "31",
+      "destination": "Piława Górna Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:26",
+      "line": "31",
+      "destination": "Piława Górna Kopanica",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "16:26",
+      "line": "31",
+      "destination": "Piława Górna Kopanica",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:56",
+      "line": "31",
+      "destination": "Piława Górna Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:56",
+      "line": "31",
+      "destination": "Piława Górna Dworzec PKP",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:26",
+      "line": "31",
+      "destination": "Kośmin",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:26",
+      "line": "31",
+      "destination": "Piława Górna Dworzec PKP",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:26",
+      "line": "31",
+      "destination": "Piława Górna Dworzec PKP",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:26",
+      "line": "31",
+      "destination": "Piława Górna Dworzec PKP",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:11",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:25",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "06:31",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "07:58",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:56",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:26",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:05",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:06",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:56",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:26",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:29",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:26",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "04:41",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:26",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:26",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:26",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:26",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:26",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:26",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:26",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:26",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:26",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:26",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:26",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:26",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:26",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "03:59",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "04:56",
+      "line": "36",
+      "destination": "Niemcza Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:19",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:46",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "06:53",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "14:34",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:26",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:11",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "04:56",
+      "line": "36",
+      "destination": "Niemcza Dworzec PKP",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:26",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:26",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:11",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "04:56",
+      "line": "36",
+      "destination": "Niemcza Dworzec PKP",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:25",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:25",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:11",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:09",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "07:03",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:04",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:04",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:16",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:41",
+      "line": "45",
+      "destination": "Podlesie",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "18:10",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "20:03",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:16",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:16",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:14",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:16",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:16",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:14",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:14",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:16",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:14",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:14",
+      "line": "45",
+      "destination": "Niemcza Remiza",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    }
+  ]
+}

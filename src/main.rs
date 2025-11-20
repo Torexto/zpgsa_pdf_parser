@@ -145,6 +145,7 @@ fn parse_line(line: &str, details: &mut HashMap<String, Vec<StopDetailsBus>>) {
         "999" => "84",
         "14-15" => "14",
         "352-353" => "352",
+        "(hotel)" => "6000",
         _ => id,
     };
 
@@ -340,6 +341,7 @@ async fn main() {
     if clear {
         let clear_start = Instant::now();
         println!("Clearing directories...");
+        clear_dir(SOURCE).unwrap();
         clear_dir(OUTPUT).unwrap();
         clear_dir(TEMP).unwrap();
         println!("Clear done in {:.2?}\n", clear_start.elapsed());
@@ -401,7 +403,9 @@ async fn main() {
     );
     println!("\nParse done in {:.2?}\n", parse_start.elapsed());
 
+    let sorted: std::collections::BTreeMap<_, _> = result.into_iter().collect();
+
     if let Ok(json_file) = File::create("./output.json") {
-        serde_json::to_writer_pretty(json_file, &result).unwrap();
+        serde_json::to_writer_pretty(json_file, &sorted).unwrap();
     }
 }

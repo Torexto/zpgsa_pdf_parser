@@ -253,6 +253,111 @@
       "destination": "Pieszyce Mostek",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
+    },
+    {
+      "time": "05:51",
+      "line": "15",
+      "destination": "Pieszyce Mostek",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:54",
+      "line": "15",
+      "destination": "Pieszyce Mostek",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:56",
+      "line": "15",
+      "destination": "Pieszyce Mostek",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:59",
+      "line": "15",
+      "destination": "Pieszyce Mostek",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:54",
+      "line": "15",
+      "destination": "Pieszyce Mostek",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:51",
+      "line": "15",
+      "destination": "Pieszyce Mostek",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:39",
+      "line": "15",
+      "destination": "Pieszyce Mostek",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:49",
+      "line": "15",
+      "destination": "Pieszyce Mostek",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:04",
+      "line": "15",
+      "destination": "Pieszyce Mostek",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:42",
+      "line": "15",
+      "destination": "Pieszyce Mostek",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:34",
+      "line": "15",
+      "destination": "Pieszyce Mostek",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:12",
+      "line": "15",
+      "destination": "Pieszyce Mostek",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:06",
+      "line": "15",
+      "destination": "Pieszyce Mostek",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:04",
+      "line": "15",
+      "destination": "Pieszyce Mostek",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:04",
+      "line": "15",
+      "destination": "Pieszyce Mostek",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
     }
   ]
 }

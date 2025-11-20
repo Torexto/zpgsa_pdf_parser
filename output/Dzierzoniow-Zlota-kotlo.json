@@ -141,6 +141,13 @@
       "school_restriction": "normal"
     },
     {
+      "time": "15:43",
+      "line": "2",
+      "destination": "Bielawa Słowiańska",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
       "time": "16:21",
       "line": "2",
       "destination": "Bielawa Camping Sudety",

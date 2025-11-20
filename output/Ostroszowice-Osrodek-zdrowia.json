@@ -1,4 +1,272 @@
 {
+  "232": [
+    {
+      "time": "04:14",
+      "line": "6",
+      "destination": "Jemna",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "04:32",
+      "line": "6",
+      "destination": "Rudnica III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "04:40",
+      "line": "6",
+      "destination": "Rudnica III",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "06:36",
+      "line": "6",
+      "destination": "Jemna",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "07:06",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:31",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:28",
+      "line": "6",
+      "destination": "Rudnica III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:33",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:32",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:33",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:00",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:15",
+      "line": "6",
+      "destination": "Jemna",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "15:34",
+      "line": "6",
+      "destination": "Rudnica III",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "15:34",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "17:47",
+      "line": "6",
+      "destination": "Rudnica III",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:54",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:15",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "23:02",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:18",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:59",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:42",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:24",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:24",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:24",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:21",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:29",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:15",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:51",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:55",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "09:03",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:19",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:00",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:21",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:29",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:29",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:05",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:51",
+      "line": "6",
+      "destination": "Grodziszcze Sklep",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:32",
+      "line": "8",
+      "destination": "Owiesno Kościół",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    }
+  ],
   "233": [
     {
       "time": "04:54",
@@ -310,274 +578,6 @@
     },
     {
       "time": "14:40",
-      "line": "8",
-      "destination": "Owiesno Kościół",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    }
-  ],
-  "232": [
-    {
-      "time": "04:14",
-      "line": "6",
-      "destination": "Jemna",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "04:32",
-      "line": "6",
-      "destination": "Rudnica III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "04:40",
-      "line": "6",
-      "destination": "Rudnica III",
-      "operating_days": "mon_fri",
-      "school_restriction": "free_day_only"
-    },
-    {
-      "time": "06:36",
-      "line": "6",
-      "destination": "Jemna",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "07:06",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:31",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "08:28",
-      "line": "6",
-      "destination": "Rudnica III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:33",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:32",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:33",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:00",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:15",
-      "line": "6",
-      "destination": "Jemna",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "15:34",
-      "line": "6",
-      "destination": "Rudnica III",
-      "operating_days": "mon_fri",
-      "school_restriction": "free_day_only"
-    },
-    {
-      "time": "15:34",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "17:47",
-      "line": "6",
-      "destination": "Rudnica III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "19:54",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "21:15",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "23:02",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:18",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:59",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "08:42",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:24",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:24",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:24",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "17:21",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "19:29",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "21:15",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "22:51",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:55",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "09:03",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "11:19",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:00",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:21",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "17:29",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "19:29",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "21:05",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "22:51",
-      "line": "6",
-      "destination": "Grodziszcze Sklep",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:32",
       "line": "8",
       "destination": "Owiesno Kościół",
       "operating_days": "mon_fri",

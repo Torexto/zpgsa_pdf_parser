@@ -1,503 +1,4 @@
 {
-  "193": [
-    {
-      "time": "12:45",
-      "line": "9",
-      "destination": "Piława Dolna Szkoła",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "14:35",
-      "line": "9",
-      "destination": "Piława Dolna Szkoła",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "08:45",
-      "line": "30",
-      "destination": "Przerzeczyn Zdrój",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:19",
-      "line": "30",
-      "destination": "Przerzeczyn Zdrój",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:58",
-      "line": "30",
-      "destination": "Podlesie",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "22:53",
-      "line": "30",
-      "destination": "Przerzeczyn Zdrój",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:44",
-      "line": "30",
-      "destination": "Przerzeczyn Zdrój",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "11:44",
-      "line": "30",
-      "destination": "Przerzeczyn Zdrój",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "18:44",
-      "line": "30",
-      "destination": "Przerzeczyn Zdrój",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "22:44",
-      "line": "30",
-      "destination": "Przerzeczyn Zdrój",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:44",
-      "line": "30",
-      "destination": "Przerzeczyn Zdrój",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "11:44",
-      "line": "30",
-      "destination": "Przerzeczyn Zdrój",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "18:44",
-      "line": "30",
-      "destination": "Przerzeczyn Zdrój",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:25",
-      "line": "31",
-      "destination": "Piława Górna Dworzec PKP",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "07:14",
-      "line": "31",
-      "destination": "Piława Górna Dworzec PKP",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "07:23",
-      "line": "31",
-      "destination": "Piława Górna Kopanica",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "09:15",
-      "line": "31",
-      "destination": "Piława Górna Dworzec PKP",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "11:45",
-      "line": "31",
-      "destination": "Kośmin",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "13:15",
-      "line": "31",
-      "destination": "Piława Górna Dworzec PKP",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:45",
-      "line": "31",
-      "destination": "Piława Górna Kopanica",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "16:45",
-      "line": "31",
-      "destination": "Piława Górna Kopanica",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "17:15",
-      "line": "31",
-      "destination": "Piława Górna Dworzec PKP",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "08:14",
-      "line": "31",
-      "destination": "Piława Górna Dworzec PKP",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:44",
-      "line": "31",
-      "destination": "Kośmin",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "21:44",
-      "line": "31",
-      "destination": "Piława Górna Dworzec PKP",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:44",
-      "line": "31",
-      "destination": "Piława Górna Dworzec PKP",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "21:44",
-      "line": "31",
-      "destination": "Piława Górna Dworzec PKP",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "04:55",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "05:24",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:44",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "mon_fri",
-      "school_restriction": "free_day_only"
-    },
-    {
-      "time": "06:50",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "08:17",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:15",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:45",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:24",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:25",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "16:15",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "17:45",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "19:48",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "21:45",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "04:59",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:44",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "08:44",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:44",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:44",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:44",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "19:44",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:44",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "08:44",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "10:44",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "12:44",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "14:44",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "17:44",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "19:44",
-      "line": "35",
-      "destination": "Kośmin",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "04:18",
-      "line": "36",
-      "destination": "Niemcza Remiza",
-      "operating_days": "mon_fri",
-      "school_restriction": "free_day_only"
-    },
-    {
-      "time": "04:25",
-      "line": "36",
-      "destination": "Niemcza Remiza",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "05:15",
-      "line": "36",
-      "destination": "Niemcza Dworzec PKP",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "06:38",
-      "line": "36",
-      "destination": "Niemcza Remiza",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "07:05",
-      "line": "36",
-      "destination": "Niemcza Remiza",
-      "operating_days": "mon_fri",
-      "school_restriction": "school_only"
-    },
-    {
-      "time": "07:12",
-      "line": "36",
-      "destination": "Niemcza Remiza",
-      "operating_days": "mon_fri",
-      "school_restriction": "free_day_only"
-    },
-    {
-      "time": "14:53",
-      "line": "36",
-      "destination": "Niemcza Remiza",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "18:45",
-      "line": "36",
-      "destination": "Niemcza Remiza",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "20:30",
-      "line": "36",
-      "destination": "Niemcza Remiza",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "05:14",
-      "line": "36",
-      "destination": "Niemcza Dworzec PKP",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:44",
-      "line": "36",
-      "destination": "Niemcza Remiza",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:44",
-      "line": "36",
-      "destination": "Niemcza Remiza",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "20:29",
-      "line": "36",
-      "destination": "Niemcza Remiza",
-      "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "05:14",
-      "line": "36",
-      "destination": "Niemcza Dworzec PKP",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "13:43",
-      "line": "36",
-      "destination": "Niemcza Remiza",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "15:43",
-      "line": "36",
-      "destination": "Niemcza Remiza",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "20:29",
-      "line": "36",
-      "destination": "Niemcza Remiza",
-      "operating_days": "sunday",
-      "school_restriction": "normal"
-    }
-  ],
   "194": [
     {
       "time": "12:45",
@@ -993,6 +494,505 @@
       "time": "16:45",
       "line": "39",
       "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    }
+  ],
+  "193": [
+    {
+      "time": "12:45",
+      "line": "9",
+      "destination": "Piława Dolna Szkoła",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "14:35",
+      "line": "9",
+      "destination": "Piława Dolna Szkoła",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "08:45",
+      "line": "30",
+      "destination": "Przerzeczyn Zdrój",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:19",
+      "line": "30",
+      "destination": "Przerzeczyn Zdrój",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:58",
+      "line": "30",
+      "destination": "Podlesie",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:53",
+      "line": "30",
+      "destination": "Przerzeczyn Zdrój",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:44",
+      "line": "30",
+      "destination": "Przerzeczyn Zdrój",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:44",
+      "line": "30",
+      "destination": "Przerzeczyn Zdrój",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:44",
+      "line": "30",
+      "destination": "Przerzeczyn Zdrój",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:44",
+      "line": "30",
+      "destination": "Przerzeczyn Zdrój",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:44",
+      "line": "30",
+      "destination": "Przerzeczyn Zdrój",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:44",
+      "line": "30",
+      "destination": "Przerzeczyn Zdrój",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:44",
+      "line": "30",
+      "destination": "Przerzeczyn Zdrój",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:25",
+      "line": "31",
+      "destination": "Piława Górna Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "07:14",
+      "line": "31",
+      "destination": "Piława Górna Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "07:23",
+      "line": "31",
+      "destination": "Piława Górna Kopanica",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "09:15",
+      "line": "31",
+      "destination": "Piława Górna Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "11:45",
+      "line": "31",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "13:15",
+      "line": "31",
+      "destination": "Piława Górna Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:45",
+      "line": "31",
+      "destination": "Piława Górna Kopanica",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "16:45",
+      "line": "31",
+      "destination": "Piława Górna Kopanica",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:15",
+      "line": "31",
+      "destination": "Piława Górna Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:14",
+      "line": "31",
+      "destination": "Piława Górna Dworzec PKP",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:44",
+      "line": "31",
+      "destination": "Kośmin",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:44",
+      "line": "31",
+      "destination": "Piława Górna Dworzec PKP",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:44",
+      "line": "31",
+      "destination": "Piława Górna Dworzec PKP",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:44",
+      "line": "31",
+      "destination": "Piława Górna Dworzec PKP",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "04:55",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "05:24",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:44",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "06:50",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "08:17",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:15",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:45",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:24",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:25",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:15",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:45",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:48",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "21:45",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "04:59",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:44",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:44",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:44",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:44",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:44",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:44",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:44",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "08:44",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "10:44",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "12:44",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "14:44",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:44",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "19:44",
+      "line": "35",
+      "destination": "Kośmin",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "04:18",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "04:25",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "05:15",
+      "line": "36",
+      "destination": "Niemcza Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "06:38",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "07:05",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "school_only"
+    },
+    {
+      "time": "07:12",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "free_day_only"
+    },
+    {
+      "time": "14:53",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "18:45",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:30",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:14",
+      "line": "36",
+      "destination": "Niemcza Dworzec PKP",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:44",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:44",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:29",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "05:14",
+      "line": "36",
+      "destination": "Niemcza Dworzec PKP",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "13:43",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "15:43",
+      "line": "36",
+      "destination": "Niemcza Remiza",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "20:29",
+      "line": "36",
+      "destination": "Niemcza Remiza",
       "operating_days": "sunday",
       "school_restriction": "normal"
     }

@@ -73,14 +73,14 @@
     {
       "time": "07:44",
       "line": "1",
-      "destination": "Dzierżoniów Piłsudskiego",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "free_day_only"
     },
     {
       "time": "08:04",
       "line": "1",
-      "destination": "Dzierżoniów Piłsudskiego",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "school_only"
     },
@@ -122,7 +122,7 @@
     {
       "time": "10:48",
       "line": "1",
-      "destination": "Dzierżoniów Piłsudskiego",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -192,21 +192,21 @@
     {
       "time": "17:07",
       "line": "1",
-      "destination": "Dzierżoniów Piłsudskiego",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
       "time": "17:17",
       "line": "1",
-      "destination": "Dzierżoniów Piłsudskiego",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
       "time": "17:41",
       "line": "1",
-      "destination": "Dzierżoniów Piłsudskiego",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -269,14 +269,14 @@
     {
       "time": "22:45",
       "line": "1",
-      "destination": "Dzierżoniów Piłsudskiego",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
       "time": "23:09",
       "line": "1",
-      "destination": "Dzierżoniów Piłsudskiego",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -416,21 +416,21 @@
     {
       "time": "15:16",
       "line": "1",
-      "destination": "Dzierżoniów Piłsudskiego",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "15:31",
       "line": "1",
-      "destination": "Dzierżoniów Piłsudskiego",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "15:51",
       "line": "1",
-      "destination": "Dzierżoniów Piłsudskiego",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -465,21 +465,21 @@
     {
       "time": "18:45",
       "line": "1",
-      "destination": "Dzierżoniów Piłsudskiego",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "19:09",
       "line": "1",
-      "destination": "Dzierżoniów Piłsudskiego",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "20:07",
       "line": "1",
-      "destination": "Dzierżoniów Piłsudskiego",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -500,7 +500,7 @@
     {
       "time": "22:58",
       "line": "1",
-      "destination": "Dzierżoniów Piłsudskiego",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -563,7 +563,7 @@
     {
       "time": "13:48",
       "line": "1",
-      "destination": "Dzierżoniów Piłsudskiego",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
@@ -605,7 +605,7 @@
     {
       "time": "17:56",
       "line": "1",
-      "destination": "Dzierżoniów Piłsudskiego",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
@@ -633,7 +633,7 @@
     {
       "time": "20:03",
       "line": "1",
-      "destination": "Dzierżoniów Piłsudskiego",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
@@ -1478,13 +1478,6 @@
       "school_restriction": "free_day_only"
     },
     {
-      "time": "05:27",
-      "line": "6",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
       "time": "06:16",
       "line": "6",
       "destination": "Dzierżoniów Piłsudskiego",
@@ -1776,7 +1769,7 @@
     {
       "time": "04:36",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -1790,14 +1783,14 @@
     {
       "time": "05:08",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
       "time": "05:30",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -1811,21 +1804,21 @@
     {
       "time": "05:53",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "mon_fri",
       "school_restriction": "free_day_only"
     },
     {
       "time": "06:05",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "mon_fri",
       "school_restriction": "school_only"
     },
     {
       "time": "06:24",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -1839,7 +1832,7 @@
     {
       "time": "06:50",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -1853,7 +1846,7 @@
     {
       "time": "07:21",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "mon_fri",
       "school_restriction": "school_only"
     },
@@ -1867,14 +1860,14 @@
     {
       "time": "07:54",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "mon_fri",
       "school_restriction": "free_day_only"
     },
     {
       "time": "08:01",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "mon_fri",
       "school_restriction": "school_only"
     },
@@ -1909,7 +1902,7 @@
     {
       "time": "10:44",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -1923,7 +1916,7 @@
     {
       "time": "12:29",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -1944,14 +1937,14 @@
     {
       "time": "14:00",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
       "time": "14:33",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -1972,21 +1965,21 @@
     {
       "time": "16:06",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
     {
       "time": "16:25",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "mon_fri",
       "school_restriction": "free_day_only"
     },
     {
       "time": "16:38",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "mon_fri",
       "school_restriction": "school_only"
     },
@@ -2000,7 +1993,7 @@
     {
       "time": "17:03",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -2021,7 +2014,7 @@
     {
       "time": "18:01",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -2049,7 +2042,7 @@
     {
       "time": "21:05",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -2098,7 +2091,7 @@
     {
       "time": "06:23",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -2126,105 +2119,105 @@
     {
       "time": "07:48",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "08:05",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "08:41",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "09:13",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "09:42",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "10:13",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "10:42",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "11:13",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "11:42",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "12:13",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "12:42",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "13:13",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "13:42",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "14:13",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "14:42",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -2245,21 +2238,21 @@
     {
       "time": "16:03",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "16:35",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
     {
       "time": "17:07",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -2280,7 +2273,7 @@
     {
       "time": "19:24",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -2294,7 +2287,7 @@
     {
       "time": "21:18",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -2315,14 +2308,14 @@
     {
       "time": "06:54",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
     {
       "time": "08:21",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
@@ -2336,7 +2329,7 @@
     {
       "time": "10:30",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
@@ -2357,7 +2350,7 @@
     {
       "time": "11:59",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
@@ -2371,14 +2364,14 @@
     {
       "time": "13:06",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
     {
       "time": "13:35",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
@@ -2399,7 +2392,7 @@
     {
       "time": "15:05",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
@@ -2413,7 +2406,7 @@
     {
       "time": "16:35",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
@@ -2427,21 +2420,21 @@
     {
       "time": "18:03",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
     {
       "time": "18:35",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
     {
       "time": "19:21",
       "line": "1",
-      "destination": "Bielawa Nowobielawska",
+      "destination": "Jodłownik",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
@@ -3291,13 +3284,6 @@
       "destination": "Jemna",
       "operating_days": "mon_fri",
       "school_restriction": "school_only"
-    },
-    {
-      "time": "04:10",
-      "line": "6",
-      "destination": "Rudnica III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
     },
     {
       "time": "04:18",
