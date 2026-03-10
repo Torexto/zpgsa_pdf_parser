@@ -10,7 +10,6 @@ use std::{
     env,
     fs::{self, File},
     path::{Path, PathBuf},
-    process::Command,
 };
 use walkdir::WalkDir;
 
@@ -25,24 +24,6 @@ pub struct StopDetailsBus {
     destination: String,
     operating_days: String,
     school_restriction: String,
-}
-
-fn run_ocr(input: &Path, output: &Path) -> bool {
-    let status = Command::new("ocrmypdf")
-        .args([
-            "--force-ocr",
-            "--output-type",
-            "pdfa",
-            "--language",
-            "pol",
-            "--deskew",
-            "--clean",
-            "--clean-final",
-        ])
-        .arg(input)
-        .arg(output)
-        .status();
-    status.map(|s| s.success()).unwrap_or(false)
 }
 
 fn suffix_parse(
@@ -87,7 +68,9 @@ fn suffix_parse(
 }
 
 fn destination_update(original_des: &'_ str) -> &'_ str {
-    let des = original_des.strip_suffix(". Nie kursuje").unwrap_or(original_des);
+    let des = original_des
+        .strip_suffix(". Nie kursuje")
+        .unwrap_or(original_des);
     match des {
         "Dzierżoniów Dzierżoniów dworzec  PKP" => "Dzierżoniów Dworzec PKP",
         "Dzierżoniów Dzierżoniów dworzec PKP" => "Dzierżoniów Dworzec PKP",
@@ -171,7 +154,10 @@ fn parse_line(line: &str, details: &mut HashMap<String, Vec<StopDetailsBus>>) {
 
             let reg = unsafe { Regex::new(r"Kurs do:\s*(.*?)(?:\s+przez|$)").unwrap_unchecked() };
             if let Some(v) = reg.captures(&value) {
-                result.insert(label, destination_update(v.get(1).unwrap().as_str()).to_string());
+                result.insert(
+                    label,
+                    destination_update(v.get(1).unwrap().as_str()).to_string(),
+                );
             }
         }
         result
@@ -314,7 +300,6 @@ async fn main() {
 
     let download = env::args().any(|arg| arg == "--download" || arg == "-d");
     let clear = env::args().any(|arg| arg == "--clear" || arg == "-c");
-    let ignore_ocr = env::args().any(|arg| arg == "--ignore-ocr" || arg == "-i");
 
     if download {
         let download_start = Instant::now();
@@ -358,36 +343,17 @@ async fn main() {
     println!("Search done in {:.2?}\n", search_start.elapsed());
 
     let check_start = Instant::now();
+    let backup_file = File::open("backup.json").unwrap();
+    let backup: HashMap<String, Vec<StopDetailsBus>> = serde_json::from_reader(backup_file).unwrap();
+    let id_to_backup: Vec<String> = vec!["71".into(), "72".into()];
     println!("Checking PDFs...\n");
-    if ignore_ocr {
-        println!("OCR will be ignored");
-    }
     let pdfs: Vec<PathBuf> = pdfs
         .par_iter()
         .map(|pdf_path| {
             if !check_pdf(pdf_path) {
                 println!("{} is corrupted", pdf_path.display());
-                let fixed_path = Path::new(TEMP).join(pdf_path.file_name().unwrap());
-                let txt_exist = if !fixed_path.exists() {
-                    if !ignore_ocr {
-                        run_ocr(pdf_path, &fixed_path)
-                    } else {
-                        false
-                    }
-                } else {
-                    true
-                };
-                if txt_exist {
-                    fs::write(
-                        fixed_path.with_extension("txt"),
-                        pdf_extract::extract_text(&fixed_path).unwrap(),
-                    )
-                    .unwrap();
-                }
-                fixed_path
-            } else {
-                pdf_path.to_path_buf()
             }
+            pdf_path.to_path_buf()
         })
         .collect();
     println!("Check done in {:.2?}\n", check_start.elapsed());
