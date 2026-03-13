@@ -1,0 +1,2586 @@
+[
+  {
+    "city": "Bielawa",
+    "name": "Leśny Dworek",
+    "id": "1",
+    "lat": 50.652092,
+    "lon": 16.582954,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Bielawa-Lesny-Dworek.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Nowobielawska II",
+    "id": "2",
+    "lat": 50.658398,
+    "lon": 16.59364,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Bielawa-Nowobielawska-II-.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Nowobielawska II",
+    "id": "3",
+    "lat": 50.657204,
+    "lon": 16.592445,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Bielawa-Nowobielawska-II-.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Nowobielawska",
+    "id": "4",
+    "lat": 50.66149,
+    "lon": 16.595655,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Bielawa-Nowobielawska.pdf"
+  },
+  {
+    "city": "Jodłownik",
+    "name": "",
+    "id": "6",
+    "lat": 50.648796,
+    "lon": 16.610489,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Jodlownik-.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Sowia",
+    "id": "7",
+    "lat": 50.666634,
+    "lon": 16.601404,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Bielawa-Sowia.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Sowia",
+    "id": "8",
+    "lat": 50.666897,
+    "lon": 16.601694,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Bielawa-Sowia.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Waryńskiego (Bieltex V)",
+    "id": "9",
+    "lat": 50.670147,
+    "lon": 16.603449,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Warynskiego-.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Waryńskiego (Bieltex V)",
+    "id": "10",
+    "lat": 50.669594,
+    "lon": 16.603582,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Warynskiego-.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Słowiańska",
+    "id": "11",
+    "lat": 50.669327,
+    "lon": 16.599905,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Slowianska-.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Os. Białe",
+    "id": "12",
+    "lat": 50.673496,
+    "lon": 16.596043,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Os.-Biale.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Camping Sudety",
+    "id": "13",
+    "lat": 50.6778,
+    "lon": 16.590336,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Camping-Sudety.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Kasztanowa",
+    "id": "14",
+    "lat": 50.674324,
+    "lon": 16.598055,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Bielawa-Kasztanowa.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Pl. Kościelny",
+    "id": "16",
+    "lat": 50.674606,
+    "lon": 16.604069,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Pl.-Koscielny.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Pl. Kościelny",
+    "id": "17",
+    "lat": 50.67425,
+    "lon": 16.604218,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Pl.-Koscielny.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Frankowskiego",
+    "id": "18",
+    "lat": 50.674133,
+    "lon": 16.60298,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Bielawa-Frankowskiego.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Ostroszowicka",
+    "id": "19",
+    "lat": 50.674744,
+    "lon": 16.604746,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Bielawa-Ostroszowicka.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Ace Rico",
+    "id": "20",
+    "lat": 50.67078,
+    "lon": 16.609806,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Bielawa-Ace-Rico.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Ace Rico",
+    "id": "21",
+    "lat": 50.67142,
+    "lon": 16.609236,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Bielawa-Ace-Rico.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Szewska",
+    "id": "22",
+    "lat": 50.664307,
+    "lon": 16.618896,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Bielawa-Szewska.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Szewska",
+    "id": "23",
+    "lat": 50.66425,
+    "lon": 16.619135,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Bielawa-Szewska.pdf"
+  },
+  {
+    "city": "Józefówek",
+    "name": "",
+    "id": "25",
+    "lat": 50.66041,
+    "lon": 16.62469,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/04/Jozefowek.pdf"
+  },
+  {
+    "city": "Józefówek",
+    "name": "",
+    "id": "26",
+    "lat": 50.660736,
+    "lon": 16.624405,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/04/Jozefowek.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Ludowa",
+    "id": "27",
+    "lat": 50.678455,
+    "lon": 16.606,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Ludowa.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Ludowa",
+    "id": "28",
+    "lat": 50.677746,
+    "lon": 16.605694,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Ludowa.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Bielbaw",
+    "id": "29",
+    "lat": 50.682007,
+    "lon": 16.608875,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Bielbaw.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Bielbaw",
+    "id": "30",
+    "lat": 50.68216,
+    "lon": 16.6092,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Bielbaw.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Góra Parkowa",
+    "id": "31",
+    "lat": 50.68003,
+    "lon": 16.612923,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Gora-Parkowa.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Góra Parkowa",
+    "id": "32",
+    "lat": 50.679344,
+    "lon": 16.61335,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Gora-Parkowa.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Sikorskiego",
+    "id": "33",
+    "lat": 50.678352,
+    "lon": 16.619392,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Sikorskiego.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Sikorskiego",
+    "id": "34",
+    "lat": 50.67849,
+    "lon": 16.62063,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Sikorskiego.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Sikorskiego Rondo",
+    "id": "35",
+    "lat": 50.67974,
+    "lon": 16.625978,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Bielawa-Sikorskiego-Rondo.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Sikorskiego Rondo",
+    "id": "36",
+    "lat": 50.679504,
+    "lon": 16.625546,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Bielawa-Sikorskiego-Rondo.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Andersa I",
+    "id": "37",
+    "lat": 50.680813,
+    "lon": 16.622536,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Andersa-I.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Andersa II",
+    "id": "38",
+    "lat": 50.68001,
+    "lon": 16.623415,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Andersa-II.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Andersa III",
+    "id": "39",
+    "lat": 50.683414,
+    "lon": 16.620287,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Andersa-III.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Os. XXV-lecia",
+    "id": "40",
+    "lat": 50.68432,
+    "lon": 16.619267,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Os.-XXV-lecia.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Parkowa",
+    "id": "41",
+    "lat": 50.687374,
+    "lon": 16.622732,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Parkowa.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Bata",
+    "id": "42",
+    "lat": 50.693474,
+    "lon": 16.629057,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Bata.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Łącznik 1 Maja",
+    "id": "43",
+    "lat": 50.689484,
+    "lon": 16.624483,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Lacznik-1-Maja.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Bata",
+    "id": "44",
+    "lat": 50.693123,
+    "lon": 16.628578,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Bata.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Łącznik 1 Maja",
+    "id": "45",
+    "lat": 50.68962,
+    "lon": 16.624588,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Lacznik-1-Maja.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Bieltex I",
+    "id": "46",
+    "lat": 50.695393,
+    "lon": 16.63842,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Bieltex-I.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Bieltex I",
+    "id": "47",
+    "lat": 50.695145,
+    "lon": 16.637527,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Bieltex-I.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Gazownia",
+    "id": "48",
+    "lat": 50.701317,
+    "lon": 16.643835,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Gazownia.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Gazownia",
+    "id": "49",
+    "lat": 50.702553,
+    "lon": 16.644514,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Bielawa-Gazownia.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Cmentarz Komunalny",
+    "id": "51",
+    "lat": 50.676693,
+    "lon": 16.63767,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Bielawa-Cmentarz-Komuna.pdf"
+  },
+  {
+    "city": "Myśliszów",
+    "name": "",
+    "id": "52",
+    "lat": 50.673615,
+    "lon": 16.646763,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/04/Mysliszow.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Bohaterów Getta",
+    "id": "56",
+    "lat": 50.692757,
+    "lon": 16.619108,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Bielawa-Bohaterow-Getta.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Bohaterów Getta",
+    "id": "57",
+    "lat": 50.69282,
+    "lon": 16.619125,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Bielawa-Bohaterow-Getta.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "LOK",
+    "id": "58",
+    "lat": 50.689013,
+    "lon": 16.619323,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/04/Bielawa-LOK.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Hotel \"Pod Wielką Sową\"",
+    "id": "59",
+    "lat": 50.686577,
+    "lon": 16.616686,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/04/Bielawa-Hotel-_Pod-Wielka-Sowa-.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Żeromskiego (Pl. Wolności)",
+    "id": "60",
+    "lat": 50.684491,
+    "lon": 16.611659,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/04/Bielawa-Zeromskiego-Pl.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "L.O. (Pl. Wolności)",
+    "id": "61",
+    "lat": 50.683025,
+    "lon": 16.612837,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Bielawa-L.O.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Ogródki Działkowe",
+    "id": "62",
+    "lat": 50.694912,
+    "lon": 16.614988,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Bielawa-Ogrodki-dzialkowe.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Ogródki Działkowe",
+    "id": "63",
+    "lat": 50.69551,
+    "lon": 16.613897,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Bielawa-Ogrodki-dzialkowe.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "MZK",
+    "id": "66",
+    "lat": 50.715252,
+    "lon": 16.650286,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-MZK.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "MZK",
+    "id": "67",
+    "lat": 50.715416,
+    "lon": 16.650555,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-MZK.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Batalionów Chłopskich",
+    "id": "68",
+    "lat": 50.719418,
+    "lon": 16.649914,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Batalionow-Chlopskich-.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Batalionów Chłopskich",
+    "id": "69",
+    "lat": 50.71995,
+    "lon": 16.650229,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Batalionow-Chlopskich-.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Dworzec PKS Młyn",
+    "id": "70",
+    "lat": 50.725124,
+    "lon": 16.653868,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Dworzec-PKS-mlyn.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Piłsudskiego",
+    "id": "71",
+    "lat": 50.73016,
+    "lon": 16.652472,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Pilsudskieg-2.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Piłsudskiego",
+    "id": "72",
+    "lat": 50.72992,
+    "lon": 16.653387,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Pilsudskieg-2.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Os. Jasne",
+    "id": "73",
+    "lat": 50.73415,
+    "lon": 16.650347,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Os.-Jasne-1.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Os. Jasne",
+    "id": "74",
+    "lat": 50.7345,
+    "lon": 16.65039,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Os.-Jasne-1.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Os. Tęczowe",
+    "id": "75",
+    "lat": 50.738377,
+    "lon": 16.63946,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/BuDzierzoniow-Os.-Teczowe.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Lidl",
+    "id": "76",
+    "lat": 50.737877,
+    "lon": 16.638063,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dzierzoniow-Lidl.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Bar Kaprys",
+    "id": "77",
+    "lat": 50.734825,
+    "lon": 16.641203,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Bar-Kaprys.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Diora",
+    "id": "78",
+    "lat": 50.733635,
+    "lon": 16.642597,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Diora-1.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Kościuszki",
+    "id": "79",
+    "lat": 50.72971,
+    "lon": 16.642878,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Kosciuszki-2.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Kościuszki",
+    "id": "80",
+    "lat": 50.7311,
+    "lon": 16.64439,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Kosciuszki-2.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Dworzec PKP",
+    "id": "81",
+    "lat": 50.72497,
+    "lon": 16.64064,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-dworzec-PK.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Kilińskiego",
+    "id": "83",
+    "lat": 50.72597,
+    "lon": 16.636505,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Dzierzoniow-Kilinskieg-1.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Zajezdnia PKS",
+    "id": "84",
+    "lat": 50.724478,
+    "lon": 16.628973,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Zajezdnia-PKS-.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "DT.Ślązak",
+    "id": "85",
+    "lat": 50.72577,
+    "lon": 16.645712,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-D.T-Slazak-.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Dworzec PKS Kopernika",
+    "id": "86",
+    "lat": 50.724808,
+    "lon": 16.64929,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2026/03/Dzierzoniow-Dworzec-PKS-Kopernika.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Dworzec PKS Kopernika",
+    "id": "87",
+    "lat": 50.72458,
+    "lon": 16.650711,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2026/03/Dzierzoniow-Dworzec-PKS-Kopernika.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Wrocławska (szkoła nr 4)",
+    "id": "88",
+    "lat": 50.736084,
+    "lon": 16.658693,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Wroclawska-.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Wrocławska (szkoła nr 4)",
+    "id": "89",
+    "lat": 50.7365,
+    "lon": 16.658848,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Wroclawska-.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Cmentarz Komunalny",
+    "id": "90",
+    "lat": 50.738705,
+    "lon": 16.66233,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Dzierzoniow-Cmentarz-Komunalny.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Korczaka",
+    "id": "91",
+    "lat": 50.739624,
+    "lon": 16.655668,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Korczaka.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Korczaka",
+    "id": "92",
+    "lat": 50.740208,
+    "lon": 16.6547,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Korczaka.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Sikorskiego II",
+    "id": "95",
+    "lat": 50.738997,
+    "lon": 16.649824,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Sikorskiego.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Sikorskiego II",
+    "id": "96",
+    "lat": 50.739758,
+    "lon": 16.650967,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Sikorskiego.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Os. Błękitne",
+    "id": "97",
+    "lat": 50.737556,
+    "lon": 16.641567,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Os.-Blekitn-2.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Bielawska Stadion",
+    "id": "101",
+    "lat": 50.73311,
+    "lon": 16.65678,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dzierzoniow-Bielawska-Stadion.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Brzegowa",
+    "id": "102",
+    "lat": 50.72824,
+    "lon": 16.638483,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Dzierzoniow-Brzegowa.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Dolny Nowowiejska",
+    "id": "107",
+    "lat": 50.746597,
+    "lon": 16.62078,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Dzierzoniow-Dolny-Nowowiejska.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Nowowiejska",
+    "id": "108",
+    "lat": 50.741074,
+    "lon": 16.626644,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Dzierzoniow-Nowowiejska.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Kasztanowa",
+    "id": "109",
+    "lat": 50.747353,
+    "lon": 16.63943,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dzierzoniow-Kasztanowa.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Nowowiejska Szkoła",
+    "id": "112",
+    "lat": 50.739548,
+    "lon": 16.631926,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Dzierzoniow-Nowowiejska-Szkola-.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Ogródki Działkowe",
+    "id": "113",
+    "lat": 50.730199,
+    "lon": 16.673143,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dzierzoniow-Ogrodki-dzialkowe.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Ogródki Działkowe",
+    "id": "114",
+    "lat": 50.730371,
+    "lon": 16.673616,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dzierzoniow-Ogrodki-dzialkowe.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Os. Zielone",
+    "id": "115",
+    "lat": 50.743446,
+    "lon": 16.638636,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Os.-Zielone.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Os. Zielone II",
+    "id": "116",
+    "lat": 50.743736,
+    "lon": 16.63485,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dzierzoniow-Os.-Zielone-II.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Staszica",
+    "id": "120",
+    "lat": 50.720474,
+    "lon": 16.657818,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dzierzoniow-Staszica.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Staszica",
+    "id": "121",
+    "lat": 50.720207,
+    "lon": 16.65726,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dzierzoniow-Staszica.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Strefa Ekonomiczna",
+    "id": "122",
+    "lat": 50.729378,
+    "lon": 16.630026,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Strefa-Ekonomiczna.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Strefa Metzeler",
+    "id": "123",
+    "lat": 50.726864,
+    "lon": 16.63007,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Strefa-Metzeler.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Strefa Orion",
+    "id": "124",
+    "lat": 50.728985,
+    "lon": 16.625547,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Dzierzoniow-Strefa-Orio.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Świdnicka Polmozbyt",
+    "id": "125",
+    "lat": 50.7477,
+    "lon": 16.626863,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dzierzoniow-Swidnicka-Polmozbyt.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Technika Szpitalna",
+    "id": "126",
+    "lat": 50.733444,
+    "lon": 16.634298,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Technika-Szpitalna.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Technika Szpitalna",
+    "id": "127",
+    "lat": 50.734158,
+    "lon": 16.635187,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Technika-Szpitalna.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "ul. Strefowa",
+    "id": "128",
+    "lat": 50.731995,
+    "lon": 16.622787,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Dzierzoniow-ul.Strefowa.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Wojska Polskiego I",
+    "id": "130",
+    "lat": 50.72242,
+    "lon": 16.66591,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dzierzoniow-Wojska-Polskiego-I.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Wojska Polskiego I",
+    "id": "131",
+    "lat": 50.7231,
+    "lon": 16.664986,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dzierzoniow-Wojska-Polskiego-I.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Zajezdnia PKS",
+    "id": "133",
+    "lat": 50.72469,
+    "lon": 16.629684,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Zajezdnia-PKS-.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Ząbkowicka",
+    "id": "135",
+    "lat": 50.727097,
+    "lon": 16.65664,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dzierzoniow-Zabkowicka.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Ząbkowicka",
+    "id": "136",
+    "lat": 50.72701,
+    "lon": 16.65679,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dzierzoniow-Zabkowicka.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Złota II",
+    "id": "137",
+    "lat": 50.735424,
+    "lon": 16.636745,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Dzierzoniow-Zlota-II.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Złota III",
+    "id": "138",
+    "lat": 50.73934,
+    "lon": 16.64219,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Zlota-III.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Złota Kotłownia",
+    "id": "139",
+    "lat": 50.741596,
+    "lon": 16.64249,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-Zlota-kotlo.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Kilińskiego",
+    "id": "140",
+    "lat": 50.72567,
+    "lon": 16.635357,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Dzierzoniow-Kilinskieg-1.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Wojska Polskiego II",
+    "id": "141",
+    "lat": 50.71972,
+    "lon": 16.668531,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dzierzoniow-Wojska-Polskiego.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Ogrodowa",
+    "id": "142",
+    "lat": 50.714973,
+    "lon": 16.586992,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Pieszyce-Ogrodowa.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Ogrodowa",
+    "id": "143",
+    "lat": 50.7149,
+    "lon": 16.587008,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Pieszyce-Ogrodowa.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Urząd Miejski",
+    "id": "144",
+    "lat": 50.711327,
+    "lon": 16.582878,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2026/02/Pieszyce-Urzad-Miejski.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Urząd Miejski",
+    "id": "145",
+    "lat": 50.71148,
+    "lon": 16.583193,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2026/02/Pieszyce-Urzad-Miejski.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Kino",
+    "id": "146",
+    "lat": 50.7067,
+    "lon": 16.577242,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Pieszyce-kino.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Kino",
+    "id": "147",
+    "lat": 50.70562,
+    "lon": 16.57608,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Pieszyce-kino.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "IX Oddział",
+    "id": "148",
+    "lat": 50.702644,
+    "lon": 16.572123,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Pieszyce-IX-oddzial.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "IX Oddział",
+    "id": "149",
+    "lat": 50.703598,
+    "lon": 16.573303,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Pieszyce-IX-oddzial.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Sklep",
+    "id": "150",
+    "lat": 50.699455,
+    "lon": 16.56842,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Pieszyce-Sklep.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Sklep",
+    "id": "151",
+    "lat": 50.69979,
+    "lon": 16.569092,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Pieszyce-Sklep.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "VII Oddział",
+    "id": "152",
+    "lat": 50.69591,
+    "lon": 16.563013,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Pieszyce-VII-oddzial.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "VII Oddział",
+    "id": "153",
+    "lat": 50.695454,
+    "lon": 16.56231,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Pieszyce-VII-oddzial.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Mostek",
+    "id": "154",
+    "lat": 50.691254,
+    "lon": 16.55474,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Pieszyce-Mostek.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Mostek",
+    "id": "155",
+    "lat": 50.691406,
+    "lon": 16.555271,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Pieszyce-Mostek.pdf"
+  },
+  {
+    "city": "Kamionki",
+    "name": "Dolne",
+    "id": "156",
+    "lat": 50.686054,
+    "lon": 16.546013,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Kamionki-Dolne.pdf"
+  },
+  {
+    "city": "Kamionki",
+    "name": "Dolne",
+    "id": "157",
+    "lat": 50.686043,
+    "lon": 16.546066,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Kamionki-Dolne.pdf"
+  },
+  {
+    "city": "Kamionki",
+    "name": "I",
+    "id": "158",
+    "lat": 50.681282,
+    "lon": 16.543455,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Kamionki-I.pdf"
+  },
+  {
+    "city": "Kamionki",
+    "name": "I",
+    "id": "159",
+    "lat": 50.681282,
+    "lon": 16.543455,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Kamionki-I.pdf"
+  },
+  {
+    "city": "Kamionki",
+    "name": "II",
+    "id": "160",
+    "lat": 50.67624,
+    "lon": 16.544386,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Kamionki-II.pdf"
+  },
+  {
+    "city": "Kamionki",
+    "name": "II",
+    "id": "161",
+    "lat": 50.67624,
+    "lon": 16.544386,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Kamionki-II.pdf"
+  },
+  {
+    "city": "Kamionki",
+    "name": "III",
+    "id": "162",
+    "lat": 50.67231,
+    "lon": 16.542805,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Kamionki-III-.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Bielawska",
+    "id": "163",
+    "lat": 50.715767,
+    "lon": 16.587015,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Pieszyce-Bielawska.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Bielawska",
+    "id": "164",
+    "lat": 50.715942,
+    "lon": 16.586248,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Pieszyce-Bielawska.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Sanatoryjna",
+    "id": "165",
+    "lat": 50.712395,
+    "lon": 16.57129,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pieszyce-Sanatoryjna.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Sanatoryjna",
+    "id": "166",
+    "lat": 50.71236,
+    "lon": 16.571424,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pieszyce-Sanatoryjna.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Urząd Miejski",
+    "id": "167",
+    "lat": 50.712204,
+    "lon": 16.580366,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2026/02/Pieszyce-Urzad-Miejski.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Urząd Miejski",
+    "id": "168",
+    "lat": 50.712307,
+    "lon": 16.581278,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2026/02/Pieszyce-Urzad-Miejski.pdf"
+  },
+  {
+    "city": "Rościszów",
+    "name": "I",
+    "id": "169",
+    "lat": 50.708862,
+    "lon": 16.54834,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Rosciszow-I.pdf"
+  },
+  {
+    "city": "Rościszów",
+    "name": "I",
+    "id": "170",
+    "lat": 50.709232,
+    "lon": 16.55071,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Rosciszow-I.pdf"
+  },
+  {
+    "city": "Rościszów",
+    "name": "II",
+    "id": "171",
+    "lat": 50.7073,
+    "lon": 16.54131,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Rosciszow-II.pdf"
+  },
+  {
+    "city": "Rościszów",
+    "name": "II",
+    "id": "172",
+    "lat": 50.7073,
+    "lon": 16.541615,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Rosciszow-II.pdf"
+  },
+  {
+    "city": "Rościszów",
+    "name": "III",
+    "id": "173",
+    "lat": 50.704136,
+    "lon": 16.534306,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Rosciszow-III.pdf"
+  },
+  {
+    "city": "Rościszów",
+    "name": "III",
+    "id": "174",
+    "lat": 50.70398,
+    "lon": 16.534153,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Rosciszow-III.pdf"
+  },
+  {
+    "city": "Rościszów",
+    "name": "IV",
+    "id": "175",
+    "lat": 50.705532,
+    "lon": 16.52534,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Rosciszow-IV-.pdf"
+  },
+  {
+    "city": "Piskorzów",
+    "name": "Kolonia Dorotka",
+    "id": "176",
+    "lat": 50.72873,
+    "lon": 16.56503,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Piskorzow-Kolonia-Doro.pdf"
+  },
+  {
+    "city": "Piskorzów",
+    "name": "I",
+    "id": "177",
+    "lat": 50.73402,
+    "lon": 16.562267,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Piskorzow-I.pdf"
+  },
+  {
+    "city": "Piskorzów",
+    "name": "II",
+    "id": "178",
+    "lat": 50.742004,
+    "lon": 16.571325,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Piskorzow-II.pdf"
+  },
+  {
+    "city": "Piskorzów",
+    "name": "III",
+    "id": "179",
+    "lat": 50.747616,
+    "lon": 16.572157,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Piskorzow-III.pdf"
+  },
+  {
+    "city": "Bratoszów",
+    "name": "I",
+    "id": "180",
+    "lat": 50.74459,
+    "lon": 16.590988,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Bratoszow-I.pdf"
+  },
+  {
+    "city": "Bratoszów",
+    "name": "II",
+    "id": "181",
+    "lat": 50.74655,
+    "lon": 16.586311,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Bratoszow-II.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Tkalnia",
+    "id": "182",
+    "lat": 50.722607,
+    "lon": 16.590324,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Pieszyce-Tkalnia.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Świdnicka",
+    "id": "183",
+    "lat": 50.7255,
+    "lon": 16.59462,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Pieszyce-Swidnicka.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Świdnicka",
+    "id": "184",
+    "lat": 50.72542,
+    "lon": 16.5948,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Pieszyce-Swidnicka.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Szkoła",
+    "id": "185",
+    "lat": 50.726315,
+    "lon": 16.596457,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Pieszyce-Szkola.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Kółko Rolnicze",
+    "id": "186",
+    "lat": 50.732914,
+    "lon": 16.605728,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pieszyce-Kolko-Rolnicz.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Dolne",
+    "id": "187",
+    "lat": 50.72542,
+    "lon": 16.59617,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Pieszyce-Dolne.pdf"
+  },
+  {
+    "city": "Piława Dolna",
+    "name": "POM",
+    "id": "189",
+    "lat": 50.713295,
+    "lon": 16.673279,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Dolna-POM.pdf"
+  },
+  {
+    "city": "Piława Dolna",
+    "name": "POM",
+    "id": "190",
+    "lat": 50.713093,
+    "lon": 16.673775,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Dolna-POM.pdf"
+  },
+  {
+    "city": "Piława Dolna",
+    "name": "I",
+    "id": "191",
+    "lat": 50.707954,
+    "lon": 16.678421,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Dolna-I.pdf"
+  },
+  {
+    "city": "Piława Dolna",
+    "name": "I",
+    "id": "192",
+    "lat": 50.706745,
+    "lon": 16.68011,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Dolna-I.pdf"
+  },
+  {
+    "city": "Piława Dolna",
+    "name": "Szkoła",
+    "id": "193",
+    "lat": 50.702843,
+    "lon": 16.686598,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Dolna-Szkola.pdf"
+  },
+  {
+    "city": "Piława Dolna",
+    "name": "Szkoła",
+    "id": "194",
+    "lat": 50.70264,
+    "lon": 16.687386,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Dolna-Szkola.pdf"
+  },
+  {
+    "city": "Piława Dolna",
+    "name": "Remiza",
+    "id": "195",
+    "lat": 50.69617,
+    "lon": 16.69527,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Dolna-Remiza.pdf"
+  },
+  {
+    "city": "Piława Dolna",
+    "name": "Remiza",
+    "id": "196",
+    "lat": 50.69747,
+    "lon": 16.694223,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Dolna-Remiza.pdf"
+  },
+  {
+    "city": "Piława Dolna",
+    "name": "B. Kościół",
+    "id": "197",
+    "lat": 50.692196,
+    "lon": 16.703856,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Dolna-B.-Kosciol.pdf"
+  },
+  {
+    "city": "Piława Dolna",
+    "name": "B. Kościół",
+    "id": "198",
+    "lat": 50.692245,
+    "lon": 16.703936,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Dolna-B.-Kosciol.pdf"
+  },
+  {
+    "city": "Piława Dolna",
+    "name": "Cz. Kościół",
+    "id": "199",
+    "lat": 50.68599,
+    "lon": 16.716272,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Dolna-Cz.-Kosciol.pdf"
+  },
+  {
+    "city": "Piława Dolna",
+    "name": "Cz. Kościół",
+    "id": "200",
+    "lat": 50.685802,
+    "lon": 16.716576,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Dolna-Cz.-Kosciol.pdf"
+  },
+  {
+    "city": "Piława Górna",
+    "name": "Staw",
+    "id": "202",
+    "lat": 50.682034,
+    "lon": 16.725636,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Gorna-Staw.pdf"
+  },
+  {
+    "city": "Piława Górna",
+    "name": "Staw",
+    "id": "203",
+    "lat": 50.682335,
+    "lon": 16.72549,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Gorna-Staw.pdf"
+  },
+  {
+    "city": "Piława Górna",
+    "name": "Os. Młyńskie",
+    "id": "204",
+    "lat": 50.683777,
+    "lon": 16.735926,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Gorna-Os.-Mlynskie-.pdf"
+  },
+  {
+    "city": "Piława Górna",
+    "name": "Os. Młyńskie",
+    "id": "205",
+    "lat": 50.683826,
+    "lon": 16.736046,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Gorna-Os.-Mlynskie-.pdf"
+  },
+  {
+    "city": "Piława Górna",
+    "name": "Żłobek",
+    "id": "206",
+    "lat": 50.68294,
+    "lon": 16.742548,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Gorna-Zlobek.pdf"
+  },
+  {
+    "city": "Piława Górna",
+    "name": "Żłobek",
+    "id": "207",
+    "lat": 50.682735,
+    "lon": 16.744183,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Gorna-Zlobek.pdf"
+  },
+  {
+    "city": "Piława Górna",
+    "name": "BoBo",
+    "id": "208",
+    "lat": 50.68193,
+    "lon": 16.75089,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Gorna-_BoBo_.pdf"
+  },
+  {
+    "city": "Piława Górna",
+    "name": "BoBo",
+    "id": "209",
+    "lat": 50.68203,
+    "lon": 16.75068,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Gorna-_BoBo_.pdf"
+  },
+  {
+    "city": "Piława Górna",
+    "name": "Kamieniołomy",
+    "id": "210",
+    "lat": 50.681957,
+    "lon": 16.759693,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Gorna-Kamieniol.pdf"
+  },
+  {
+    "city": "Piława Górna",
+    "name": "Kamieniołomy",
+    "id": "211",
+    "lat": 50.682297,
+    "lon": 16.760653,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Gorna-Kamieniol.pdf"
+  },
+  {
+    "city": "Piława Górna",
+    "name": "Szkoła",
+    "id": "212",
+    "lat": 50.681114,
+    "lon": 16.76681,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Gorna-Szkola.pdf"
+  },
+  {
+    "city": "Piława Górna",
+    "name": "Szkoła",
+    "id": "213",
+    "lat": 50.681076,
+    "lon": 16.766924,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Gorna-Szkola.pdf"
+  },
+  {
+    "city": "Piława Górna",
+    "name": "Dworzec PKP",
+    "id": "214",
+    "lat": 50.67751,
+    "lon": 16.77185,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Gorna-Dworzec-PKP.pdf"
+  },
+  {
+    "city": "Piława Górna",
+    "name": "Dworzec PKP",
+    "id": "215",
+    "lat": 50.677578,
+    "lon": 16.771866,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Gorna-Dworzec-PKP.pdf"
+  },
+  {
+    "city": "Kośmin",
+    "name": "I",
+    "id": "216",
+    "lat": 50.68899,
+    "lon": 16.782282,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Kosmin-I.pdf"
+  },
+  {
+    "city": "Kośmin",
+    "name": "I",
+    "id": "217",
+    "lat": 50.689,
+    "lon": 16.78215,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Kosmin-I.pdf"
+  },
+  {
+    "city": "Kośmin",
+    "name": "",
+    "id": "218",
+    "lat": 50.693787,
+    "lon": 16.781385,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Kosmin.pdf"
+  },
+  {
+    "city": "Piława Górna",
+    "name": "Kopanica",
+    "id": "219",
+    "lat": 50.67219,
+    "lon": 16.780787,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Pilawa-Gorna-Kopanica.pdf"
+  },
+  {
+    "city": "Piława Górna",
+    "name": "Zakłady Mechaniczne",
+    "id": "220",
+    "lat": 50.675735,
+    "lon": 16.778835,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Gorna-Zaklady-Mechaniczne.pdf"
+  },
+  {
+    "city": "Piława Górna",
+    "name": "Zakłady Mechaniczne",
+    "id": "221",
+    "lat": 50.6757,
+    "lon": 16.779728,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Pilawa-Gorna-Zaklady-Mechaniczne.pdf"
+  },
+  {
+    "city": "Ostroszowice",
+    "name": "I",
+    "id": "223",
+    "lat": 50.653282,
+    "lon": 16.63374,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Ostroszowice-I.pdf"
+  },
+  {
+    "city": "Ostroszowice",
+    "name": "I",
+    "id": "224",
+    "lat": 50.653282,
+    "lon": 16.63374,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Ostroszowice-I.pdf"
+  },
+  {
+    "city": "Ostroszowice",
+    "name": "Sklep",
+    "id": "225",
+    "lat": 50.65012,
+    "lon": 16.636677,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Ostroszowice-Sklep.pdf"
+  },
+  {
+    "city": "Ostroszowice",
+    "name": "Sklep",
+    "id": "226",
+    "lat": 50.649994,
+    "lon": 16.636738,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Ostroszowice-Sklep.pdf"
+  },
+  {
+    "city": "Ostroszowice",
+    "name": "Poczta",
+    "id": "228",
+    "lat": 50.64385,
+    "lon": 16.63908,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Ostroszowice-Poczta.pdf"
+  },
+  {
+    "city": "Ostroszowice",
+    "name": "Poczta",
+    "id": "229",
+    "lat": 50.643604,
+    "lon": 16.639465,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Ostroszowice-Poczta.pdf"
+  },
+  {
+    "city": "Ostroszowice",
+    "name": "Zakład Stolarski",
+    "id": "230",
+    "lat": 50.639004,
+    "lon": 16.639643,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Ostroszowice-Zaklad-Stolarskie.pdf"
+  },
+  {
+    "city": "Ostroszowice",
+    "name": "Zakład Stolarski",
+    "id": "231",
+    "lat": 50.639957,
+    "lon": 16.639126,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Ostroszowice-Zaklad-Stolarskie.pdf"
+  },
+  {
+    "city": "Ostroszowice",
+    "name": "Ośrodek Zdrowia",
+    "id": "232",
+    "lat": 50.635265,
+    "lon": 16.642675,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Ostroszowice-Osrodek-zdrowia.pdf"
+  },
+  {
+    "city": "Ostroszowice",
+    "name": "Ośrodek Zdrowia",
+    "id": "233",
+    "lat": 50.63534,
+    "lon": 16.642769,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Ostroszowice-Osrodek-zdrowia.pdf"
+  },
+  {
+    "city": "Grodziszcze",
+    "name": "I",
+    "id": "235",
+    "lat": 50.629726,
+    "lon": 16.647371,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Grodziszcze-I.pdf"
+  },
+  {
+    "city": "Grodziszcze",
+    "name": "I",
+    "id": "236",
+    "lat": 50.6298,
+    "lon": 16.647335,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Grodziszcze-I.pdf"
+  },
+  {
+    "city": "Grodziszcze",
+    "name": "Sklep",
+    "id": "237",
+    "lat": 50.625397,
+    "lon": 16.653791,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Grodziszcze-Sklep.pdf"
+  },
+  {
+    "city": "Rudnica",
+    "name": "I",
+    "id": "238",
+    "lat": 50.6205,
+    "lon": 16.659546,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Rudnica-I.pdf"
+  },
+  {
+    "city": "Rudnica",
+    "name": "I",
+    "id": "239",
+    "lat": 50.62028,
+    "lon": 16.660107,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Rudnica-I.pdf"
+  },
+  {
+    "city": "Rudnica",
+    "name": "II",
+    "id": "240",
+    "lat": 50.616367,
+    "lon": 16.66674,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Rudnica-II.pdf"
+  },
+  {
+    "city": "Rudnica",
+    "name": "II",
+    "id": "241",
+    "lat": 50.61641,
+    "lon": 16.666697,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Rudnica-II.pdf"
+  },
+  {
+    "city": "Rudnica",
+    "name": "III",
+    "id": "242",
+    "lat": 50.61192,
+    "lon": 16.6753,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Rudnica-III.pdf"
+  },
+  {
+    "city": "Rudnica",
+    "name": "III",
+    "id": "243",
+    "lat": 50.611935,
+    "lon": 16.67538,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Rudnica-III.pdf"
+  },
+  {
+    "city": "Jemna",
+    "name": "",
+    "id": "244",
+    "lat": 50.593258,
+    "lon": 16.651707,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Jemna-.pdf"
+  },
+  {
+    "city": "Dobrocin",
+    "name": "I",
+    "id": "245",
+    "lat": 50.73217,
+    "lon": 16.696562,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dobrocin-I.pdf"
+  },
+  {
+    "city": "Dobrocin",
+    "name": "I",
+    "id": "246",
+    "lat": 50.732098,
+    "lon": 16.69674,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dobrocin-I.pdf"
+  },
+  {
+    "city": "Dobrocin",
+    "name": "Sklep",
+    "id": "247",
+    "lat": 50.73382,
+    "lon": 16.706608,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dobrocin-Sklep.pdf"
+  },
+  {
+    "city": "Dobrocin",
+    "name": "Sklep",
+    "id": "248",
+    "lat": 50.7337,
+    "lon": 16.706573,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dobrocin-Sklep.pdf"
+  },
+  {
+    "city": "Dobrocin",
+    "name": "II",
+    "id": "249",
+    "lat": 50.737083,
+    "lon": 16.713688,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dobrocin-II.pdf"
+  },
+  {
+    "city": "Dobrocin",
+    "name": "II",
+    "id": "250",
+    "lat": 50.736935,
+    "lon": 16.712994,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dobrocin-II.pdf"
+  },
+  {
+    "city": "Roztocznik",
+    "name": "I",
+    "id": "251",
+    "lat": 50.739826,
+    "lon": 16.721035,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Roztocznik-I.pdf"
+  },
+  {
+    "city": "Roztocznik",
+    "name": "I",
+    "id": "252",
+    "lat": 50.74045,
+    "lon": 16.72369,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Roztocznik-I.pdf"
+  },
+  {
+    "city": "Roztocznik",
+    "name": "Wieś",
+    "id": "253",
+    "lat": 50.74412,
+    "lon": 16.732325,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Roztocznik-Wies.pdf"
+  },
+  {
+    "city": "Roztocznik",
+    "name": "Wieś",
+    "id": "254",
+    "lat": 50.74406,
+    "lon": 16.732718,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Roztocznik-Wies.pdf"
+  },
+  {
+    "city": "Roztocznik",
+    "name": "Wieś II",
+    "id": "255",
+    "lat": 50.74111,
+    "lon": 16.737907,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Roztocznik-Wies-II.pdf"
+  },
+  {
+    "city": "Roztocznik",
+    "name": "Skrzyżowanie",
+    "id": "257",
+    "lat": 50.73995,
+    "lon": 16.73607,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Roztocznik-skrzyzowanie.pdf"
+  },
+  {
+    "city": "Roztocznik",
+    "name": "Skrzyżowanie",
+    "id": "258",
+    "lat": 50.740013,
+    "lon": 16.735992,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Roztocznik-skrzyzowanie.pdf"
+  },
+  {
+    "city": "Byszów",
+    "name": "",
+    "id": "259",
+    "lat": 50.728283,
+    "lon": 16.742521,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Byszow-.pdf"
+  },
+  {
+    "city": "Byszów",
+    "name": "",
+    "id": "260",
+    "lat": 50.72826,
+    "lon": 16.742294,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Byszow-.pdf"
+  },
+  {
+    "city": "Gilów",
+    "name": "I",
+    "id": "261",
+    "lat": 50.723866,
+    "lon": 16.75292,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Gilow-I.pdf"
+  },
+  {
+    "city": "Gilów",
+    "name": "I",
+    "id": "262",
+    "lat": 50.723804,
+    "lon": 16.752934,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Gilow-I.pdf"
+  },
+  {
+    "city": "Gilów",
+    "name": "Sklep",
+    "id": "263",
+    "lat": 50.721424,
+    "lon": 16.764414,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Gilow-Sklep.pdf"
+  },
+  {
+    "city": "Gilów",
+    "name": "Sklep",
+    "id": "264",
+    "lat": 50.721375,
+    "lon": 16.76444,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Gilow-Sklep.pdf"
+  },
+  {
+    "city": "Gilów",
+    "name": "Skrzyżowanie",
+    "id": "265",
+    "lat": 50.721565,
+    "lon": 16.776505,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Gilow-skrzyzowanie.pdf"
+  },
+  {
+    "city": "Gilów",
+    "name": "Skrzyżowanie",
+    "id": "266",
+    "lat": 50.721515,
+    "lon": 16.776781,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Gilow-skrzyzowanie.pdf"
+  },
+  {
+    "city": "Gilów",
+    "name": "II",
+    "id": "267",
+    "lat": 50.720264,
+    "lon": 16.784494,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Gilow-II.pdf"
+  },
+  {
+    "city": "Gilów",
+    "name": "II",
+    "id": "268",
+    "lat": 50.72024,
+    "lon": 16.78396,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Gilow-II.pdf"
+  },
+  {
+    "city": "Gola Dzierżoniowska",
+    "name": "I",
+    "id": "269",
+    "lat": 50.739067,
+    "lon": 16.7915,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Gola-Dzierzoniowska-I.pdf"
+  },
+  {
+    "city": "Gola Dzierżoniowska",
+    "name": "I",
+    "id": "270",
+    "lat": 50.73894,
+    "lon": 16.791567,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Gola-Dzierzoniowska-I.pdf"
+  },
+  {
+    "city": "Gola Dzierżoniowska",
+    "name": "",
+    "id": "271",
+    "lat": 50.737988,
+    "lon": 16.798302,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Gola-Dzierzoniowska.pdf"
+  },
+  {
+    "city": "Gola Dzierżoniowska",
+    "name": "",
+    "id": "272",
+    "lat": 50.73792,
+    "lon": 16.798246,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Gola-Dzierzoniowska.pdf"
+  },
+  {
+    "city": "Kietlin",
+    "name": "",
+    "id": "273",
+    "lat": 50.744945,
+    "lon": 16.8313,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Kietlin.pdf"
+  },
+  {
+    "city": "Kietlin",
+    "name": "",
+    "id": "274",
+    "lat": 50.7449,
+    "lon": 16.831114,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Kietlin.pdf"
+  },
+  {
+    "city": "Wilków Wielki",
+    "name": "Sklep",
+    "id": "277",
+    "lat": 50.751372,
+    "lon": 16.84728,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Wilkow-Wielki-Sklep.pdf"
+  },
+  {
+    "city": "Niemcza",
+    "name": "Os. Podmiejskie",
+    "id": "278",
+    "lat": 50.72181,
+    "lon": 16.828266,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Niemcza-Os.-Podmiejski.pdf"
+  },
+  {
+    "city": "Niemcza",
+    "name": "Os. Podmiejskie",
+    "id": "279",
+    "lat": 50.72175,
+    "lon": 16.828228,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Niemcza-Os.-Podmiejski.pdf"
+  },
+  {
+    "city": "Niemcza",
+    "name": "Dworzec PKP",
+    "id": "280",
+    "lat": 50.723362,
+    "lon": 16.836246,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Niemcza-dworzec-PKP.pdf"
+  },
+  {
+    "city": "Niemcza",
+    "name": "Dworzec PKP",
+    "id": "281",
+    "lat": 50.723324,
+    "lon": 16.836338,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Niemcza-dworzec-PKP.pdf"
+  },
+  {
+    "city": "Niemcza",
+    "name": "Słowackiego",
+    "id": "282",
+    "lat": 50.71568,
+    "lon": 16.837225,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Niemcza-Slowackiego.pdf"
+  },
+  {
+    "city": "Niemcza",
+    "name": "Słowackiego",
+    "id": "283",
+    "lat": 50.71556,
+    "lon": 16.837076,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Niemcza-Slowackiego.pdf"
+  },
+  {
+    "city": "Niemcza",
+    "name": "Remiza",
+    "id": "284",
+    "lat": 50.713505,
+    "lon": 16.833687,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Niemcza-Remiza.pdf"
+  },
+  {
+    "city": "Nowa Wieś Niemczańska",
+    "name": "",
+    "id": "285",
+    "lat": 50.696056,
+    "lon": 16.822073,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Nowa-Wies-Niemczanska-.pdf"
+  },
+  {
+    "city": "Nowa Wieś Niemczańska",
+    "name": "",
+    "id": "286",
+    "lat": 50.69654,
+    "lon": 16.82188,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Nowa-Wies-Niemczanska-.pdf"
+  },
+  {
+    "city": "Przerzeczyn Zdrój",
+    "name": "",
+    "id": "287",
+    "lat": 50.68531,
+    "lon": 16.819641,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Przerzeczyn-Zdroj-.pdf"
+  },
+  {
+    "city": "Przerzeczyn Zdrój",
+    "name": "",
+    "id": "288",
+    "lat": 50.686077,
+    "lon": 16.820173,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Przerzeczyn-Zdroj-.pdf"
+  },
+  {
+    "city": "Przerzeczyn Zdrój",
+    "name": "Sklep",
+    "id": "289",
+    "lat": 50.685383,
+    "lon": 16.82396,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Przerzeczyn-Zdroj-Skle.pdf"
+  },
+  {
+    "city": "Podlesie",
+    "name": "I",
+    "id": "290",
+    "lat": 50.69205,
+    "lon": 16.849892,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Podlesie-I.pdf"
+  },
+  {
+    "city": "Podlesie",
+    "name": "I",
+    "id": "291",
+    "lat": 50.692257,
+    "lon": 16.850395,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Podlesie-I.pdf"
+  },
+  {
+    "city": "Podlesie",
+    "name": "",
+    "id": "292",
+    "lat": 50.68715,
+    "lon": 16.857327,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Podlesie-.pdf"
+  },
+  {
+    "city": "Ligota Mała",
+    "name": "",
+    "id": "293",
+    "lat": 50.682922,
+    "lon": 16.80927,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Ligota-Mala-.pdf"
+  },
+  {
+    "city": "Ligota Mała",
+    "name": "",
+    "id": "294",
+    "lat": 50.682983,
+    "lon": 16.809317,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Ligota-Mala-.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Os. Górskie",
+    "id": "296",
+    "lat": 50.698251,
+    "lon": 16.566805,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Pieszyce-Osiedle-Gorskie.pdf"
+  },
+  {
+    "city": "Pieszyce",
+    "name": "Os. Górskie",
+    "id": "297",
+    "lat": 50.698332,
+    "lon": 16.566706,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Pieszyce-Osiedle-Gorskie.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Nowobielawska III",
+    "id": "301",
+    "lat": 50.655955,
+    "lon": 16.590685,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Bielawa-Nowobielawska-III.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Nowobielawska III",
+    "id": "302",
+    "lat": 50.65519,
+    "lon": 16.589721,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Bielawa-Nowobielawska-III.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Strefowa I",
+    "id": "303",
+    "lat": 50.741978,
+    "lon": 16.612658,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Dzierzoniow-Strefowa-I-.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Strefowa II",
+    "id": "304",
+    "lat": 50.741516,
+    "lon": 16.612751,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Dzierzoniow-Strefowa-II.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Strefowa III",
+    "id": "305",
+    "lat": 50.73605,
+    "lon": 16.616734,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Dzierzoniow-Strefowa-III.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Stacja Bielawa Zachodnia",
+    "id": "306",
+    "lat": 50.68458,
+    "lon": 16.605919,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Bielawa-Stacja-Bielawa-Zachodnia-.pdf"
+  },
+  {
+    "city": "Nowizna",
+    "name": "12",
+    "id": "316",
+    "lat": 50.754936,
+    "lon": 16.618397,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Nowizna-12.pdf"
+  },
+  {
+    "city": "Nowizna",
+    "name": "18",
+    "id": "317",
+    "lat": 50.7568,
+    "lon": 16.612608,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Nowizna-18.pdf"
+  },
+  {
+    "city": "Nowizna",
+    "name": "19",
+    "id": "318",
+    "lat": 50.75708,
+    "lon": 16.612947,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Nowizna-19.pdf"
+  },
+  {
+    "city": "Mościsko",
+    "name": "Kolejowa",
+    "id": "319",
+    "lat": 50.78239,
+    "lon": 16.587938,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Moscisko-Kolejowa.pdf"
+  },
+  {
+    "city": "Mościsko",
+    "name": "Szkoła",
+    "id": "326",
+    "lat": 50.77672,
+    "lon": 16.591785,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Moscisko-Szkola-.pdf"
+  },
+  {
+    "city": "Włóki",
+    "name": "102/2",
+    "id": "327",
+    "lat": 50.766037,
+    "lon": 16.63918,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Wloki-102_2.pdf"
+  },
+  {
+    "city": "Włóki",
+    "name": "22",
+    "id": "328",
+    "lat": 50.77057,
+    "lon": 16.638739,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Wloki-22.pdf"
+  },
+  {
+    "city": "Włóki",
+    "name": "23",
+    "id": "329",
+    "lat": 50.77076,
+    "lon": 16.63877,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Wloki-23-.pdf"
+  },
+  {
+    "city": "Włóki",
+    "name": "57",
+    "id": "330",
+    "lat": 50.777626,
+    "lon": 16.640625,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Wloki-57.pdf"
+  },
+  {
+    "city": "Włóki",
+    "name": "57",
+    "id": "331",
+    "lat": 50.77873,
+    "lon": 16.641195,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Wloki-57.pdf"
+  },
+  {
+    "city": "Włóki",
+    "name": "78",
+    "id": "332",
+    "lat": 50.782513,
+    "lon": 16.64534,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Wloki-78.pdf"
+  },
+  {
+    "city": "Tuszyn",
+    "name": "47",
+    "id": "337",
+    "lat": 50.798053,
+    "lon": 16.647369,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Tuszyn-47.pdf"
+  },
+  {
+    "city": "Tuszyn",
+    "name": "47",
+    "id": "338",
+    "lat": 50.798115,
+    "lon": 16.647148,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Tuszyn-47.pdf"
+  },
+  {
+    "city": "Kiełczyn",
+    "name": "",
+    "id": "341",
+    "lat": 50.810326,
+    "lon": 16.640657,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Kielczyn-.pdf"
+  },
+  {
+    "city": "Kiełczyn",
+    "name": "",
+    "id": "342",
+    "lat": 50.810154,
+    "lon": 16.640303,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Kielczyn-.pdf"
+  },
+  {
+    "city": "Jędrzejowice",
+    "name": "20A",
+    "id": "343",
+    "lat": 50.813026,
+    "lon": 16.656872,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Jedrzejowice-20A.pdf"
+  },
+  {
+    "city": "Książnica",
+    "name": "27",
+    "id": "344",
+    "lat": 50.810623,
+    "lon": 16.610985,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Ksiaznica-27.pdf"
+  },
+  {
+    "city": "Książnica",
+    "name": "27",
+    "id": "345",
+    "lat": 50.810734,
+    "lon": 16.609962,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Ksiaznica-27.pdf"
+  },
+  {
+    "city": "Uciechów",
+    "name": "Wrocławska",
+    "id": "346",
+    "lat": 50.754017,
+    "lon": 16.681664,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Uciechow-Wroclawska.pdf"
+  },
+  {
+    "city": "Uciechów",
+    "name": "Przedszkole",
+    "id": "347",
+    "lat": 50.75486,
+    "lon": 16.681715,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/BusMan-A-Uciechow-Przedszkole.pdf"
+  },
+  {
+    "city": "Uciechów",
+    "name": "Cukiernia",
+    "id": "348",
+    "lat": 50.761074,
+    "lon": 16.676891,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Uciechow-Cukiernia-.pdf"
+  },
+  {
+    "city": "Uciechów",
+    "name": "Cukiernia",
+    "id": "349",
+    "lat": 50.76132,
+    "lon": 16.676624,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Uciechow-Cukiernia-.pdf"
+  },
+  {
+    "city": "Uciechów",
+    "name": "57",
+    "id": "350",
+    "lat": 50.767097,
+    "lon": 16.674658,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Uciechow-57.pdf"
+  },
+  {
+    "city": "Uciechów",
+    "name": "48",
+    "id": "351",
+    "lat": 50.765583,
+    "lon": 16.674465,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Uciechow-48.pdf"
+  },
+  {
+    "city": "Kietlice",
+    "name": "",
+    "id": "352",
+    "lat": 50.660777,
+    "lon": 16.673234,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Kietlice-1-1.pdf"
+  },
+  {
+    "city": "Owiesno",
+    "name": "88",
+    "id": "354",
+    "lat": 50.664845,
+    "lon": 16.687033,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Owiesno-88-.pdf"
+  },
+  {
+    "city": "Owiesno",
+    "name": "85",
+    "id": "355",
+    "lat": 50.665134,
+    "lon": 16.68677,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Owiesno-85-.pdf"
+  },
+  {
+    "city": "Owiesno",
+    "name": "111",
+    "id": "356",
+    "lat": 50.670967,
+    "lon": 16.682299,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Owiesno-111.pdf"
+  },
+  {
+    "city": "Owiesno",
+    "name": "124",
+    "id": "357",
+    "lat": 50.674465,
+    "lon": 16.683414,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Owiesno-124-.pdf"
+  },
+  {
+    "city": "Owiesno",
+    "name": "132",
+    "id": "358",
+    "lat": 50.675,
+    "lon": 16.683296,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Owiesno-132.pdf"
+  },
+  {
+    "city": "Owiesno",
+    "name": "81",
+    "id": "359",
+    "lat": 50.66255,
+    "lon": 16.687244,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Owiesno-81.pdf"
+  },
+  {
+    "city": "Owiesno",
+    "name": "Kościół",
+    "id": "360",
+    "lat": 50.650387,
+    "lon": 16.691893,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Owiesno-Kosciol.pdf"
+  },
+  {
+    "city": "Ostroszowice",
+    "name": "Jodłownicka",
+    "id": "361",
+    "lat": 50.645844,
+    "lon": 16.626102,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Ostroszowice-Jodlownick.pdf"
+  },
+  {
+    "city": "Ostroszowice",
+    "name": "Jodłownicka",
+    "id": "362",
+    "lat": 50.645622,
+    "lon": 16.624985,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Ostroszowice-Jodlownick.pdf"
+  },
+  {
+    "city": "Jodłownik",
+    "name": "14",
+    "id": "363",
+    "lat": 50.6451,
+    "lon": 16.612593,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Jodlownik-14-.pdf"
+  },
+  {
+    "city": "Jodłownik",
+    "name": "9",
+    "id": "364",
+    "lat": 50.644974,
+    "lon": 16.612364,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Jodlownik-9-.pdf"
+  },
+  {
+    "city": "Nowizna",
+    "name": "12",
+    "id": "366",
+    "lat": 50.75487,
+    "lon": 16.618065,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Nowizna-12.pdf"
+  },
+  {
+    "city": "Ostroszowice",
+    "name": "Fabryka Mebli (stawy)",
+    "id": "2271",
+    "lat": 50.646768,
+    "lon": 16.631668,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Ostroszowice-Fabryka-Mebli-.pdf"
+  },
+  {
+    "city": "Ostroszowice",
+    "name": "Fabryka Mebli (stawy)",
+    "id": "2272",
+    "lat": 50.6466,
+    "lon": 16.631873,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Ostroszowice-Fabryka-Mebli-.pdf"
+  },
+  {
+    "city": "Tuszyn",
+    "name": "7",
+    "id": "3351",
+    "lat": 50.789116,
+    "lon": 16.648376,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Tuszyn-7.pdf"
+  },
+  {
+    "city": "Tuszyn",
+    "name": "7",
+    "id": "3352",
+    "lat": 50.78913,
+    "lon": 16.648123,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Tuszyn-7.pdf"
+  },
+  {
+    "city": "Tuszyn",
+    "name": "19A",
+    "id": "3361",
+    "lat": 50.79313,
+    "lon": 16.64719,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Tuszyn-19A.pdf"
+  },
+  {
+    "city": "Tuszyn",
+    "name": "19A",
+    "id": "3362",
+    "lat": 50.793224,
+    "lon": 16.647053,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Tuszyn-19A.pdf"
+  },
+  {
+    "city": "Kiełczyn",
+    "name": "94",
+    "id": "3391",
+    "lat": 50.803486,
+    "lon": 16.645825,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Kielczyn-94.pdf"
+  },
+  {
+    "city": "Kiełczyn",
+    "name": "94",
+    "id": "3392",
+    "lat": 50.803425,
+    "lon": 16.645692,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Kielczyn-94.pdf"
+  },
+  {
+    "city": "Kiełczyn",
+    "name": "25",
+    "id": "3401",
+    "lat": 50.80869,
+    "lon": 16.64349,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Kielczyn-25.pdf"
+  },
+  {
+    "city": "Kiełczyn",
+    "name": "25",
+    "id": "3402",
+    "lat": 50.80874,
+    "lon": 16.643337,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Kielczyn-25.pdf"
+  },
+  {
+    "city": "Jędrzejowice",
+    "name": "",
+    "id": "5001",
+    "lat": 50.818221,
+    "lon": 16.663202,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Jedrzejowice-.pdf"
+  },
+  {
+    "city": "Bielawa",
+    "name": "Park Handlowy",
+    "id": "5002",
+    "lat": 50.682865,
+    "lon": 16.631409,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Bielawa-Park-Handlowy.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Cicha",
+    "id": "1122",
+    "lat": 50.731936,
+    "lon": 16.684421,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dzierzoniow-Cicha.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "Cicha",
+    "id": "1123",
+    "lat": 50.732015,
+    "lon": 16.684856,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dzierzoniow-Cicha.pdf"
+  },
+  {
+    "city": "Byszów",
+    "name": "221",
+    "id": "5005",
+    "lat": 50.729265,
+    "lon": 16.741581,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Byszow-221.pdf"
+  },
+  {
+    "city": "Dobrocin",
+    "name": "Szkoła",
+    "id": "5006",
+    "lat": 50.736197,
+    "lon": 16.710144,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/03/Dobrocin-Szkola-.pdf"
+  },
+  {
+    "city": "Przedborowa",
+    "name": "I",
+    "id": "5009",
+    "lat": 50.641599,
+    "lon": 16.724507,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Przedborowa-I.pdf"
+  },
+  {
+    "city": "Przedborowa",
+    "name": "Kościół",
+    "id": "5011",
+    "lat": 50.635136,
+    "lon": 16.727811,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/02/Przedborowa-Kosciol.pdf"
+  },
+  {
+    "city": "Dzierżoniów",
+    "name": "OSiR (hotel)",
+    "id": "5012",
+    "lat": 50.720584,
+    "lon": 16.643929,
+    "href": "https://zpgsa.bielawa.pl/wp-content/uploads/2025/11/Dzierzoniow-OSiR-hotel-1.pdf"
+  }
+]

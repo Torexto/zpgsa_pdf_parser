@@ -26,6 +26,16 @@ pub struct StopDetailsBus {
     school_restriction: String,
 }
 
+#[derive(Serialize, Deserialize, Clone, Debug)]
+pub struct Stop {
+    city: String,
+    name: String,
+    id: String,
+    lat: f32,
+    lon: f32,
+    href: String
+}
+
 fn suffix_parse(
     bus: &str,
     destination_map: &HashMap<String, String>,
@@ -301,23 +311,15 @@ async fn main() {
     let download = env::args().any(|arg| arg == "--download" || arg == "-d");
     let clear = env::args().any(|arg| arg == "--clear" || arg == "-c");
 
+    let stops_file = File::open("stops.json").unwrap();
+    let stops: Vec<Stop> = serde_json::from_reader(stops_file).unwrap();
+    
     if download {
         let download_start = Instant::now();
         println!("Downloading PDFs...");
         clear_dir(SOURCE).unwrap();
-        let timetables = reqwest::get("https://zpgsa.bielawa.pl/rozklad-wazny-od-10-02-2025")
-            .await
-            .unwrap()
-            .text()
-            .await
-            .unwrap();
-        let document = parse_html().one(timetables);
-
-        let tasks = document.select("main p a").unwrap().map(|link| {
-            let attributes = link.attributes.borrow();
-            let pdf_link = attributes.get("href").unwrap().to_string();
-            download_pdf(pdf_link)
-        });
+        
+        let tasks = stops.iter().map(|stop| download_pdf(stop.href.clone()));
 
         join_all(tasks).await;
         println!("Download done in {:.2?}\n", download_start.elapsed());
