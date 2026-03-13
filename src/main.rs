@@ -343,7 +343,7 @@ async fn main() {
     let backup_file = File::open("backup.json").unwrap();
     let backup: HashMap<String, Vec<StopDetailsBus>> =
         serde_json::from_reader(backup_file).unwrap();
-    let id_to_backup: Vec<String> = vec!["71".into(), "72".into()];
+    let id_to_backup: Vec<String> = vec!["71".into(), "72".into(), "87".into()];
     println!("Checking PDFs...\n");
     let pdfs: Vec<PathBuf> = pdfs
         .par_iter()
