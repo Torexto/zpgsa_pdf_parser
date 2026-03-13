@@ -1,6 +1,4 @@
 use futures::future::join_all;
-use kuchiki::parse_html;
-use kuchiki::traits::TendrilSink;
 use rayon::prelude::*;
 use regex::Regex;
 use serde::{Deserialize, Serialize};
@@ -15,7 +13,6 @@ use walkdir::WalkDir;
 
 const SOURCE: &str = "source";
 const OUTPUT: &str = "output";
-const TEMP: &str = "temp";
 
 #[derive(Serialize, Deserialize, Clone, Debug)]
 pub struct StopDetailsBus {
@@ -33,7 +30,7 @@ pub struct Stop {
     id: String,
     lat: f32,
     lon: f32,
-    href: String
+    href: String,
 }
 
 fn suffix_parse(
@@ -306,19 +303,18 @@ fn clear_dir(path: &str) -> std::io::Result<()> {
 async fn main() {
     fs::create_dir_all(SOURCE).unwrap();
     fs::create_dir_all(OUTPUT).unwrap();
-    fs::create_dir_all(TEMP).unwrap();
 
     let download = env::args().any(|arg| arg == "--download" || arg == "-d");
     let clear = env::args().any(|arg| arg == "--clear" || arg == "-c");
 
     let stops_file = File::open("stops.json").unwrap();
     let stops: Vec<Stop> = serde_json::from_reader(stops_file).unwrap();
-    
+
     if download {
         let download_start = Instant::now();
         println!("Downloading PDFs...");
         clear_dir(SOURCE).unwrap();
-        
+
         let tasks = stops.iter().map(|stop| download_pdf(stop.href.clone()));
 
         join_all(tasks).await;
@@ -330,7 +326,6 @@ async fn main() {
         println!("Clearing directories...");
         clear_dir(SOURCE).unwrap();
         clear_dir(OUTPUT).unwrap();
-        clear_dir(TEMP).unwrap();
         println!("Clear done in {:.2?}\n", clear_start.elapsed());
     }
 
@@ -346,17 +341,20 @@ async fn main() {
 
     let check_start = Instant::now();
     let backup_file = File::open("backup.json").unwrap();
-    let backup: HashMap<String, Vec<StopDetailsBus>> = serde_json::from_reader(backup_file).unwrap();
+    let backup: HashMap<String, Vec<StopDetailsBus>> =
+        serde_json::from_reader(backup_file).unwrap();
     let id_to_backup: Vec<String> = vec!["71".into(), "72".into()];
     println!("Checking PDFs...\n");
     let pdfs: Vec<PathBuf> = pdfs
         .par_iter()
-        .map(|pdf_path| {
+        .filter(|pdf_path| {
             if !check_pdf(pdf_path) {
                 println!("{} is corrupted", pdf_path.display());
+                return false;
             }
-            pdf_path.to_path_buf()
+            return true;
         })
+        .map(|pdf_path| pdf_path.to_path_buf())
         .collect();
     println!("Check done in {:.2?}\n", check_start.elapsed());
 
@@ -371,7 +369,12 @@ async fn main() {
     );
     println!("\nParse done in {:.2?}\n", parse_start.elapsed());
 
-    let sorted: std::collections::BTreeMap<_, _> = result.into_iter().collect();
+    let mut sorted: std::collections::BTreeMap<_, _> = result.into_iter().collect();
+
+    for id in id_to_backup {
+        let backup_value = backup.get(&id).unwrap();
+        sorted.insert(id, backup_value.clone());
+    }
 
     if let Ok(json_file) = File::create("./output.json") {
         serde_json::to_writer_pretty(json_file, &sorted).unwrap();
