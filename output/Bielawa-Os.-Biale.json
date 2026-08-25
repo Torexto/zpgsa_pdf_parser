@@ -218,9 +218,9 @@
       "school_restriction": "normal"
     },
     {
-      "time": "22:19",
+      "time": "22:24",
       "line": "2",
-      "destination": "Bielawa Słowiańska",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -428,9 +428,9 @@
       "school_restriction": "normal"
     },
     {
-      "time": "21:59",
+      "time": "22:11",
       "line": "2",
-      "destination": "Bielawa Słowiańska",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -526,9 +526,9 @@
       "school_restriction": "normal"
     },
     {
-      "time": "21:59",
+      "time": "22:14",
       "line": "2",
-      "destination": "Bielawa Słowiańska",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },

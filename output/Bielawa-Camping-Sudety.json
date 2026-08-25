@@ -113,6 +113,13 @@
       "school_restriction": "normal"
     },
     {
+      "time": "22:20",
+      "line": "2",
+      "destination": "Dzierżoniów Dworzec PKP",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
       "time": "14:02",
       "line": "2",
       "destination": "Dzierżoniów Os. Zielone",
@@ -130,6 +137,13 @@
       "time": "18:02",
       "line": "2",
       "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "saturday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:07",
+      "line": "2",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -165,6 +179,13 @@
       "time": "18:02",
       "line": "2",
       "destination": "Dzierżoniów Piłsudskiego",
+      "operating_days": "sunday",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "22:10",
+      "line": "2",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "sunday",
       "school_restriction": "normal"
     }

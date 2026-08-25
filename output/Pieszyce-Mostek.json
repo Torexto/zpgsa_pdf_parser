@@ -367,7 +367,7 @@
     {
       "time": "09:08",
       "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "sunday",
       "school_restriction": "normal"
     }
@@ -556,7 +556,7 @@
       "school_restriction": "normal"
     },
     {
-      "time": "10:21",
+      "time": "10:25",
       "line": "15",
       "destination": "Kamionki III",
       "operating_days": "saturday",

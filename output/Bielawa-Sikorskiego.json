@@ -570,16 +570,9 @@
     {
       "time": "07:41",
       "line": "3",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "free_day_only"
-    },
-    {
-      "time": "07:41",
-      "line": "3",
       "destination": "Bielawa Leśny Dworek",
       "operating_days": "mon_fri",
-      "school_restriction": "school_only"
+      "school_restriction": "normal"
     },
     {
       "time": "08:15",
@@ -955,7 +948,7 @@
     {
       "time": "09:30",
       "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
+      "destination": "Bielawa Leśny Dworek",
       "operating_days": "sunday",
       "school_restriction": "normal"
     },
@@ -1200,7 +1193,7 @@
       "school_restriction": "normal"
     },
     {
-      "time": "22:26",
+      "time": "22:31",
       "line": "2",
       "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
@@ -1410,7 +1403,7 @@
       "school_restriction": "normal"
     },
     {
-      "time": "22:13",
+      "time": "22:18",
       "line": "2",
       "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
@@ -1508,7 +1501,7 @@
       "school_restriction": "normal"
     },
     {
-      "time": "22:18",
+      "time": "22:21",
       "line": "2",
       "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "sunday",

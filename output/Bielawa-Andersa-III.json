@@ -211,7 +211,7 @@
       "school_restriction": "normal"
     },
     {
-      "time": "22:28",
+      "time": "22:33",
       "line": "2",
       "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
@@ -421,7 +421,7 @@
       "school_restriction": "normal"
     },
     {
-      "time": "22:15",
+      "time": "22:20",
       "line": "2",
       "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
@@ -519,7 +519,7 @@
       "school_restriction": "normal"
     },
     {
-      "time": "22:20",
+      "time": "22:23",
       "line": "2",
       "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "sunday",

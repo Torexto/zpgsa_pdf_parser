@@ -3,7 +3,7 @@
     {
       "time": "10:40",
       "line": "1",
-      "destination": "Dzierżoniów Piłsudskiego",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -24,7 +24,7 @@
     {
       "time": "16:59",
       "line": "1",
-      "destination": "Dzierżoniów Piłsudskiego",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },
@@ -38,7 +38,7 @@
     {
       "time": "19:59",
       "line": "1",
-      "destination": "Dzierżoniów Piłsudskiego",
+      "destination": "Dzierżoniów Dworzec PKP",
       "operating_days": "saturday",
       "school_restriction": "normal"
     },
@@ -179,6 +179,13 @@
       "time": "15:31",
       "line": "60",
       "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "16:19",
+      "line": "60",
+      "destination": "Pieszyce Sklep",
       "operating_days": "mon_fri",
       "school_restriction": "normal"
     },

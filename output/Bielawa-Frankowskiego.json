@@ -568,13 +568,6 @@
       "school_restriction": "normal"
     },
     {
-      "time": "07:45",
-      "line": "3",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "free_day_only"
-    },
-    {
       "time": "08:19",
       "line": "3",
       "destination": "Bielawa Pl. Kościelny",
@@ -862,6 +855,20 @@
       "school_restriction": "normal"
     },
     {
+      "time": "16:07",
+      "line": "60",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
+      "time": "17:03",
+      "line": "60",
+      "destination": "Bielawa Pl. Kościelny",
+      "operating_days": "mon_fri",
+      "school_restriction": "normal"
+    },
+    {
       "time": "19:39",
       "line": "60",
       "destination": "Bielawa Pl. Kościelny",
@@ -922,13 +929,6 @@
       "line": "60",
       "destination": "Bielawa Słowiańska",
       "operating_days": "saturday",
-      "school_restriction": "normal"
-    },
-    {
-      "time": "09:36",
-      "line": "60",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "sunday",
       "school_restriction": "normal"
     },
     {
