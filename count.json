@@ -1,0 +1,5571 @@
+{
+  "202": {
+    "36": {
+      "mon_fri": 9,
+      "saturday": 4,
+      "sunday": 4
+    },
+    "31": {
+      "mon_fri": 9,
+      "saturday": 3,
+      "sunday": 2
+    },
+    "35": {
+      "saturday": 7,
+      "sunday": 7,
+      "mon_fri": 13
+    },
+    "30": {
+      "sunday": 3,
+      "mon_fri": 4,
+      "saturday": 4
+    }
+  },
+  "224": {
+    "8": {
+      "mon_fri": 1
+    },
+    "6": {
+      "mon_fri": 22,
+      "saturday": 13,
+      "sunday": 9
+    }
+  },
+  "46": {
+    "3": {
+      "saturday": 5,
+      "mon_fri": 24,
+      "sunday": 5
+    },
+    "2": {
+      "sunday": 14,
+      "mon_fri": 32,
+      "saturday": 29
+    },
+    "6": {
+      "saturday": 13,
+      "sunday": 9,
+      "mon_fri": 22
+    },
+    "1": {
+      "mon_fri": 43,
+      "saturday": 33,
+      "sunday": 22
+    },
+    "5": {
+      "mon_fri": 8
+    }
+  },
+  "245": {
+    "40": {
+      "mon_fri": 4,
+      "sunday": 2,
+      "saturday": 2
+    },
+    "46": {
+      "mon_fri": 3,
+      "saturday": 1
+    },
+    "49": {
+      "mon_fri": 1
+    },
+    "50": {
+      "mon_fri": 1,
+      "saturday": 1
+    },
+    "9": {
+      "mon_fri": 3
+    },
+    "51": {
+      "mon_fri": 1
+    },
+    "45": {
+      "saturday": 4,
+      "sunday": 3,
+      "mon_fri": 7
+    }
+  },
+  "200": {
+    "30": {
+      "sunday": 3,
+      "saturday": 4,
+      "mon_fri": 4
+    },
+    "31": {
+      "mon_fri": 8,
+      "saturday": 2,
+      "sunday": 1
+    },
+    "35": {
+      "sunday": 4,
+      "saturday": 5,
+      "mon_fri": 10
+    },
+    "37": {
+      "saturday": 1,
+      "sunday": 1,
+      "mon_fri": 2
+    },
+    "38": {
+      "mon_fri": 3,
+      "sunday": 3,
+      "saturday": 2
+    },
+    "36": {
+      "saturday": 3,
+      "sunday": 3,
+      "mon_fri": 7
+    },
+    "39": {
+      "saturday": 1,
+      "sunday": 1,
+      "mon_fri": 1
+    }
+  },
+  "12": {
+    "2": {
+      "sunday": 14,
+      "mon_fri": 33,
+      "saturday": 29
+    },
+    "60": {
+      "saturday": 3
+    }
+  },
+  "178": {
+    "22": {
+      "saturday": 2,
+      "mon_fri": 12
+    }
+  },
+  "218": {
+    "35": {
+      "saturday": 5,
+      "mon_fri": 10,
+      "sunday": 4
+    },
+    "31": {
+      "mon_fri": 1
+    },
+    "36": {
+      "mon_fri": 1
+    },
+    "38": {
+      "mon_fri": 3,
+      "saturday": 2,
+      "sunday": 3
+    },
+    "30": {
+      "mon_fri": 2
+    },
+    "37": {
+      "saturday": 1
+    }
+  },
+  "284": {
+    "45": {
+      "sunday": 3,
+      "mon_fri": 7,
+      "saturday": 4
+    },
+    "40": {
+      "mon_fri": 4,
+      "sunday": 2,
+      "saturday": 2
+    },
+    "49": {
+      "mon_fri": 3
+    },
+    "50": {
+      "saturday": 1,
+      "mon_fri": 1
+    },
+    "51": {
+      "mon_fri": 1
+    },
+    "36": {
+      "saturday": 3,
+      "sunday": 3,
+      "mon_fri": 7
+    },
+    "46": {
+      "saturday": 1,
+      "mon_fri": 1
+    }
+  },
+  "219": {
+    "31": {
+      "mon_fri": 3
+    },
+    "38": {
+      "sunday": 1
+    }
+  },
+  "304": {
+    "A": {
+      "mon_fri": 1
+    },
+    "30": {
+      "mon_fri": 1
+    },
+    "2": {
+      "mon_fri": 6
+    },
+    "15": {
+      "mon_fri": 4
+    },
+    "35": {
+      "mon_fri": 1
+    },
+    "45": {
+      "mon_fri": 3
+    },
+    "36": {
+      "mon_fri": 4
+    },
+    "46": {
+      "mon_fri": 2
+    },
+    "B": {
+      "mon_fri": 1
+    },
+    "21": {
+      "mon_fri": 3
+    },
+    "3": {
+      "mon_fri": 2
+    }
+  },
+  "79": {
+    "2": {
+      "mon_fri": 1
+    },
+    "31": {
+      "mon_fri": 8,
+      "saturday": 3,
+      "sunday": 2
+    },
+    "35": {
+      "mon_fri": 12,
+      "saturday": 7,
+      "sunday": 7
+    },
+    "45": {
+      "sunday": 3,
+      "mon_fri": 9,
+      "saturday": 6
+    },
+    "15": {
+      "sunday": 11,
+      "mon_fri": 28,
+      "saturday": 18
+    },
+    "46": {
+      "saturday": 2,
+      "sunday": 2,
+      "mon_fri": 5
+    },
+    "36": {
+      "sunday": 4,
+      "saturday": 4,
+      "mon_fri": 8
+    },
+    "22": {
+      "mon_fri": 15,
+      "saturday": 3
+    },
+    "49": {
+      "mon_fri": 2
+    },
+    "30": {
+      "sunday": 3,
+      "mon_fri": 4,
+      "saturday": 4
+    }
+  },
+  "42": {
+    "3": {
+      "saturday": 5,
+      "sunday": 5,
+      "mon_fri": 24
+    },
+    "2": {
+      "mon_fri": 32,
+      "saturday": 29,
+      "sunday": 14
+    },
+    "6": {
+      "saturday": 13,
+      "mon_fri": 22,
+      "sunday": 9
+    },
+    "1": {
+      "sunday": 22,
+      "mon_fri": 43,
+      "saturday": 33
+    },
+    "5": {
+      "mon_fri": 8
+    }
+  },
+  "5011": {
+    "6": {
+      "mon_fri": 2
+    }
+  },
+  "346": {
+    "4": {
+      "mon_fri": 3
+    }
+  },
+  "246": {
+    "9": {
+      "mon_fri": 3
+    },
+    "45": {
+      "mon_fri": 10,
+      "saturday": 6,
+      "sunday": 3
+    },
+    "46": {
+      "mon_fri": 5,
+      "saturday": 2,
+      "sunday": 2
+    },
+    "49": {
+      "mon_fri": 2
+    }
+  },
+  "11": {
+    "60": {
+      "saturday": 1
+    },
+    "1": {
+      "sunday": 1
+    },
+    "2": {
+      "saturday": 29,
+      "sunday": 14,
+      "mon_fri": 32
+    }
+  },
+  "239": {
+    "6": {
+      "mon_fri": 8
+    }
+  },
+  "226": {
+    "6": {
+      "mon_fri": 22,
+      "saturday": 13,
+      "sunday": 9
+    },
+    "8": {
+      "mon_fri": 1
+    }
+  },
+  "38": {
+    "60": {
+      "saturday": 7,
+      "sunday": 5,
+      "mon_fri": 17
+    },
+    "6": {
+      "mon_fri": 1
+    },
+    "2": {
+      "sunday": 14,
+      "saturday": 29,
+      "mon_fri": 32
+    },
+    "3": {
+      "mon_fri": 22,
+      "saturday": 6,
+      "sunday": 6
+    }
+  },
+  "302": {
+    "3": {
+      "sunday": 1,
+      "mon_fri": 1
+    },
+    "60": {
+      "sunday": 1
+    },
+    "1": {
+      "mon_fri": 6,
+      "sunday": 8,
+      "saturday": 11
+    }
+  },
+  "58": {
+    "5": {
+      "mon_fri": 8
+    },
+    "1": {
+      "saturday": 33,
+      "sunday": 22,
+      "mon_fri": 43
+    },
+    "6": {
+      "saturday": 13,
+      "mon_fri": 22,
+      "sunday": 9
+    }
+  },
+  "163": {
+    "21": {
+      "mon_fri": 12,
+      "sunday": 6,
+      "saturday": 8
+    },
+    "22": {
+      "saturday": 2,
+      "mon_fri": 12
+    },
+    "15": {
+      "sunday": 7,
+      "mon_fri": 24,
+      "saturday": 14
+    }
+  },
+  "75": {
+    "35": {
+      "sunday": 4,
+      "mon_fri": 10,
+      "saturday": 5
+    },
+    "1": {
+      "saturday": 38,
+      "sunday": 25,
+      "mon_fri": 50
+    },
+    "7": {
+      "mon_fri": 3
+    },
+    "36": {
+      "saturday": 3,
+      "mon_fri": 7,
+      "sunday": 3
+    },
+    "B": {
+      "saturday": 6,
+      "mon_fri": 12
+    },
+    "6": {
+      "mon_fri": 28,
+      "sunday": 11,
+      "saturday": 15
+    },
+    "31": {
+      "saturday": 2,
+      "mon_fri": 5,
+      "sunday": 1
+    },
+    "5": {
+      "mon_fri": 8
+    },
+    "49": {
+      "mon_fri": 1
+    },
+    "46": {
+      "mon_fri": 3,
+      "saturday": 1
+    },
+    "A": {
+      "mon_fri": 11,
+      "saturday": 6
+    },
+    "2": {
+      "sunday": 5,
+      "mon_fri": 30,
+      "saturday": 13
+    },
+    "10": {
+      "mon_fri": 3
+    },
+    "3": {
+      "mon_fri": 30,
+      "saturday": 5,
+      "sunday": 6
+    },
+    "45": {
+      "saturday": 4,
+      "mon_fri": 6,
+      "sunday": 1
+    },
+    "30": {
+      "mon_fri": 3,
+      "saturday": 3,
+      "sunday": 3
+    }
+  },
+  "4": {
+    "60": {
+      "sunday": 2
+    },
+    "1": {
+      "saturday": 53,
+      "sunday": 33,
+      "mon_fri": 61
+    },
+    "3": {
+      "saturday": 1,
+      "sunday": 2,
+      "mon_fri": 2
+    }
+  },
+  "80": {
+    "37": {
+      "mon_fri": 2,
+      "sunday": 1,
+      "saturday": 1
+    },
+    "3": {
+      "mon_fri": 31,
+      "sunday": 6,
+      "saturday": 5
+    },
+    "39": {
+      "mon_fri": 1,
+      "saturday": 1,
+      "sunday": 1
+    },
+    "5": {
+      "mon_fri": 8
+    },
+    "A": {
+      "mon_fri": 2,
+      "saturday": 1
+    },
+    "30": {
+      "mon_fri": 2,
+      "sunday": 3,
+      "saturday": 3
+    },
+    "40": {
+      "saturday": 2,
+      "mon_fri": 4,
+      "sunday": 2
+    },
+    "49": {
+      "mon_fri": 1
+    },
+    "46": {
+      "mon_fri": 3,
+      "saturday": 1
+    },
+    "50": {
+      "saturday": 1,
+      "mon_fri": 1
+    },
+    "45": {
+      "mon_fri": 6,
+      "saturday": 4,
+      "sunday": 1
+    },
+    "51": {
+      "mon_fri": 1
+    },
+    "36": {
+      "saturday": 3,
+      "sunday": 3,
+      "mon_fri": 6
+    },
+    "31": {
+      "saturday": 2,
+      "mon_fri": 6,
+      "sunday": 1
+    },
+    "35": {
+      "mon_fri": 10,
+      "saturday": 5,
+      "sunday": 4
+    },
+    "6": {
+      "sunday": 11,
+      "saturday": 15,
+      "mon_fri": 28
+    },
+    "38": {
+      "saturday": 2,
+      "sunday": 3,
+      "mon_fri": 3
+    },
+    "1": {
+      "saturday": 38,
+      "sunday": 25,
+      "mon_fri": 50
+    },
+    "2": {
+      "saturday": 34,
+      "sunday": 15,
+      "mon_fri": 37
+    }
+  },
+  "240": {
+    "6": {
+      "mon_fri": 8
+    }
+  },
+  "273": {
+    "46": {
+      "mon_fri": 1,
+      "saturday": 1
+    },
+    "50": {
+      "saturday": 1,
+      "mon_fri": 1
+    }
+  },
+  "181": {
+    "22": {
+      "mon_fri": 12,
+      "saturday": 2
+    }
+  },
+  "175": {
+    "21": {
+      "saturday": 8,
+      "mon_fri": 12,
+      "sunday": 6
+    }
+  },
+  "232": {
+    "8": {
+      "mon_fri": 1
+    },
+    "6": {
+      "saturday": 10,
+      "sunday": 9,
+      "mon_fri": 18
+    }
+  },
+  "78": {
+    "2": {
+      "mon_fri": 1
+    },
+    "45": {
+      "saturday": 6,
+      "sunday": 3,
+      "mon_fri": 9
+    },
+    "31": {
+      "mon_fri": 9,
+      "sunday": 2,
+      "saturday": 3
+    },
+    "46": {
+      "saturday": 2,
+      "mon_fri": 5,
+      "sunday": 2
+    },
+    "36": {
+      "mon_fri": 8,
+      "saturday": 4,
+      "sunday": 4
+    },
+    "49": {
+      "mon_fri": 2
+    },
+    "15": {
+      "saturday": 18,
+      "sunday": 11,
+      "mon_fri": 28
+    },
+    "30": {
+      "saturday": 4,
+      "sunday": 3,
+      "mon_fri": 4
+    },
+    "35": {
+      "sunday": 7,
+      "mon_fri": 11,
+      "saturday": 7
+    },
+    "22": {
+      "saturday": 3,
+      "mon_fri": 15
+    }
+  },
+  "337": {
+    "10": {
+      "mon_fri": 3
+    }
+  },
+  "354": {
+    "8": {
+      "mon_fri": 3
+    }
+  },
+  "7": {
+    "5": {
+      "mon_fri": 8
+    },
+    "3": {
+      "mon_fri": 1
+    },
+    "60": {
+      "sunday": 1
+    },
+    "1": {
+      "saturday": 33,
+      "mon_fri": 43,
+      "sunday": 23
+    }
+  },
+  "238": {
+    "6": {
+      "mon_fri": 8
+    }
+  },
+  "233": {
+    "6": {
+      "saturday": 13,
+      "mon_fri": 22,
+      "sunday": 9
+    },
+    "8": {
+      "mon_fri": 1
+    }
+  },
+  "306": {
+    "6": {
+      "sunday": 2,
+      "saturday": 1
+    },
+    "60": {
+      "mon_fri": 3,
+      "sunday": 2,
+      "saturday": 3
+    },
+    "1": {
+      "sunday": 1,
+      "mon_fri": 1,
+      "saturday": 2
+    },
+    "2": {
+      "mon_fri": 6,
+      "sunday": 2,
+      "saturday": 8
+    },
+    "3": {
+      "mon_fri": 5,
+      "sunday": 1
+    }
+  },
+  "164": {
+    "15": {
+      "sunday": 7,
+      "mon_fri": 24,
+      "saturday": 14
+    },
+    "21": {
+      "mon_fri": 12,
+      "saturday": 8,
+      "sunday": 6
+    },
+    "22": {
+      "saturday": 2,
+      "mon_fri": 12
+    }
+  },
+  "61": {
+    "5": {
+      "mon_fri": 7
+    },
+    "6": {
+      "mon_fri": 21,
+      "saturday": 13,
+      "sunday": 9
+    },
+    "1": {
+      "sunday": 21,
+      "saturday": 32,
+      "mon_fri": 40
+    }
+  },
+  "155": {
+    "60": {
+      "mon_fri": 7,
+      "sunday": 1
+    },
+    "15": {
+      "saturday": 14,
+      "sunday": 7,
+      "mon_fri": 24
+    }
+  },
+  "5009": {
+    "6": {
+      "mon_fri": 4
+    }
+  },
+  "10": {
+    "1": {
+      "sunday": 21,
+      "mon_fri": 40,
+      "saturday": 32
+    },
+    "2": {
+      "sunday": 14,
+      "mon_fri": 32,
+      "saturday": 29
+    },
+    "60": {
+      "sunday": 1,
+      "saturday": 1
+    },
+    "3": {
+      "saturday": 1,
+      "sunday": 2
+    },
+    "5": {
+      "mon_fri": 7
+    }
+  },
+  "318": {
+    "7": {
+      "mon_fri": 3
+    }
+  },
+  "161": {
+    "15": {
+      "saturday": 14,
+      "sunday": 7,
+      "mon_fri": 22
+    }
+  },
+  "343": {
+    "10": {
+      "mon_fri": 3
+    }
+  },
+  "43": {
+    "3": {
+      "saturday": 5,
+      "sunday": 5,
+      "mon_fri": 24
+    },
+    "2": {
+      "sunday": 14,
+      "saturday": 29,
+      "mon_fri": 32
+    },
+    "60": {
+      "mon_fri": 19,
+      "saturday": 6,
+      "sunday": 5
+    }
+  },
+  "184": {
+    "15": {
+      "mon_fri": 24,
+      "sunday": 7,
+      "saturday": 14
+    }
+  },
+  "5006": {
+    "9": {
+      "mon_fri": 3
+    },
+    "46": {
+      "saturday": 3,
+      "mon_fri": 8,
+      "sunday": 2
+    },
+    "40": {
+      "mon_fri": 3,
+      "sunday": 2
+    },
+    "50": {
+      "mon_fri": 1,
+      "saturday": 1
+    },
+    "45": {
+      "mon_fri": 14,
+      "saturday": 9,
+      "sunday": 3
+    }
+  },
+  "145": {
+    "15": {
+      "sunday": 7,
+      "mon_fri": 24,
+      "saturday": 14
+    },
+    "60": {
+      "sunday": 8,
+      "mon_fri": 20,
+      "saturday": 7
+    }
+  },
+  "292": {
+    "30": {
+      "mon_fri": 1
+    },
+    "36": {
+      "mon_fri": 2
+    },
+    "45": {
+      "mon_fri": 1
+    }
+  },
+  "330": {
+    "10": {
+      "mon_fri": 3
+    }
+  },
+  "251": {
+    "40": {
+      "sunday": 2,
+      "mon_fri": 3
+    },
+    "45": {
+      "saturday": 3,
+      "mon_fri": 4
+    },
+    "9": {
+      "mon_fri": 1
+    },
+    "50": {
+      "saturday": 1,
+      "mon_fri": 1
+    },
+    "46": {
+      "mon_fri": 3,
+      "saturday": 1
+    }
+  },
+  "350": {
+    "10": {
+      "mon_fri": 3
+    }
+  },
+  "47": {
+    "1": {
+      "saturday": 32,
+      "sunday": 21,
+      "mon_fri": 40
+    }
+  },
+  "221": {
+    "36": {
+      "saturday": 3,
+      "sunday": 3,
+      "mon_fri": 7
+    },
+    "39": {
+      "sunday": 1,
+      "saturday": 1,
+      "mon_fri": 1
+    },
+    "30": {
+      "saturday": 4,
+      "mon_fri": 4,
+      "sunday": 3
+    }
+  },
+  "44": {
+    "1": {
+      "saturday": 32,
+      "mon_fri": 40,
+      "sunday": 21
+    }
+  },
+  "210": {
+    "35": {
+      "saturday": 7,
+      "sunday": 7,
+      "mon_fri": 13
+    },
+    "30": {
+      "sunday": 3,
+      "saturday": 4,
+      "mon_fri": 4
+    },
+    "36": {
+      "mon_fri": 9,
+      "sunday": 4,
+      "saturday": 4
+    },
+    "31": {
+      "mon_fri": 9,
+      "saturday": 3,
+      "sunday": 2
+    }
+  },
+  "142": {
+    "15": {
+      "mon_fri": 1
+    },
+    "60": {
+      "sunday": 8,
+      "saturday": 7,
+      "mon_fri": 19
+    }
+  },
+  "86": {
+    "3": {
+      "sunday": 5,
+      "saturday": 5,
+      "mon_fri": 23
+    },
+    "6": {
+      "mon_fri": 20,
+      "saturday": 12,
+      "sunday": 9
+    },
+    "1": {
+      "saturday": 31,
+      "sunday": 22,
+      "mon_fri": 40
+    },
+    "5": {
+      "mon_fri": 8
+    },
+    "B": {
+      "mon_fri": 13,
+      "saturday": 6
+    },
+    "2": {
+      "saturday": 29,
+      "mon_fri": 31,
+      "sunday": 14
+    }
+  },
+  "6": {
+    "6": {
+      "mon_fri": 1,
+      "sunday": 9,
+      "saturday": 6
+    },
+    "8": {
+      "mon_fri": 3
+    },
+    "1": {
+      "mon_fri": 15,
+      "saturday": 10,
+      "sunday": 3
+    },
+    "5": {
+      "mon_fri": 7
+    }
+  },
+  "351": {
+    "10": {
+      "mon_fri": 3
+    }
+  },
+  "257": {
+    "50": {
+      "mon_fri": 1,
+      "saturday": 1
+    },
+    "40": {
+      "mon_fri": 3,
+      "sunday": 2
+    },
+    "45": {
+      "mon_fri": 4,
+      "saturday": 3
+    },
+    "46": {
+      "mon_fri": 3,
+      "saturday": 1
+    },
+    "9": {
+      "mon_fri": 1
+    }
+  },
+  "282": {
+    "51": {
+      "mon_fri": 1
+    },
+    "46": {
+      "mon_fri": 3,
+      "saturday": 2,
+      "sunday": 2
+    },
+    "45": {
+      "saturday": 6,
+      "mon_fri": 10,
+      "sunday": 3
+    },
+    "49": {
+      "mon_fri": 1
+    }
+  },
+  "258": {
+    "45": {
+      "sunday": 3,
+      "mon_fri": 10,
+      "saturday": 6
+    },
+    "49": {
+      "mon_fri": 2
+    },
+    "9": {
+      "mon_fri": 2
+    },
+    "46": {
+      "mon_fri": 5,
+      "saturday": 2,
+      "sunday": 2
+    }
+  },
+  "187": {
+    "22": {
+      "saturday": 2,
+      "mon_fri": 11
+    },
+    "15": {
+      "sunday": 7,
+      "saturday": 13,
+      "mon_fri": 21
+    }
+  },
+  "262": {
+    "46": {
+      "mon_fri": 5,
+      "sunday": 2,
+      "saturday": 2
+    },
+    "45": {
+      "sunday": 3,
+      "saturday": 6,
+      "mon_fri": 10
+    },
+    "49": {
+      "mon_fri": 2
+    }
+  },
+  "267": {
+    "45": {
+      "saturday": 4,
+      "sunday": 3,
+      "mon_fri": 7
+    },
+    "49": {
+      "mon_fri": 1
+    },
+    "40": {
+      "saturday": 2,
+      "mon_fri": 4,
+      "sunday": 2
+    },
+    "51": {
+      "mon_fri": 1
+    }
+  },
+  "32": {
+    "60": {
+      "mon_fri": 17,
+      "sunday": 5,
+      "saturday": 7
+    },
+    "8": {
+      "mon_fri": 1
+    },
+    "2": {
+      "sunday": 14,
+      "mon_fri": 32,
+      "saturday": 29
+    },
+    "6": {
+      "mon_fri": 1
+    },
+    "3": {
+      "sunday": 6,
+      "mon_fri": 22,
+      "saturday": 6
+    }
+  },
+  "14": {
+    "2": {
+      "saturday": 29,
+      "sunday": 14,
+      "mon_fri": 32
+    },
+    "60": {
+      "mon_fri": 2,
+      "saturday": 3
+    }
+  },
+  "159": {
+    "15": {
+      "sunday": 7,
+      "mon_fri": 22,
+      "saturday": 14
+    }
+  },
+  "348": {
+    "4": {
+      "mon_fri": 3
+    }
+  },
+  "131": {
+    "38": {
+      "mon_fri": 3,
+      "sunday": 3,
+      "saturday": 2
+    },
+    "35": {
+      "sunday": 4,
+      "saturday": 5,
+      "mon_fri": 10
+    },
+    "37": {
+      "saturday": 1,
+      "sunday": 1,
+      "mon_fri": 2
+    },
+    "31": {
+      "saturday": 2,
+      "sunday": 1,
+      "mon_fri": 8
+    },
+    "30": {
+      "mon_fri": 4,
+      "saturday": 4,
+      "sunday": 3
+    },
+    "39": {
+      "mon_fri": 1,
+      "saturday": 1,
+      "sunday": 1
+    },
+    "36": {
+      "mon_fri": 7,
+      "saturday": 3,
+      "sunday": 3
+    },
+    "9": {
+      "mon_fri": 2
+    }
+  },
+  "26": {
+    "6": {
+      "mon_fri": 22,
+      "sunday": 9,
+      "saturday": 13
+    },
+    "8": {
+      "mon_fri": 1
+    }
+  },
+  "166": {
+    "21": {
+      "saturday": 8,
+      "sunday": 6,
+      "mon_fri": 12
+    }
+  },
+  "341": {
+    "10": {
+      "mon_fri": 3
+    }
+  },
+  "1122": {
+    "9": {
+      "mon_fri": 3
+    },
+    "45": {
+      "mon_fri": 10,
+      "saturday": 6,
+      "sunday": 3
+    },
+    "49": {
+      "mon_fri": 2
+    },
+    "46": {
+      "sunday": 2,
+      "mon_fri": 5,
+      "saturday": 2
+    }
+  },
+  "364": {
+    "8": {
+      "mon_fri": 3
+    },
+    "6": {
+      "sunday": 9,
+      "mon_fri": 1,
+      "saturday": 6
+    }
+  },
+  "254": {
+    "46": {
+      "sunday": 2,
+      "saturday": 2,
+      "mon_fri": 5
+    },
+    "9": {
+      "mon_fri": 2
+    },
+    "45": {
+      "sunday": 3,
+      "saturday": 6,
+      "mon_fri": 10
+    },
+    "49": {
+      "mon_fri": 2
+    }
+  },
+  "171": {
+    "21": {
+      "saturday": 8,
+      "sunday": 6,
+      "mon_fri": 12
+    }
+  },
+  "148": {
+    "15": {
+      "saturday": 14,
+      "sunday": 7,
+      "mon_fri": 24
+    },
+    "60": {
+      "mon_fri": 19,
+      "sunday": 8,
+      "saturday": 7
+    }
+  },
+  "63": {
+    "60": {
+      "sunday": 5,
+      "mon_fri": 17,
+      "saturday": 7
+    }
+  },
+  "154": {
+    "15": {
+      "saturday": 14,
+      "sunday": 7,
+      "mon_fri": 22
+    }
+  },
+  "296": {
+    "15": {
+      "sunday": 7,
+      "saturday": 14,
+      "mon_fri": 24
+    },
+    "60": {
+      "mon_fri": 7,
+      "sunday": 1
+    }
+  },
+  "157": {
+    "15": {
+      "sunday": 7,
+      "saturday": 14,
+      "mon_fri": 22
+    }
+  },
+  "288": {
+    "36": {
+      "saturday": 4,
+      "mon_fri": 9,
+      "sunday": 4
+    },
+    "30": {
+      "mon_fri": 1
+    },
+    "45": {
+      "mon_fri": 2
+    }
+  },
+  "41": {
+    "60": {
+      "saturday": 7,
+      "sunday": 5,
+      "mon_fri": 17
+    },
+    "6": {
+      "saturday": 13,
+      "mon_fri": 21,
+      "sunday": 9
+    },
+    "2": {
+      "saturday": 29,
+      "sunday": 14,
+      "mon_fri": 32
+    },
+    "3": {
+      "mon_fri": 22,
+      "saturday": 6,
+      "sunday": 6
+    },
+    "1": {
+      "sunday": 21,
+      "saturday": 32,
+      "mon_fri": 40
+    },
+    "5": {
+      "mon_fri": 7
+    }
+  },
+  "57": {
+    "60": {
+      "mon_fri": 17,
+      "saturday": 7,
+      "sunday": 5
+    }
+  },
+  "113": {
+    "46": {
+      "sunday": 2,
+      "saturday": 2,
+      "mon_fri": 5
+    },
+    "45": {
+      "saturday": 6,
+      "sunday": 3,
+      "mon_fri": 10
+    },
+    "9": {
+      "mon_fri": 3
+    },
+    "49": {
+      "mon_fri": 2
+    }
+  },
+  "37": {
+    "60": {
+      "saturday": 6,
+      "sunday": 5,
+      "mon_fri": 19
+    },
+    "3": {
+      "sunday": 5,
+      "saturday": 5,
+      "mon_fri": 24
+    },
+    "2": {
+      "saturday": 29,
+      "sunday": 14,
+      "mon_fri": 32
+    }
+  },
+  "150": {
+    "15": {
+      "mon_fri": 24,
+      "saturday": 14,
+      "sunday": 7
+    },
+    "60": {
+      "mon_fri": 5,
+      "sunday": 1
+    }
+  },
+  "170": {
+    "21": {
+      "sunday": 6,
+      "mon_fri": 12,
+      "saturday": 8
+    }
+  },
+  "156": {
+    "15": {
+      "mon_fri": 22,
+      "saturday": 14,
+      "sunday": 7
+    }
+  },
+  "3352": {
+    "4": {
+      "mon_fri": 3
+    }
+  },
+  "123": {
+    "21": {
+      "mon_fri": 7,
+      "saturday": 5,
+      "sunday": 4
+    },
+    "36": {
+      "mon_fri": 6
+    },
+    "15": {
+      "sunday": 14,
+      "mon_fri": 49,
+      "saturday": 28
+    },
+    "45": {
+      "mon_fri": 6
+    },
+    "22": {
+      "saturday": 4,
+      "mon_fri": 23
+    },
+    "35": {
+      "mon_fri": 2
+    },
+    "30": {
+      "mon_fri": 2
+    },
+    "46": {
+      "mon_fri": 4
+    }
+  },
+  "252": {
+    "9": {
+      "mon_fri": 2
+    },
+    "46": {
+      "saturday": 2,
+      "sunday": 2,
+      "mon_fri": 5
+    },
+    "49": {
+      "mon_fri": 2
+    },
+    "45": {
+      "sunday": 3,
+      "saturday": 6,
+      "mon_fri": 10
+    }
+  },
+  "213": {
+    "37": {
+      "mon_fri": 2,
+      "saturday": 1,
+      "sunday": 1
+    },
+    "36": {
+      "mon_fri": 7,
+      "sunday": 3,
+      "saturday": 3
+    },
+    "31": {
+      "saturday": 2,
+      "sunday": 1,
+      "mon_fri": 8
+    },
+    "30": {
+      "sunday": 3,
+      "saturday": 4,
+      "mon_fri": 4
+    },
+    "35": {
+      "mon_fri": 10,
+      "sunday": 4,
+      "saturday": 5
+    },
+    "38": {
+      "mon_fri": 3,
+      "sunday": 3,
+      "saturday": 2
+    },
+    "39": {
+      "sunday": 1,
+      "mon_fri": 1,
+      "saturday": 1
+    }
+  },
+  "3391": {
+    "10": {
+      "mon_fri": 3
+    }
+  },
+  "141": {
+    "36": {
+      "saturday": 3,
+      "sunday": 3,
+      "mon_fri": 7
+    },
+    "39": {
+      "mon_fri": 1,
+      "saturday": 1,
+      "sunday": 1
+    },
+    "8": {
+      "mon_fri": 1
+    },
+    "30": {
+      "saturday": 4,
+      "mon_fri": 4,
+      "sunday": 3
+    },
+    "35": {
+      "mon_fri": 10,
+      "sunday": 4,
+      "saturday": 5
+    },
+    "37": {
+      "mon_fri": 2,
+      "saturday": 1,
+      "sunday": 1
+    },
+    "31": {
+      "mon_fri": 8,
+      "saturday": 2,
+      "sunday": 1
+    },
+    "38": {
+      "saturday": 2,
+      "mon_fri": 3,
+      "sunday": 3
+    },
+    "9": {
+      "mon_fri": 2
+    }
+  },
+  "70": {
+    "2": {
+      "saturday": 29,
+      "mon_fri": 32,
+      "sunday": 14
+    },
+    "4": {
+      "mon_fri": 1
+    },
+    "6": {
+      "saturday": 15,
+      "mon_fri": 27,
+      "sunday": 11
+    },
+    "45": {
+      "mon_fri": 1
+    },
+    "3": {
+      "sunday": 6,
+      "saturday": 6,
+      "mon_fri": 29
+    },
+    "7": {
+      "mon_fri": 3
+    },
+    "A": {
+      "saturday": 6,
+      "mon_fri": 11
+    },
+    "1": {
+      "mon_fri": 48,
+      "saturday": 37,
+      "sunday": 24
+    },
+    "5": {
+      "mon_fri": 10
+    },
+    "9": {
+      "mon_fri": 1
+    },
+    "10": {
+      "mon_fri": 1
+    },
+    "B": {
+      "saturday": 7,
+      "mon_fri": 13
+    }
+  },
+  "56": {
+    "60": {
+      "saturday": 5,
+      "mon_fri": 18,
+      "sunday": 5
+    }
+  },
+  "185": {
+    "15": {
+      "saturday": 1,
+      "mon_fri": 3
+    },
+    "22": {
+      "saturday": 2,
+      "mon_fri": 12
+    }
+  },
+  "127": {
+    "36": {
+      "mon_fri": 2
+    },
+    "46": {
+      "mon_fri": 2
+    },
+    "2": {
+      "mon_fri": 6
+    },
+    "3": {
+      "mon_fri": 2
+    },
+    "30": {
+      "mon_fri": 1
+    },
+    "22": {
+      "mon_fri": 12,
+      "saturday": 2
+    },
+    "A": {
+      "mon_fri": 1
+    },
+    "35": {
+      "mon_fri": 1
+    },
+    "45": {
+      "mon_fri": 3
+    },
+    "B": {
+      "mon_fri": 1
+    },
+    "15": {
+      "sunday": 7,
+      "saturday": 14,
+      "mon_fri": 25
+    }
+  },
+  "1166": {
+    "36": {
+      "saturday": 4,
+      "mon_fri": 9,
+      "sunday": 4
+    },
+    "45": {
+      "mon_fri": 1
+    }
+  },
+  "17": {
+    "2": {
+      "mon_fri": 32,
+      "sunday": 14,
+      "saturday": 29
+    },
+    "3": {
+      "mon_fri": 22,
+      "saturday": 6,
+      "sunday": 6
+    },
+    "5": {
+      "mon_fri": 7
+    },
+    "1": {
+      "sunday": 21,
+      "saturday": 32,
+      "mon_fri": 40
+    },
+    "60": {
+      "saturday": 7,
+      "mon_fri": 17,
+      "sunday": 5
+    }
+  },
+  "143": {
+    "60": {
+      "saturday": 7,
+      "mon_fri": 20,
+      "sunday": 8
+    }
+  },
+  "228": {
+    "8": {
+      "mon_fri": 1
+    },
+    "6": {
+      "mon_fri": 23,
+      "saturday": 13,
+      "sunday": 9
+    }
+  },
+  "114": {
+    "45": {
+      "mon_fri": 7,
+      "sunday": 3,
+      "saturday": 4
+    },
+    "40": {
+      "saturday": 2,
+      "mon_fri": 4,
+      "sunday": 2
+    },
+    "50": {
+      "mon_fri": 1,
+      "saturday": 1
+    },
+    "51": {
+      "mon_fri": 1
+    },
+    "9": {
+      "mon_fri": 3
+    },
+    "46": {
+      "saturday": 1,
+      "mon_fri": 3
+    },
+    "49": {
+      "mon_fri": 1
+    }
+  },
+  "1": {
+    "3": {
+      "mon_fri": 1,
+      "sunday": 1
+    },
+    "60": {
+      "sunday": 1
+    },
+    "1": {
+      "mon_fri": 6,
+      "saturday": 11,
+      "sunday": 8
+    }
+  },
+  "91": {
+    "3": {
+      "mon_fri": 1
+    },
+    "2": {
+      "sunday": 5,
+      "mon_fri": 26,
+      "saturday": 13
+    }
+  },
+  "101": {
+    "3": {
+      "mon_fri": 1
+    },
+    "A": {
+      "mon_fri": 1
+    },
+    "2": {
+      "saturday": 13,
+      "mon_fri": 25,
+      "sunday": 5
+    }
+  },
+  "115": {
+    "2": {
+      "mon_fri": 27,
+      "sunday": 5,
+      "saturday": 13
+    },
+    "B": {
+      "saturday": 6,
+      "mon_fri": 12
+    },
+    "7": {
+      "mon_fri": 1
+    },
+    "10": {
+      "mon_fri": 3
+    },
+    "3": {
+      "mon_fri": 1
+    }
+  },
+  "249": {
+    "46": {
+      "saturday": 1,
+      "mon_fri": 3
+    },
+    "45": {
+      "mon_fri": 4,
+      "saturday": 3
+    },
+    "9": {
+      "mon_fri": 1
+    },
+    "40": {
+      "mon_fri": 3,
+      "sunday": 2
+    },
+    "50": {
+      "mon_fri": 1,
+      "saturday": 1
+    }
+  },
+  "183": {
+    "15": {
+      "sunday": 7,
+      "mon_fri": 24,
+      "saturday": 14
+    },
+    "22": {
+      "mon_fri": 23,
+      "saturday": 4
+    }
+  },
+  "83": {
+    "22": {
+      "mon_fri": 12,
+      "saturday": 2
+    },
+    "35": {
+      "mon_fri": 1
+    },
+    "46": {
+      "mon_fri": 2
+    },
+    "36": {
+      "mon_fri": 2
+    },
+    "30": {
+      "mon_fri": 1
+    },
+    "15": {
+      "mon_fri": 24,
+      "saturday": 13,
+      "sunday": 7
+    },
+    "21": {
+      "saturday": 8,
+      "sunday": 6,
+      "mon_fri": 12
+    },
+    "45": {
+      "mon_fri": 3
+    }
+  },
+  "135": {
+    "35": {
+      "mon_fri": 10,
+      "saturday": 5,
+      "sunday": 4
+    },
+    "36": {
+      "sunday": 3,
+      "mon_fri": 7,
+      "saturday": 3
+    },
+    "39": {
+      "sunday": 1,
+      "mon_fri": 1,
+      "saturday": 1
+    },
+    "30": {
+      "mon_fri": 3,
+      "saturday": 3,
+      "sunday": 3
+    },
+    "9": {
+      "mon_fri": 5
+    },
+    "40": {
+      "sunday": 2,
+      "mon_fri": 4,
+      "saturday": 2
+    },
+    "38": {
+      "mon_fri": 3,
+      "saturday": 2,
+      "sunday": 3
+    },
+    "45": {
+      "mon_fri": 6,
+      "sunday": 3,
+      "saturday": 4
+    },
+    "46": {
+      "saturday": 1,
+      "mon_fri": 3
+    },
+    "51": {
+      "mon_fri": 1
+    },
+    "37": {
+      "sunday": 1,
+      "mon_fri": 2,
+      "saturday": 1
+    },
+    "31": {
+      "mon_fri": 8,
+      "saturday": 2,
+      "sunday": 1
+    },
+    "49": {
+      "mon_fri": 1
+    },
+    "50": {
+      "mon_fri": 1,
+      "saturday": 1
+    }
+  },
+  "342": {
+    "4": {
+      "mon_fri": 3
+    }
+  },
+  "303": {
+    "30": {
+      "mon_fri": 1
+    },
+    "35": {
+      "mon_fri": 1
+    },
+    "A": {
+      "mon_fri": 1
+    },
+    "21": {
+      "mon_fri": 3
+    },
+    "B": {
+      "mon_fri": 1
+    },
+    "2": {
+      "mon_fri": 6
+    },
+    "36": {
+      "mon_fri": 4
+    },
+    "15": {
+      "mon_fri": 7,
+      "saturday": 1
+    },
+    "45": {
+      "mon_fri": 3
+    },
+    "3": {
+      "mon_fri": 2
+    },
+    "46": {
+      "mon_fri": 2
+    }
+  },
+  "5002": {
+    "1": {
+      "mon_fri": 4,
+      "saturday": 2
+    },
+    "3": {
+      "mon_fri": 2,
+      "saturday": 5
+    },
+    "60": {
+      "saturday": 3,
+      "mon_fri": 6
+    },
+    "2": {
+      "saturday": 6,
+      "mon_fri": 4
+    }
+  },
+  "179": {
+    "22": {
+      "mon_fri": 12,
+      "saturday": 2
+    }
+  },
+  "27": {
+    "1": {
+      "saturday": 33,
+      "mon_fri": 43,
+      "sunday": 22
+    },
+    "60": {
+      "sunday": 5,
+      "mon_fri": 19,
+      "saturday": 6
+    },
+    "6": {
+      "sunday": 9,
+      "saturday": 13,
+      "mon_fri": 22
+    },
+    "3": {
+      "saturday": 5,
+      "sunday": 5,
+      "mon_fri": 24
+    },
+    "5": {
+      "mon_fri": 8
+    },
+    "2": {
+      "sunday": 14,
+      "saturday": 29,
+      "mon_fri": 32
+    },
+    "8": {
+      "mon_fri": 1
+    }
+  },
+  "203": {
+    "39": {
+      "saturday": 1,
+      "mon_fri": 1,
+      "sunday": 1
+    },
+    "35": {
+      "mon_fri": 10,
+      "saturday": 5,
+      "sunday": 4
+    },
+    "31": {
+      "saturday": 2,
+      "sunday": 1,
+      "mon_fri": 8
+    },
+    "38": {
+      "sunday": 3,
+      "mon_fri": 3,
+      "saturday": 2
+    },
+    "30": {
+      "mon_fri": 4,
+      "saturday": 4,
+      "sunday": 3
+    },
+    "36": {
+      "sunday": 3,
+      "mon_fri": 7,
+      "saturday": 3
+    },
+    "37": {
+      "saturday": 1,
+      "mon_fri": 2,
+      "sunday": 1
+    }
+  },
+  "274": {
+    "49": {
+      "mon_fri": 1
+    },
+    "46": {
+      "saturday": 2,
+      "mon_fri": 3,
+      "sunday": 2
+    },
+    "51": {
+      "mon_fri": 1
+    }
+  },
+  "9": {
+    "5": {
+      "mon_fri": 8
+    },
+    "3": {
+      "mon_fri": 1
+    },
+    "60": {
+      "sunday": 1
+    },
+    "1": {
+      "sunday": 23,
+      "saturday": 33,
+      "mon_fri": 43
+    }
+  },
+  "279": {
+    "49": {
+      "mon_fri": 1
+    },
+    "45": {
+      "sunday": 3,
+      "mon_fri": 7,
+      "saturday": 4
+    },
+    "40": {
+      "sunday": 2,
+      "saturday": 2,
+      "mon_fri": 4
+    },
+    "51": {
+      "mon_fri": 1
+    }
+  },
+  "266": {
+    "46": {
+      "sunday": 2,
+      "saturday": 2,
+      "mon_fri": 5
+    },
+    "45": {
+      "saturday": 6,
+      "sunday": 3,
+      "mon_fri": 10
+    },
+    "49": {
+      "mon_fri": 2
+    }
+  },
+  "3392": {
+    "4": {
+      "mon_fri": 3
+    }
+  },
+  "217": {
+    "36": {
+      "mon_fri": 1
+    },
+    "38": {
+      "saturday": 2,
+      "sunday": 3,
+      "mon_fri": 3
+    },
+    "30": {
+      "mon_fri": 2
+    },
+    "31": {
+      "mon_fri": 1
+    },
+    "37": {
+      "saturday": 1
+    },
+    "35": {
+      "sunday": 4,
+      "saturday": 5,
+      "mon_fri": 10
+    }
+  },
+  "256": {
+    "45": {
+      "mon_fri": 4,
+      "saturday": 2,
+      "sunday": 2
+    }
+  },
+  "97": {
+    "2": {
+      "sunday": 5,
+      "mon_fri": 26,
+      "saturday": 13
+    },
+    "35": {
+      "sunday": 7,
+      "saturday": 7,
+      "mon_fri": 11
+    },
+    "49": {
+      "mon_fri": 2
+    },
+    "36": {
+      "mon_fri": 8,
+      "saturday": 4,
+      "sunday": 4
+    },
+    "30": {
+      "sunday": 3,
+      "mon_fri": 4,
+      "saturday": 4
+    },
+    "31": {
+      "mon_fri": 9,
+      "saturday": 3,
+      "sunday": 2
+    },
+    "4": {
+      "mon_fri": 3
+    },
+    "15": {
+      "saturday": 18,
+      "sunday": 12,
+      "mon_fri": 28
+    },
+    "22": {
+      "saturday": 3,
+      "mon_fri": 16
+    },
+    "45": {
+      "mon_fri": 9,
+      "saturday": 6,
+      "sunday": 3
+    },
+    "46": {
+      "sunday": 2,
+      "saturday": 2,
+      "mon_fri": 5
+    }
+  },
+  "253": {
+    "46": {
+      "mon_fri": 3,
+      "saturday": 1
+    },
+    "40": {
+      "mon_fri": 3,
+      "sunday": 2
+    },
+    "45": {
+      "saturday": 3,
+      "mon_fri": 3
+    },
+    "9": {
+      "mon_fri": 1
+    }
+  },
+  "220": {
+    "36": {
+      "sunday": 4,
+      "mon_fri": 9,
+      "saturday": 4
+    },
+    "30": {
+      "mon_fri": 4,
+      "saturday": 4,
+      "sunday": 3
+    }
+  },
+  "39": {
+    "60": {
+      "mon_fri": 17,
+      "sunday": 5,
+      "saturday": 7
+    },
+    "3": {
+      "mon_fri": 22,
+      "saturday": 6,
+      "sunday": 6
+    },
+    "6": {
+      "mon_fri": 1
+    },
+    "2": {
+      "saturday": 29,
+      "mon_fri": 32,
+      "sunday": 14
+    }
+  },
+  "28": {
+    "3": {
+      "saturday": 6,
+      "sunday": 6,
+      "mon_fri": 22
+    },
+    "6": {
+      "saturday": 13,
+      "mon_fri": 21,
+      "sunday": 9
+    },
+    "2": {
+      "saturday": 29,
+      "sunday": 14,
+      "mon_fri": 32
+    },
+    "1": {
+      "sunday": 21,
+      "mon_fri": 40,
+      "saturday": 32
+    },
+    "60": {
+      "mon_fri": 17,
+      "sunday": 5,
+      "saturday": 7
+    },
+    "5": {
+      "mon_fri": 7
+    },
+    "8": {
+      "mon_fri": 1
+    }
+  },
+  "153": {
+    "15": {
+      "mon_fri": 24,
+      "saturday": 14,
+      "sunday": 7
+    },
+    "60": {
+      "sunday": 1,
+      "mon_fri": 7
+    }
+  },
+  "2272": {
+    "6": {
+      "saturday": 12,
+      "sunday": 20,
+      "mon_fri": 7
+    },
+    "8": {
+      "mon_fri": 6
+    }
+  },
+  "338": {
+    "4": {
+      "mon_fri": 3
+    }
+  },
+  "109": {
+    "7": {
+      "mon_fri": 1
+    },
+    "B": {
+      "saturday": 6,
+      "mon_fri": 12
+    }
+  },
+  "3": {
+    "1": {
+      "mon_fri": 6,
+      "sunday": 8,
+      "saturday": 11
+    },
+    "3": {
+      "mon_fri": 1,
+      "sunday": 1
+    },
+    "60": {
+      "sunday": 1
+    }
+  },
+  "177": {
+    "22": {
+      "mon_fri": 12,
+      "saturday": 2
+    }
+  },
+  "1123": {
+    "49": {
+      "mon_fri": 1
+    },
+    "51": {
+      "mon_fri": 1
+    },
+    "9": {
+      "mon_fri": 3
+    },
+    "45": {
+      "saturday": 4,
+      "mon_fri": 7,
+      "sunday": 3
+    },
+    "40": {
+      "mon_fri": 4,
+      "saturday": 2,
+      "sunday": 2
+    },
+    "46": {
+      "mon_fri": 3,
+      "saturday": 1
+    },
+    "50": {
+      "mon_fri": 1,
+      "saturday": 1
+    }
+  },
+  "263": {
+    "51": {
+      "mon_fri": 1
+    },
+    "45": {
+      "mon_fri": 7,
+      "saturday": 4,
+      "sunday": 3
+    },
+    "46": {
+      "mon_fri": 3,
+      "saturday": 1
+    },
+    "40": {
+      "saturday": 2,
+      "sunday": 2,
+      "mon_fri": 4
+    },
+    "49": {
+      "mon_fri": 1
+    },
+    "50": {
+      "saturday": 1,
+      "mon_fri": 1
+    }
+  },
+  "291": {
+    "36": {
+      "mon_fri": 2
+    },
+    "45": {
+      "mon_fri": 1
+    },
+    "30": {
+      "mon_fri": 1
+    }
+  },
+  "212": {
+    "30": {
+      "saturday": 4,
+      "sunday": 3,
+      "mon_fri": 4
+    },
+    "36": {
+      "sunday": 4,
+      "mon_fri": 9,
+      "saturday": 4
+    },
+    "31": {
+      "saturday": 3,
+      "mon_fri": 9,
+      "sunday": 2
+    },
+    "35": {
+      "mon_fri": 13,
+      "sunday": 7,
+      "saturday": 7
+    }
+  },
+  "286": {
+    "36": {
+      "sunday": 4,
+      "saturday": 4,
+      "mon_fri": 9
+    },
+    "45": {
+      "mon_fri": 1
+    }
+  },
+  "139": {
+    "3": {
+      "mon_fri": 1
+    },
+    "2": {
+      "sunday": 5,
+      "mon_fri": 27,
+      "saturday": 13
+    },
+    "4": {
+      "mon_fri": 3
+    }
+  },
+  "344": {
+    "10": {
+      "mon_fri": 3
+    }
+  },
+  "62": {
+    "60": {
+      "saturday": 5,
+      "mon_fri": 18,
+      "sunday": 5
+    }
+  },
+  "197": {
+    "36": {
+      "sunday": 4,
+      "mon_fri": 9,
+      "saturday": 4
+    },
+    "30": {
+      "saturday": 4,
+      "mon_fri": 4,
+      "sunday": 3
+    },
+    "35": {
+      "mon_fri": 13,
+      "saturday": 7,
+      "sunday": 7
+    },
+    "31": {
+      "mon_fri": 9,
+      "saturday": 3,
+      "sunday": 2
+    }
+  },
+  "205": {
+    "39": {
+      "sunday": 1,
+      "saturday": 1,
+      "mon_fri": 1
+    },
+    "36": {
+      "sunday": 3,
+      "saturday": 3,
+      "mon_fri": 7
+    },
+    "31": {
+      "mon_fri": 8,
+      "saturday": 2,
+      "sunday": 1
+    },
+    "38": {
+      "sunday": 3,
+      "mon_fri": 3,
+      "saturday": 2
+    },
+    "30": {
+      "saturday": 4,
+      "sunday": 3,
+      "mon_fri": 4
+    },
+    "35": {
+      "saturday": 5,
+      "mon_fri": 10,
+      "sunday": 4
+    },
+    "37": {
+      "saturday": 1,
+      "mon_fri": 2,
+      "sunday": 1
+    }
+  },
+  "277": {
+    "49": {
+      "mon_fri": 2
+    }
+  },
+  "112": {
+    "B": {
+      "mon_fri": 12,
+      "saturday": 6
+    },
+    "7": {
+      "mon_fri": 1
+    }
+  },
+  "215": {
+    "38": {
+      "sunday": 3,
+      "mon_fri": 3,
+      "saturday": 2
+    },
+    "39": {
+      "saturday": 1,
+      "mon_fri": 1,
+      "sunday": 1
+    },
+    "31": {
+      "sunday": 1,
+      "mon_fri": 8,
+      "saturday": 2
+    },
+    "36": {
+      "sunday": 3,
+      "saturday": 3,
+      "mon_fri": 7
+    },
+    "30": {
+      "sunday": 3,
+      "saturday": 4,
+      "mon_fri": 4
+    },
+    "37": {
+      "mon_fri": 2,
+      "saturday": 1,
+      "sunday": 1
+    },
+    "35": {
+      "saturday": 5,
+      "sunday": 4,
+      "mon_fri": 10
+    }
+  },
+  "357": {
+    "8": {
+      "mon_fri": 1
+    }
+  },
+  "186": {
+    "22": {
+      "saturday": 2,
+      "mon_fri": 12
+    },
+    "15": {
+      "saturday": 1,
+      "mon_fri": 3
+    }
+  },
+  "147": {
+    "15": {
+      "saturday": 14,
+      "sunday": 7,
+      "mon_fri": 24
+    },
+    "60": {
+      "sunday": 8,
+      "saturday": 7,
+      "mon_fri": 20
+    }
+  },
+  "260": {
+    "46": {
+      "mon_fri": 5,
+      "sunday": 2,
+      "saturday": 2
+    },
+    "45": {
+      "mon_fri": 10,
+      "sunday": 3,
+      "saturday": 6
+    },
+    "49": {
+      "mon_fri": 2
+    }
+  },
+  "362": {
+    "8": {
+      "mon_fri": 3
+    },
+    "6": {
+      "saturday": 6,
+      "mon_fri": 1,
+      "sunday": 9
+    }
+  },
+  "133": {
+    "22": {
+      "mon_fri": 11,
+      "saturday": 2
+    },
+    "15": {
+      "mon_fri": 22,
+      "sunday": 7,
+      "saturday": 13
+    }
+  },
+  "294": {
+    "30": {
+      "mon_fri": 4,
+      "saturday": 4,
+      "sunday": 3
+    },
+    "36": {
+      "saturday": 4,
+      "mon_fri": 9,
+      "sunday": 4
+    }
+  },
+  "182": {
+    "15": {
+      "saturday": 14,
+      "mon_fri": 24,
+      "sunday": 7
+    }
+  },
+  "95": {
+    "A": {
+      "mon_fri": 11,
+      "saturday": 6
+    },
+    "2": {
+      "mon_fri": 21,
+      "saturday": 13,
+      "sunday": 5
+    }
+  },
+  "358": {
+    "8": {
+      "mon_fri": 1
+    }
+  },
+  "241": {
+    "6": {
+      "mon_fri": 8
+    }
+  },
+  "326": {
+    "7": {
+      "mon_fri": 3
+    }
+  },
+  "316": {
+    "7": {
+      "mon_fri": 3
+    }
+  },
+  "176": {
+    "22": {
+      "saturday": 2,
+      "mon_fri": 12
+    }
+  },
+  "126": {
+    "B": {
+      "mon_fri": 1
+    },
+    "22": {
+      "saturday": 2,
+      "mon_fri": 11
+    },
+    "15": {
+      "sunday": 7,
+      "mon_fri": 25,
+      "saturday": 14
+    },
+    "3": {
+      "mon_fri": 2
+    },
+    "46": {
+      "mon_fri": 2
+    },
+    "2": {
+      "mon_fri": 6
+    },
+    "A": {
+      "mon_fri": 1
+    },
+    "45": {
+      "mon_fri": 3
+    },
+    "36": {
+      "mon_fri": 3
+    },
+    "30": {
+      "mon_fri": 1
+    },
+    "35": {
+      "mon_fri": 1
+    }
+  },
+  "198": {
+    "35": {
+      "mon_fri": 10,
+      "saturday": 5,
+      "sunday": 4
+    },
+    "38": {
+      "sunday": 3,
+      "mon_fri": 3,
+      "saturday": 2
+    },
+    "36": {
+      "saturday": 3,
+      "mon_fri": 7,
+      "sunday": 3
+    },
+    "39": {
+      "sunday": 1,
+      "mon_fri": 1,
+      "saturday": 1
+    },
+    "31": {
+      "saturday": 2,
+      "sunday": 1,
+      "mon_fri": 8
+    },
+    "30": {
+      "saturday": 4,
+      "mon_fri": 4,
+      "sunday": 3
+    },
+    "37": {
+      "saturday": 1,
+      "mon_fri": 2,
+      "sunday": 1
+    }
+  },
+  "195": {
+    "35": {
+      "mon_fri": 13,
+      "saturday": 7,
+      "sunday": 7
+    },
+    "31": {
+      "mon_fri": 9,
+      "saturday": 3,
+      "sunday": 2
+    },
+    "30": {
+      "saturday": 4,
+      "mon_fri": 4,
+      "sunday": 3
+    },
+    "36": {
+      "saturday": 4,
+      "mon_fri": 9,
+      "sunday": 4
+    }
+  },
+  "138": {
+    "4": {
+      "mon_fri": 3
+    },
+    "2": {
+      "sunday": 5,
+      "saturday": 13,
+      "mon_fri": 27
+    }
+  },
+  "347": {
+    "A": {
+      "mon_fri": 2
+    },
+    "10": {
+      "mon_fri": 3
+    }
+  },
+  "151": {
+    "60": {
+      "saturday": 7,
+      "sunday": 8,
+      "mon_fri": 20
+    },
+    "15": {
+      "sunday": 7,
+      "mon_fri": 24,
+      "saturday": 14
+    }
+  },
+  "248": {
+    "9": {
+      "mon_fri": 3
+    },
+    "45": {
+      "mon_fri": 10,
+      "saturday": 6,
+      "sunday": 3
+    },
+    "46": {
+      "sunday": 2,
+      "mon_fri": 5,
+      "saturday": 2
+    }
+  },
+  "208": {
+    "31": {
+      "mon_fri": 9,
+      "saturday": 3,
+      "sunday": 2
+    },
+    "35": {
+      "sunday": 7,
+      "saturday": 7,
+      "mon_fri": 13
+    },
+    "36": {
+      "sunday": 4,
+      "mon_fri": 9,
+      "saturday": 4
+    },
+    "30": {
+      "mon_fri": 4,
+      "saturday": 4,
+      "sunday": 3
+    }
+  },
+  "121": {
+    "7": {
+      "mon_fri": 1
+    },
+    "A": {
+      "mon_fri": 11,
+      "saturday": 6
+    },
+    "2": {
+      "mon_fri": 1
+    }
+  },
+  "125": {
+    "B": {
+      "mon_fri": 12,
+      "saturday": 6
+    },
+    "7": {
+      "mon_fri": 3
+    }
+  },
+  "244": {
+    "6": {
+      "mon_fri": 4
+    }
+  },
+  "317": {
+    "7": {
+      "mon_fri": 3
+    }
+  },
+  "3401": {
+    "10": {
+      "mon_fri": 3
+    }
+  },
+  "209": {
+    "30": {
+      "mon_fri": 4,
+      "saturday": 4,
+      "sunday": 3
+    },
+    "38": {
+      "saturday": 2,
+      "sunday": 3,
+      "mon_fri": 3
+    },
+    "31": {
+      "saturday": 2,
+      "mon_fri": 8,
+      "sunday": 1
+    },
+    "37": {
+      "mon_fri": 2,
+      "saturday": 1,
+      "sunday": 1
+    },
+    "39": {
+      "saturday": 1,
+      "sunday": 1,
+      "mon_fri": 1
+    },
+    "36": {
+      "saturday": 3,
+      "sunday": 3,
+      "mon_fri": 7
+    },
+    "35": {
+      "sunday": 4,
+      "mon_fri": 10,
+      "saturday": 5
+    }
+  },
+  "194": {
+    "36": {
+      "sunday": 3,
+      "saturday": 3,
+      "mon_fri": 7
+    },
+    "37": {
+      "saturday": 1,
+      "mon_fri": 2,
+      "sunday": 1
+    },
+    "35": {
+      "mon_fri": 10,
+      "saturday": 5,
+      "sunday": 4
+    },
+    "30": {
+      "sunday": 3,
+      "saturday": 4,
+      "mon_fri": 4
+    },
+    "38": {
+      "saturday": 2,
+      "sunday": 3,
+      "mon_fri": 3
+    },
+    "9": {
+      "mon_fri": 2
+    },
+    "31": {
+      "mon_fri": 8,
+      "saturday": 2,
+      "sunday": 1
+    },
+    "39": {
+      "sunday": 1,
+      "mon_fri": 1,
+      "saturday": 1
+    }
+  },
+  "73": {
+    "2": {
+      "saturday": 2,
+      "sunday": 1,
+      "mon_fri": 3
+    },
+    "35": {
+      "mon_fri": 11,
+      "saturday": 7,
+      "sunday": 7
+    },
+    "31": {
+      "mon_fri": 9,
+      "saturday": 3,
+      "sunday": 2
+    },
+    "49": {
+      "mon_fri": 2
+    },
+    "46": {
+      "sunday": 2,
+      "mon_fri": 5,
+      "saturday": 2
+    },
+    "15": {
+      "saturday": 18,
+      "sunday": 12,
+      "mon_fri": 28
+    },
+    "36": {
+      "mon_fri": 8,
+      "saturday": 4,
+      "sunday": 4
+    },
+    "4": {
+      "mon_fri": 3
+    },
+    "22": {
+      "mon_fri": 16,
+      "saturday": 3
+    },
+    "30": {
+      "sunday": 3,
+      "saturday": 4,
+      "mon_fri": 4
+    },
+    "45": {
+      "sunday": 3,
+      "mon_fri": 9,
+      "saturday": 6
+    }
+  },
+  "130": {
+    "35": {
+      "mon_fri": 12,
+      "sunday": 7,
+      "saturday": 7
+    },
+    "36": {
+      "saturday": 4,
+      "sunday": 4,
+      "mon_fri": 8
+    },
+    "9": {
+      "mon_fri": 1
+    },
+    "2": {
+      "mon_fri": 1
+    },
+    "30": {
+      "mon_fri": 4,
+      "saturday": 4,
+      "sunday": 3
+    },
+    "A": {
+      "mon_fri": 11,
+      "saturday": 6
+    },
+    "31": {
+      "mon_fri": 9,
+      "saturday": 3,
+      "sunday": 2
+    }
+  },
+  "19": {
+    "6": {
+      "saturday": 13,
+      "sunday": 9,
+      "mon_fri": 23
+    },
+    "8": {
+      "mon_fri": 1
+    }
+  },
+  "271": {
+    "46": {
+      "mon_fri": 3,
+      "saturday": 1
+    },
+    "50": {
+      "saturday": 1,
+      "mon_fri": 1
+    }
+  },
+  "169": {
+    "21": {
+      "mon_fri": 12,
+      "saturday": 8,
+      "sunday": 6
+    }
+  },
+  "107": {
+    "7": {
+      "mon_fri": 1
+    },
+    "B": {
+      "saturday": 6,
+      "mon_fri": 12
+    }
+  },
+  "287": {
+    "39": {
+      "sunday": 1,
+      "mon_fri": 1,
+      "saturday": 1
+    },
+    "30": {
+      "sunday": 3,
+      "saturday": 4,
+      "mon_fri": 4
+    },
+    "36": {
+      "sunday": 3,
+      "saturday": 3,
+      "mon_fri": 7
+    }
+  },
+  "158": {
+    "15": {
+      "saturday": 14,
+      "sunday": 7,
+      "mon_fri": 22
+    }
+  },
+  "223": {
+    "6": {
+      "sunday": 9,
+      "mon_fri": 23,
+      "saturday": 13
+    },
+    "8": {
+      "mon_fri": 1
+    }
+  },
+  "193": {
+    "36": {
+      "sunday": 4,
+      "mon_fri": 9,
+      "saturday": 4
+    },
+    "31": {
+      "mon_fri": 9,
+      "saturday": 3,
+      "sunday": 2
+    },
+    "35": {
+      "saturday": 7,
+      "mon_fri": 13,
+      "sunday": 7
+    },
+    "9": {
+      "mon_fri": 2
+    },
+    "30": {
+      "mon_fri": 4,
+      "saturday": 4,
+      "sunday": 3
+    }
+  },
+  "5005": {
+    "9": {
+      "mon_fri": 3
+    }
+  },
+  "242": {
+    "6": {
+      "mon_fri": 4
+    }
+  },
+  "3402": {
+    "4": {
+      "mon_fri": 3
+    }
+  },
+  "327": {
+    "4": {
+      "mon_fri": 3
+    }
+  },
+  "207": {
+    "39": {
+      "saturday": 1,
+      "sunday": 1,
+      "mon_fri": 1
+    },
+    "35": {
+      "mon_fri": 10,
+      "saturday": 5,
+      "sunday": 4
+    },
+    "31": {
+      "sunday": 1,
+      "mon_fri": 8,
+      "saturday": 2
+    },
+    "30": {
+      "sunday": 3,
+      "mon_fri": 4,
+      "saturday": 4
+    },
+    "36": {
+      "mon_fri": 7,
+      "saturday": 3,
+      "sunday": 3
+    },
+    "37": {
+      "sunday": 1,
+      "mon_fri": 2,
+      "saturday": 1
+    },
+    "38": {
+      "mon_fri": 3,
+      "saturday": 2,
+      "sunday": 3
+    }
+  },
+  "102": {
+    "7": {
+      "mon_fri": 1
+    },
+    "B": {
+      "mon_fri": 12,
+      "saturday": 6
+    }
+  },
+  "281": {
+    "49": {
+      "mon_fri": 2
+    },
+    "46": {
+      "mon_fri": 1,
+      "saturday": 1
+    },
+    "40": {
+      "saturday": 2,
+      "sunday": 2,
+      "mon_fri": 4
+    },
+    "50": {
+      "mon_fri": 1,
+      "saturday": 1
+    },
+    "45": {
+      "saturday": 4,
+      "sunday": 3,
+      "mon_fri": 7
+    }
+  },
+  "13": {
+    "2": {
+      "mon_fri": 17,
+      "saturday": 4,
+      "sunday": 6
+    }
+  },
+  "259": {
+    "50": {
+      "mon_fri": 1,
+      "saturday": 1
+    },
+    "51": {
+      "mon_fri": 1
+    },
+    "46": {
+      "mon_fri": 3,
+      "saturday": 1
+    },
+    "49": {
+      "mon_fri": 1
+    },
+    "45": {
+      "saturday": 4,
+      "sunday": 3,
+      "mon_fri": 7
+    },
+    "40": {
+      "sunday": 2,
+      "mon_fri": 4,
+      "saturday": 2
+    }
+  },
+  "40": {
+    "60": {
+      "mon_fri": 19,
+      "saturday": 6,
+      "sunday": 5
+    },
+    "6": {
+      "sunday": 9,
+      "mon_fri": 20,
+      "saturday": 13
+    },
+    "5": {
+      "mon_fri": 7
+    },
+    "1": {
+      "saturday": 32,
+      "sunday": 21,
+      "mon_fri": 40
+    },
+    "2": {
+      "mon_fri": 32,
+      "saturday": 29,
+      "sunday": 14
+    },
+    "3": {
+      "sunday": 5,
+      "mon_fri": 24,
+      "saturday": 5
+    }
+  },
+  "31": {
+    "8": {
+      "mon_fri": 1
+    },
+    "60": {
+      "mon_fri": 19,
+      "saturday": 6,
+      "sunday": 5
+    },
+    "2": {
+      "sunday": 14,
+      "saturday": 29,
+      "mon_fri": 32
+    },
+    "3": {
+      "mon_fri": 24,
+      "saturday": 5,
+      "sunday": 5
+    }
+  },
+  "345": {
+    "4": {
+      "mon_fri": 3
+    }
+  },
+  "229": {
+    "8": {
+      "mon_fri": 2
+    },
+    "6": {
+      "mon_fri": 21,
+      "saturday": 13,
+      "sunday": 9
+    }
+  },
+  "89": {
+    "A": {
+      "mon_fri": 1
+    },
+    "10": {
+      "mon_fri": 3
+    },
+    "3": {
+      "mon_fri": 1
+    },
+    "2": {
+      "saturday": 13,
+      "sunday": 5,
+      "mon_fri": 26
+    }
+  },
+  "189": {
+    "9": {
+      "mon_fri": 3
+    },
+    "8": {
+      "mon_fri": 1
+    },
+    "31": {
+      "saturday": 3,
+      "sunday": 2,
+      "mon_fri": 9
+    },
+    "30": {
+      "saturday": 4,
+      "sunday": 3,
+      "mon_fri": 4
+    },
+    "35": {
+      "mon_fri": 13,
+      "sunday": 7,
+      "saturday": 7
+    },
+    "36": {
+      "sunday": 4,
+      "mon_fri": 9,
+      "saturday": 4
+    }
+  },
+  "8": {
+    "60": {
+      "sunday": 1
+    },
+    "5": {
+      "mon_fri": 7
+    },
+    "1": {
+      "saturday": 32,
+      "sunday": 21,
+      "mon_fri": 40
+    },
+    "3": {
+      "mon_fri": 1,
+      "saturday": 1,
+      "sunday": 2
+    }
+  },
+  "214": {
+    "30": {
+      "saturday": 4,
+      "mon_fri": 4,
+      "sunday": 3
+    },
+    "35": {
+      "sunday": 7,
+      "saturday": 7,
+      "mon_fri": 13
+    },
+    "31": {
+      "saturday": 3,
+      "sunday": 2,
+      "mon_fri": 9
+    },
+    "36": {
+      "sunday": 4,
+      "saturday": 4,
+      "mon_fri": 9
+    }
+  },
+  "236": {
+    "8": {
+      "mon_fri": 1
+    },
+    "6": {
+      "sunday": 9,
+      "saturday": 10,
+      "mon_fri": 18
+    }
+  },
+  "230": {
+    "8": {
+      "mon_fri": 1
+    },
+    "6": {
+      "mon_fri": 23,
+      "saturday": 13,
+      "sunday": 9
+    }
+  },
+  "152": {
+    "15": {
+      "sunday": 7,
+      "mon_fri": 24,
+      "saturday": 14
+    }
+  },
+  "30": {
+    "8": {
+      "mon_fri": 1
+    },
+    "1": {
+      "mon_fri": 40,
+      "sunday": 21,
+      "saturday": 32
+    },
+    "2": {
+      "sunday": 14,
+      "mon_fri": 32,
+      "saturday": 29
+    },
+    "5": {
+      "mon_fri": 7
+    },
+    "6": {
+      "saturday": 13,
+      "mon_fri": 21,
+      "sunday": 9
+    },
+    "60": {
+      "saturday": 7,
+      "mon_fri": 17,
+      "sunday": 5
+    },
+    "3": {
+      "sunday": 6,
+      "saturday": 6,
+      "mon_fri": 22
+    }
+  },
+  "92": {
+    "2": {
+      "saturday": 13,
+      "mon_fri": 21,
+      "sunday": 5
+    },
+    "A": {
+      "saturday": 6,
+      "mon_fri": 11
+    }
+  },
+  "18": {
+    "3": {
+      "mon_fri": 23,
+      "saturday": 5,
+      "sunday": 5
+    },
+    "2": {
+      "mon_fri": 32,
+      "sunday": 14,
+      "saturday": 29
+    },
+    "60": {
+      "mon_fri": 19,
+      "sunday": 4,
+      "saturday": 6
+    }
+  },
+  "1167": {
+    "45": {
+      "mon_fri": 1
+    },
+    "36": {
+      "sunday": 3,
+      "mon_fri": 7,
+      "saturday": 3
+    },
+    "39": {
+      "mon_fri": 1,
+      "saturday": 1,
+      "sunday": 1
+    }
+  },
+  "162": {
+    "15": {
+      "saturday": 14,
+      "sunday": 7,
+      "mon_fri": 22
+    }
+  },
+  "128": {
+    "35": {
+      "mon_fri": 1
+    },
+    "A": {
+      "mon_fri": 1
+    },
+    "15": {
+      "mon_fri": 4
+    },
+    "30": {
+      "mon_fri": 1
+    },
+    "36": {
+      "mon_fri": 4
+    },
+    "B": {
+      "mon_fri": 1
+    },
+    "21": {
+      "mon_fri": 6
+    },
+    "45": {
+      "mon_fri": 3
+    },
+    "46": {
+      "mon_fri": 2
+    },
+    "2": {
+      "mon_fri": 6
+    },
+    "3": {
+      "mon_fri": 2
+    }
+  },
+  "361": {
+    "6": {
+      "sunday": 9,
+      "saturday": 6,
+      "mon_fri": 1
+    },
+    "8": {
+      "mon_fri": 3
+    }
+  },
+  "168": {
+    "21": {
+      "saturday": 8,
+      "sunday": 6,
+      "mon_fri": 12
+    }
+  },
+  "16": {
+    "1": {
+      "saturday": 33,
+      "mon_fri": 43,
+      "sunday": 23
+    },
+    "3": {
+      "mon_fri": 1
+    },
+    "60": {
+      "sunday": 1
+    },
+    "5": {
+      "mon_fri": 8
+    }
+  },
+  "191": {
+    "36": {
+      "mon_fri": 9,
+      "saturday": 4,
+      "sunday": 4
+    },
+    "8": {
+      "mon_fri": 1
+    },
+    "9": {
+      "mon_fri": 3
+    },
+    "31": {
+      "saturday": 3,
+      "sunday": 2,
+      "mon_fri": 9
+    },
+    "30": {
+      "mon_fri": 4,
+      "sunday": 3,
+      "saturday": 4
+    },
+    "35": {
+      "mon_fri": 13,
+      "sunday": 7,
+      "saturday": 7
+    }
+  },
+  "196": {
+    "37": {
+      "mon_fri": 2,
+      "saturday": 1,
+      "sunday": 1
+    },
+    "38": {
+      "mon_fri": 3,
+      "saturday": 2,
+      "sunday": 3
+    },
+    "39": {
+      "saturday": 1,
+      "mon_fri": 1,
+      "sunday": 1
+    },
+    "31": {
+      "mon_fri": 8,
+      "saturday": 2,
+      "sunday": 1
+    },
+    "30": {
+      "sunday": 3,
+      "mon_fri": 4,
+      "saturday": 4
+    },
+    "36": {
+      "mon_fri": 7,
+      "saturday": 3,
+      "sunday": 3
+    },
+    "35": {
+      "saturday": 5,
+      "mon_fri": 10,
+      "sunday": 4
+    }
+  },
+  "96": {
+    "2": {
+      "sunday": 5,
+      "mon_fri": 26,
+      "saturday": 13
+    }
+  },
+  "264": {
+    "46": {
+      "sunday": 2,
+      "mon_fri": 5,
+      "saturday": 2
+    },
+    "49": {
+      "mon_fri": 2
+    },
+    "45": {
+      "saturday": 6,
+      "mon_fri": 10,
+      "sunday": 3
+    }
+  },
+  "270": {
+    "46": {
+      "sunday": 2,
+      "mon_fri": 5,
+      "saturday": 2
+    }
+  },
+  "269": {
+    "50": {
+      "mon_fri": 1,
+      "saturday": 1
+    },
+    "46": {
+      "mon_fri": 3,
+      "saturday": 1
+    }
+  },
+  "51": {
+    "1": {
+      "mon_fri": 2
+    },
+    "3": {
+      "saturday": 4,
+      "mon_fri": 10,
+      "sunday": 4
+    },
+    "8": {
+      "mon_fri": 2
+    }
+  },
+  "21": {
+    "6": {
+      "saturday": 13,
+      "mon_fri": 22,
+      "sunday": 9
+    },
+    "8": {
+      "mon_fri": 1
+    }
+  },
+  "173": {
+    "21": {
+      "sunday": 6,
+      "mon_fri": 12,
+      "saturday": 8
+    }
+  },
+  "235": {
+    "6": {
+      "sunday": 9,
+      "mon_fri": 18,
+      "saturday": 10
+    },
+    "8": {
+      "mon_fri": 1
+    }
+  },
+  "283": {
+    "46": {
+      "saturday": 1,
+      "mon_fri": 1
+    },
+    "40": {
+      "saturday": 2,
+      "sunday": 2,
+      "mon_fri": 4
+    },
+    "50": {
+      "mon_fri": 1,
+      "saturday": 1
+    },
+    "45": {
+      "saturday": 4,
+      "mon_fri": 7,
+      "sunday": 3
+    },
+    "49": {
+      "mon_fri": 2
+    }
+  },
+  "3362": {
+    "4": {
+      "mon_fri": 3
+    }
+  },
+  "359": {
+    "8": {
+      "mon_fri": 3
+    },
+    "6": {
+      "mon_fri": 2
+    },
+    "3": {
+      "mon_fri": 3
+    }
+  },
+  "45": {
+    "1": {
+      "mon_fri": 40,
+      "sunday": 21,
+      "saturday": 32
+    }
+  },
+  "190": {
+    "31": {
+      "mon_fri": 8,
+      "saturday": 2,
+      "sunday": 1
+    },
+    "39": {
+      "sunday": 1,
+      "mon_fri": 1,
+      "saturday": 1
+    },
+    "35": {
+      "mon_fri": 10,
+      "sunday": 4,
+      "saturday": 5
+    },
+    "9": {
+      "mon_fri": 2
+    },
+    "8": {
+      "mon_fri": 1
+    },
+    "30": {
+      "mon_fri": 4,
+      "saturday": 4,
+      "sunday": 3
+    },
+    "36": {
+      "saturday": 3,
+      "mon_fri": 7,
+      "sunday": 3
+    },
+    "38": {
+      "saturday": 2,
+      "mon_fri": 3,
+      "sunday": 3
+    },
+    "37": {
+      "mon_fri": 2,
+      "saturday": 1,
+      "sunday": 1
+    }
+  },
+  "172": {
+    "21": {
+      "sunday": 6,
+      "saturday": 8,
+      "mon_fri": 12
+    }
+  },
+  "280": {
+    "36": {
+      "sunday": 1,
+      "mon_fri": 1,
+      "saturday": 1
+    },
+    "49": {
+      "mon_fri": 1
+    },
+    "51": {
+      "mon_fri": 1
+    },
+    "46": {
+      "sunday": 2,
+      "saturday": 2,
+      "mon_fri": 3
+    },
+    "45": {
+      "sunday": 3,
+      "mon_fri": 10,
+      "saturday": 6
+    }
+  },
+  "356": {
+    "8": {
+      "mon_fri": 4
+    }
+  },
+  "77": {
+    "1": {
+      "saturday": 38,
+      "sunday": 25,
+      "mon_fri": 50
+    },
+    "5": {
+      "mon_fri": 8
+    },
+    "3": {
+      "sunday": 6,
+      "mon_fri": 29,
+      "saturday": 5
+    },
+    "6": {
+      "saturday": 15,
+      "sunday": 11,
+      "mon_fri": 28
+    },
+    "35": {
+      "sunday": 4,
+      "saturday": 5,
+      "mon_fri": 10
+    },
+    "A": {
+      "saturday": 6,
+      "mon_fri": 11
+    },
+    "30": {
+      "sunday": 3,
+      "mon_fri": 2,
+      "saturday": 3
+    },
+    "45": {
+      "saturday": 4,
+      "sunday": 1,
+      "mon_fri": 6
+    },
+    "46": {
+      "mon_fri": 3,
+      "saturday": 1
+    },
+    "49": {
+      "mon_fri": 1
+    },
+    "2": {
+      "mon_fri": 3
+    },
+    "36": {
+      "saturday": 3,
+      "sunday": 3,
+      "mon_fri": 6
+    },
+    "31": {
+      "saturday": 2,
+      "sunday": 1,
+      "mon_fri": 5
+    }
+  },
+  "108": {
+    "B": {
+      "mon_fri": 12,
+      "saturday": 6
+    },
+    "7": {
+      "mon_fri": 1
+    }
+  },
+  "293": {
+    "36": {
+      "saturday": 3,
+      "sunday": 3,
+      "mon_fri": 7
+    },
+    "30": {
+      "sunday": 3,
+      "mon_fri": 4,
+      "saturday": 4
+    },
+    "39": {
+      "mon_fri": 1,
+      "saturday": 1,
+      "sunday": 1
+    }
+  },
+  "265": {
+    "40": {
+      "mon_fri": 4,
+      "saturday": 2,
+      "sunday": 2
+    },
+    "45": {
+      "mon_fri": 7,
+      "saturday": 4,
+      "sunday": 3
+    },
+    "49": {
+      "mon_fri": 1
+    },
+    "51": {
+      "mon_fri": 1
+    },
+    "46": {
+      "saturday": 1,
+      "mon_fri": 3
+    },
+    "50": {
+      "saturday": 1,
+      "mon_fri": 1
+    }
+  },
+  "20": {
+    "8": {
+      "mon_fri": 1
+    },
+    "6": {
+      "mon_fri": 23,
+      "saturday": 13,
+      "sunday": 9
+    }
+  },
+  "60": {
+    "5": {
+      "mon_fri": 8
+    },
+    "1": {
+      "mon_fri": 43,
+      "sunday": 22,
+      "saturday": 33
+    },
+    "6": {
+      "saturday": 13,
+      "mon_fri": 22,
+      "sunday": 9
+    }
+  },
+  "146": {
+    "15": {
+      "sunday": 7,
+      "mon_fri": 24,
+      "saturday": 14
+    },
+    "60": {
+      "saturday": 7,
+      "sunday": 8,
+      "mon_fri": 19
+    }
+  },
+  "29": {
+    "60": {
+      "saturday": 6,
+      "mon_fri": 19,
+      "sunday": 5
+    },
+    "1": {
+      "mon_fri": 43,
+      "sunday": 22,
+      "saturday": 33
+    },
+    "5": {
+      "mon_fri": 8
+    },
+    "2": {
+      "sunday": 14,
+      "saturday": 29,
+      "mon_fri": 32
+    },
+    "3": {
+      "saturday": 5,
+      "mon_fri": 24,
+      "sunday": 5
+    },
+    "6": {
+      "mon_fri": 22,
+      "sunday": 9,
+      "saturday": 13
+    },
+    "8": {
+      "mon_fri": 1
+    }
+  },
+  "332": {
+    "4": {
+      "mon_fri": 3
+    }
+  },
+  "136": {
+    "49": {
+      "mon_fri": 2
+    },
+    "30": {
+      "sunday": 3,
+      "mon_fri": 4,
+      "saturday": 4
+    },
+    "2": {
+      "mon_fri": 1
+    },
+    "35": {
+      "sunday": 7,
+      "saturday": 7,
+      "mon_fri": 12
+    },
+    "9": {
+      "mon_fri": 4
+    },
+    "45": {
+      "sunday": 3,
+      "saturday": 6,
+      "mon_fri": 10
+    },
+    "36": {
+      "sunday": 4,
+      "mon_fri": 8,
+      "saturday": 4
+    },
+    "31": {
+      "saturday": 3,
+      "sunday": 2,
+      "mon_fri": 9
+    },
+    "A": {
+      "mon_fri": 11,
+      "saturday": 6
+    },
+    "46": {
+      "mon_fri": 5,
+      "saturday": 2,
+      "sunday": 2
+    }
+  },
+  "116": {
+    "B": {
+      "saturday": 6,
+      "mon_fri": 12
+    },
+    "7": {
+      "mon_fri": 1
+    }
+  },
+  "204": {
+    "30": {
+      "sunday": 3,
+      "saturday": 4,
+      "mon_fri": 4
+    },
+    "31": {
+      "saturday": 3,
+      "sunday": 2,
+      "mon_fri": 9
+    },
+    "35": {
+      "saturday": 7,
+      "sunday": 7,
+      "mon_fri": 13
+    },
+    "36": {
+      "saturday": 4,
+      "sunday": 4,
+      "mon_fri": 9
+    }
+  },
+  "255": {
+    "9": {
+      "mon_fri": 1
+    },
+    "46": {
+      "saturday": 1,
+      "mon_fri": 3
+    },
+    "40": {
+      "sunday": 2,
+      "mon_fri": 3
+    },
+    "45": {
+      "mon_fri": 3,
+      "saturday": 3
+    }
+  },
+  "290": {
+    "30": {
+      "mon_fri": 1
+    },
+    "45": {
+      "mon_fri": 1
+    },
+    "36": {
+      "mon_fri": 2
+    }
+  },
+  "33": {
+    "2": {
+      "mon_fri": 32,
+      "sunday": 14,
+      "saturday": 29
+    },
+    "8": {
+      "mon_fri": 1
+    },
+    "60": {
+      "mon_fri": 19,
+      "sunday": 5,
+      "saturday": 6
+    },
+    "3": {
+      "sunday": 5,
+      "saturday": 5,
+      "mon_fri": 24
+    }
+  },
+  "366": {
+    "7": {
+      "mon_fri": 3
+    }
+  },
+  "225": {
+    "6": {
+      "mon_fri": 23,
+      "saturday": 13,
+      "sunday": 9
+    },
+    "8": {
+      "mon_fri": 1
+    }
+  },
+  "34": {
+    "60": {
+      "mon_fri": 17,
+      "saturday": 7,
+      "sunday": 5
+    },
+    "2": {
+      "saturday": 29,
+      "sunday": 14,
+      "mon_fri": 32
+    },
+    "6": {
+      "mon_fri": 1
+    },
+    "8": {
+      "mon_fri": 1
+    },
+    "3": {
+      "saturday": 6,
+      "mon_fri": 22,
+      "sunday": 6
+    }
+  },
+  "2271": {
+    "6": {
+      "mon_fri": 1,
+      "sunday": 9,
+      "saturday": 6
+    },
+    "8": {
+      "mon_fri": 3
+    }
+  },
+  "3361": {
+    "10": {
+      "mon_fri": 3
+    }
+  },
+  "261": {
+    "49": {
+      "mon_fri": 1
+    },
+    "50": {
+      "saturday": 1,
+      "mon_fri": 1
+    },
+    "51": {
+      "mon_fri": 1
+    },
+    "45": {
+      "sunday": 3,
+      "mon_fri": 7,
+      "saturday": 4
+    },
+    "40": {
+      "sunday": 2,
+      "saturday": 2,
+      "mon_fri": 4
+    },
+    "46": {
+      "saturday": 1,
+      "mon_fri": 3
+    }
+  },
+  "88": {
+    "A": {
+      "mon_fri": 13,
+      "saturday": 6
+    },
+    "2": {
+      "saturday": 13,
+      "sunday": 5,
+      "mon_fri": 21
+    },
+    "4": {
+      "mon_fri": 3
+    }
+  },
+  "250": {
+    "49": {
+      "mon_fri": 2
+    },
+    "9": {
+      "mon_fri": 2
+    },
+    "46": {
+      "mon_fri": 5,
+      "sunday": 2,
+      "saturday": 2
+    },
+    "45": {
+      "mon_fri": 10,
+      "sunday": 3,
+      "saturday": 6
+    }
+  },
+  "328": {
+    "4": {
+      "mon_fri": 3
+    }
+  },
+  "199": {
+    "35": {
+      "sunday": 7,
+      "mon_fri": 13,
+      "saturday": 7
+    },
+    "30": {
+      "sunday": 3,
+      "mon_fri": 4,
+      "saturday": 4
+    },
+    "36": {
+      "mon_fri": 9,
+      "saturday": 4,
+      "sunday": 4
+    },
+    "31": {
+      "saturday": 3,
+      "mon_fri": 9,
+      "sunday": 2
+    }
+  },
+  "319": {
+    "7": {
+      "mon_fri": 3
+    }
+  },
+  "35": {
+    "3": {
+      "saturday": 4,
+      "mon_fri": 10,
+      "sunday": 4
+    },
+    "8": {
+      "mon_fri": 1
+    }
+  },
+  "331": {
+    "4": {
+      "mon_fri": 3
+    }
+  },
+  "329": {
+    "10": {
+      "mon_fri": 3
+    }
+  },
+  "349": {
+    "10": {
+      "mon_fri": 3
+    }
+  },
+  "22": {
+    "6": {
+      "mon_fri": 23,
+      "sunday": 9,
+      "saturday": 13
+    },
+    "8": {
+      "mon_fri": 1
+    }
+  },
+  "124": {
+    "45": {
+      "mon_fri": 3
+    },
+    "3": {
+      "mon_fri": 2
+    },
+    "35": {
+      "mon_fri": 1
+    },
+    "30": {
+      "mon_fri": 1
+    },
+    "46": {
+      "mon_fri": 2
+    },
+    "A": {
+      "mon_fri": 1
+    },
+    "2": {
+      "mon_fri": 6
+    },
+    "21": {
+      "mon_fri": 3
+    },
+    "36": {
+      "mon_fri": 4
+    },
+    "B": {
+      "mon_fri": 1
+    },
+    "15": {
+      "saturday": 1,
+      "mon_fri": 7
+    }
+  },
+  "84": {
+    "22": {
+      "mon_fri": 12,
+      "saturday": 2
+    },
+    "15": {
+      "mon_fri": 25,
+      "sunday": 7,
+      "saturday": 14
+    }
+  },
+  "192": {
+    "35": {
+      "mon_fri": 10,
+      "sunday": 4,
+      "saturday": 5
+    },
+    "30": {
+      "sunday": 3,
+      "saturday": 4,
+      "mon_fri": 4
+    },
+    "9": {
+      "mon_fri": 2
+    },
+    "8": {
+      "mon_fri": 1
+    },
+    "31": {
+      "saturday": 2,
+      "mon_fri": 8,
+      "sunday": 1
+    },
+    "37": {
+      "sunday": 1,
+      "saturday": 1,
+      "mon_fri": 2
+    },
+    "39": {
+      "sunday": 1,
+      "mon_fri": 1,
+      "saturday": 1
+    },
+    "38": {
+      "sunday": 3,
+      "mon_fri": 3,
+      "saturday": 2
+    },
+    "36": {
+      "mon_fri": 7,
+      "saturday": 3,
+      "sunday": 3
+    }
+  },
+  "278": {
+    "45": {
+      "mon_fri": 10,
+      "sunday": 3,
+      "saturday": 6
+    },
+    "49": {
+      "mon_fri": 2
+    }
+  },
+  "160": {
+    "15": {
+      "sunday": 7,
+      "mon_fri": 22,
+      "saturday": 14
+    }
+  },
+  "243": {
+    "6": {
+      "mon_fri": 8
+    }
+  },
+  "74": {
+    "35": {
+      "sunday": 4,
+      "mon_fri": 10,
+      "saturday": 5
+    },
+    "49": {
+      "mon_fri": 1
+    },
+    "30": {
+      "saturday": 3,
+      "mon_fri": 3,
+      "sunday": 3
+    },
+    "B": {
+      "saturday": 6,
+      "mon_fri": 12
+    },
+    "36": {
+      "sunday": 3,
+      "mon_fri": 7,
+      "saturday": 3
+    },
+    "31": {
+      "mon_fri": 5,
+      "saturday": 2,
+      "sunday": 1
+    },
+    "6": {
+      "mon_fri": 28,
+      "saturday": 15,
+      "sunday": 11
+    },
+    "5": {
+      "mon_fri": 8
+    },
+    "46": {
+      "mon_fri": 3,
+      "saturday": 1
+    },
+    "1": {
+      "mon_fri": 50,
+      "saturday": 38,
+      "sunday": 25
+    },
+    "10": {
+      "mon_fri": 3
+    },
+    "2": {
+      "sunday": 1,
+      "mon_fri": 10,
+      "saturday": 2
+    },
+    "3": {
+      "sunday": 6,
+      "mon_fri": 31,
+      "saturday": 5
+    },
+    "45": {
+      "saturday": 4,
+      "mon_fri": 6,
+      "sunday": 1
+    },
+    "7": {
+      "mon_fri": 3
+    }
+  },
+  "301": {
+    "60": {
+      "sunday": 1
+    },
+    "1": {
+      "saturday": 11,
+      "sunday": 9,
+      "mon_fri": 7
+    },
+    "3": {
+      "mon_fri": 1
+    }
+  },
+  "3351": {
+    "10": {
+      "mon_fri": 3
+    }
+  },
+  "231": {
+    "6": {
+      "saturday": 13,
+      "sunday": 9,
+      "mon_fri": 22
+    },
+    "8": {
+      "mon_fri": 1
+    }
+  },
+  "247": {
+    "9": {
+      "mon_fri": 3
+    },
+    "40": {
+      "sunday": 2,
+      "mon_fri": 4,
+      "saturday": 2
+    },
+    "46": {
+      "mon_fri": 3,
+      "saturday": 1
+    },
+    "45": {
+      "mon_fri": 7,
+      "sunday": 3,
+      "saturday": 4
+    },
+    "49": {
+      "mon_fri": 1
+    },
+    "50": {
+      "saturday": 1,
+      "mon_fri": 1
+    },
+    "51": {
+      "mon_fri": 1
+    }
+  },
+  "180": {
+    "22": {
+      "saturday": 2,
+      "mon_fri": 12
+    }
+  },
+  "59": {
+    "5": {
+      "mon_fri": 8
+    },
+    "6": {
+      "saturday": 13,
+      "sunday": 9,
+      "mon_fri": 22
+    },
+    "1": {
+      "saturday": 33,
+      "sunday": 22,
+      "mon_fri": 43
+    }
+  },
+  "355": {
+    "8": {
+      "mon_fri": 3
+    }
+  },
+  "23": {
+    "6": {
+      "sunday": 9,
+      "mon_fri": 22,
+      "saturday": 13
+    },
+    "8": {
+      "mon_fri": 1
+    }
+  },
+  "2": {
+    "1": {
+      "mon_fri": 7,
+      "saturday": 11,
+      "sunday": 9
+    },
+    "3": {
+      "mon_fri": 1
+    },
+    "60": {
+      "sunday": 1
+    }
+  },
+  "25": {
+    "8": {
+      "mon_fri": 1
+    },
+    "6": {
+      "saturday": 13,
+      "mon_fri": 23,
+      "sunday": 9
+    }
+  },
+  "122": {
+    "A": {
+      "mon_fri": 1
+    },
+    "21": {
+      "mon_fri": 3
+    },
+    "45": {
+      "mon_fri": 9
+    },
+    "15": {
+      "mon_fri": 49,
+      "saturday": 28,
+      "sunday": 14
+    },
+    "22": {
+      "mon_fri": 23,
+      "saturday": 4
+    },
+    "3": {
+      "mon_fri": 2
+    },
+    "30": {
+      "mon_fri": 3
+    },
+    "35": {
+      "mon_fri": 3
+    },
+    "36": {
+      "mon_fri": 9
+    },
+    "B": {
+      "mon_fri": 1
+    },
+    "2": {
+      "mon_fri": 6
+    },
+    "46": {
+      "mon_fri": 6
+    }
+  },
+  "211": {
+    "37": {
+      "saturday": 1,
+      "sunday": 1,
+      "mon_fri": 2
+    },
+    "30": {
+      "mon_fri": 4,
+      "saturday": 4,
+      "sunday": 3
+    },
+    "31": {
+      "saturday": 2,
+      "sunday": 1,
+      "mon_fri": 8
+    },
+    "35": {
+      "mon_fri": 10,
+      "sunday": 4,
+      "saturday": 5
+    },
+    "36": {
+      "mon_fri": 7,
+      "sunday": 3,
+      "saturday": 3
+    },
+    "39": {
+      "mon_fri": 1,
+      "saturday": 1,
+      "sunday": 1
+    },
+    "38": {
+      "saturday": 2,
+      "mon_fri": 3,
+      "sunday": 3
+    }
+  },
+  "144": {
+    "60": {
+      "saturday": 7,
+      "sunday": 8,
+      "mon_fri": 19
+    },
+    "15": {
+      "saturday": 14,
+      "sunday": 7,
+      "mon_fri": 24
+    }
+  },
+  "52": {
+    "8": {
+      "mon_fri": 3
+    },
+    "3": {
+      "saturday": 4,
+      "sunday": 4,
+      "mon_fri": 13
+    }
+  },
+  "167": {
+    "21": {
+      "saturday": 8,
+      "sunday": 6,
+      "mon_fri": 12
+    }
+  },
+  "352": {
+    "8": {
+      "mon_fri": 4
+    },
+    "3": {
+      "mon_fri": 6
+    }
+  },
+  "272": {
+    "46": {
+      "saturday": 2,
+      "sunday": 2,
+      "mon_fri": 3
+    }
+  },
+  "81": {
+    "35": {
+      "sunday": 7,
+      "saturday": 7,
+      "mon_fri": 12
+    },
+    "6": {
+      "sunday": 9,
+      "mon_fri": 20,
+      "saturday": 12
+    },
+    "3": {
+      "sunday": 5,
+      "saturday": 5,
+      "mon_fri": 24
+    },
+    "B": {
+      "saturday": 6,
+      "mon_fri": 13
+    },
+    "1": {
+      "mon_fri": 40,
+      "saturday": 31,
+      "sunday": 22
+    },
+    "15": {
+      "mon_fri": 28,
+      "saturday": 20,
+      "sunday": 12
+    },
+    "5": {
+      "mon_fri": 8
+    },
+    "22": {
+      "mon_fri": 11,
+      "saturday": 2
+    },
+    "2": {
+      "mon_fri": 31,
+      "sunday": 14,
+      "saturday": 29
+    },
+    "30": {
+      "mon_fri": 4,
+      "saturday": 4,
+      "sunday": 3
+    },
+    "31": {
+      "sunday": 2,
+      "mon_fri": 8,
+      "saturday": 3
+    },
+    "46": {
+      "saturday": 2,
+      "mon_fri": 5,
+      "sunday": 2
+    },
+    "36": {
+      "mon_fri": 8,
+      "sunday": 4,
+      "saturday": 4
+    },
+    "49": {
+      "mon_fri": 2
+    },
+    "45": {
+      "saturday": 6,
+      "mon_fri": 9,
+      "sunday": 3
+    }
+  },
+  "87": {
+    "22": {
+      "mon_fri": 15,
+      "saturday": 3
+    },
+    "21": {
+      "saturday": 12,
+      "mon_fri": 15,
+      "sunday": 10
+    },
+    "15": {
+      "sunday": 12,
+      "mon_fri": 27,
+      "saturday": 19
+    }
+  },
+  "36": {
+    "3": {
+      "saturday": 4,
+      "sunday": 4,
+      "mon_fri": 10
+    },
+    "8": {
+      "mon_fri": 1
+    }
+  },
+  "285": {
+    "36": {
+      "mon_fri": 7,
+      "saturday": 3,
+      "sunday": 3
+    },
+    "45": {
+      "mon_fri": 1
+    },
+    "39": {
+      "sunday": 1,
+      "mon_fri": 1,
+      "saturday": 1
+    }
+  },
+  "140": {
+    "35": {
+      "mon_fri": 1
+    },
+    "30": {
+      "mon_fri": 1
+    },
+    "36": {
+      "mon_fri": 3
+    },
+    "21": {
+      "sunday": 6,
+      "saturday": 8,
+      "mon_fri": 12
+    },
+    "22": {
+      "saturday": 2,
+      "mon_fri": 11
+    },
+    "45": {
+      "mon_fri": 3
+    },
+    "15": {
+      "mon_fri": 24,
+      "saturday": 13,
+      "sunday": 7
+    },
+    "46": {
+      "mon_fri": 2
+    }
+  },
+  "85": {
+    "22": {
+      "saturday": 2,
+      "mon_fri": 11
+    },
+    "15": {
+      "sunday": 7,
+      "saturday": 13,
+      "mon_fri": 22
+    }
+  },
+  "216": {
+    "30": {
+      "mon_fri": 2
+    },
+    "35": {
+      "sunday": 7,
+      "saturday": 7,
+      "mon_fri": 13
+    },
+    "36": {
+      "mon_fri": 1
+    },
+    "31": {
+      "mon_fri": 1,
+      "saturday": 1
+    }
+  },
+  "149": {
+    "15": {
+      "mon_fri": 24,
+      "saturday": 14,
+      "sunday": 7
+    },
+    "60": {
+      "mon_fri": 20,
+      "saturday": 7,
+      "sunday": 8
+    }
+  },
+  "76": {
+    "1": {
+      "saturday": 38,
+      "mon_fri": 50,
+      "sunday": 25
+    },
+    "46": {
+      "mon_fri": 3,
+      "saturday": 1
+    },
+    "30": {
+      "sunday": 3,
+      "mon_fri": 3,
+      "saturday": 3
+    },
+    "5": {
+      "mon_fri": 8
+    },
+    "6": {
+      "saturday": 15,
+      "sunday": 11,
+      "mon_fri": 28
+    },
+    "36": {
+      "sunday": 3,
+      "saturday": 3,
+      "mon_fri": 7
+    },
+    "3": {
+      "sunday": 6,
+      "mon_fri": 29,
+      "saturday": 5
+    },
+    "2": {
+      "mon_fri": 6
+    },
+    "35": {
+      "saturday": 5,
+      "mon_fri": 10,
+      "sunday": 4
+    },
+    "45": {
+      "mon_fri": 6,
+      "saturday": 4,
+      "sunday": 1
+    },
+    "31": {
+      "saturday": 2,
+      "mon_fri": 5,
+      "sunday": 1
+    },
+    "49": {
+      "mon_fri": 1
+    },
+    "A": {
+      "mon_fri": 11,
+      "saturday": 6
+    }
+  },
+  "137": {
+    "3": {
+      "mon_fri": 2
+    },
+    "7": {
+      "mon_fri": 1
+    },
+    "2": {
+      "mon_fri": 6
+    },
+    "A": {
+      "mon_fri": 1
+    },
+    "B": {
+      "mon_fri": 12,
+      "saturday": 6
+    }
+  },
+  "206": {
+    "31": {
+      "mon_fri": 9,
+      "sunday": 2,
+      "saturday": 3
+    },
+    "30": {
+      "mon_fri": 4,
+      "saturday": 4,
+      "sunday": 3
+    },
+    "36": {
+      "mon_fri": 9,
+      "saturday": 4,
+      "sunday": 4
+    },
+    "35": {
+      "sunday": 7,
+      "saturday": 7,
+      "mon_fri": 13
+    }
+  },
+  "174": {
+    "21": {
+      "saturday": 8,
+      "sunday": 6,
+      "mon_fri": 12
+    }
+  },
+  "268": {
+    "49": {
+      "mon_fri": 2
+    },
+    "45": {
+      "saturday": 6,
+      "sunday": 3,
+      "mon_fri": 10
+    }
+  },
+  "90": {
+    "2": {
+      "mon_fri": 7,
+      "saturday": 6,
+      "sunday": 8
+    }
+  },
+  "289": {
+    "36": {
+      "mon_fri": 4
+    },
+    "30": {
+      "mon_fri": 2
+    },
+    "45": {
+      "mon_fri": 2
+    }
+  },
+  "165": {
+    "21": {
+      "saturday": 8,
+      "sunday": 6,
+      "mon_fri": 12
+    }
+  },
+  "297": {
+    "15": {
+      "mon_fri": 24,
+      "saturday": 14,
+      "sunday": 7
+    }
+  },
+  "237": {
+    "8": {
+      "mon_fri": 1
+    },
+    "6": {
+      "mon_fri": 26,
+      "saturday": 10,
+      "sunday": 9
+    }
+  },
+  "360": {
+    "6": {
+      "mon_fri": 2
+    },
+    "8": {
+      "mon_fri": 3
+    },
+    "3": {
+      "mon_fri": 3
+    }
+  },
+  "5001": {
+    "10": {
+      "mon_fri": 3
+    }
+  },
+  "363": {
+    "6": {
+      "saturday": 6,
+      "sunday": 9,
+      "mon_fri": 1
+    },
+    "8": {
+      "mon_fri": 3
+    }
+  },
+  "305": {
+    "21": {
+      "mon_fri": 3
+    },
+    "B": {
+      "mon_fri": 1
+    },
+    "3": {
+      "mon_fri": 2
+    },
+    "15": {
+      "saturday": 1,
+      "mon_fri": 7
+    },
+    "45": {
+      "mon_fri": 3
+    },
+    "46": {
+      "mon_fri": 2
+    },
+    "30": {
+      "mon_fri": 1
+    },
+    "2": {
+      "mon_fri": 6
+    },
+    "36": {
+      "mon_fri": 4
+    },
+    "35": {
+      "mon_fri": 1
+    },
+    "A": {
+      "mon_fri": 1
+    }
+  },
+  "49": {
+    "1": {
+      "mon_fri": 40,
+      "saturday": 32,
+      "sunday": 21
+    },
+    "2": {
+      "mon_fri": 32,
+      "saturday": 29,
+      "sunday": 14
+    },
+    "3": {
+      "mon_fri": 22,
+      "saturday": 6,
+      "sunday": 6
+    },
+    "5": {
+      "mon_fri": 7
+    }
+  },
+  "48": {
+    "1": {
+      "mon_fri": 43,
+      "saturday": 33,
+      "sunday": 22
+    },
+    "2": {
+      "mon_fri": 32,
+      "saturday": 29,
+      "sunday": 14
+    },
+    "3": {
+      "mon_fri": 24,
+      "saturday": 5,
+      "sunday": 5
+    },
+    "5": {
+      "mon_fri": 8
+    },
+    "6": {
+      "mon_fri": 22,
+      "saturday": 13,
+      "sunday": 9
+    }
+  },
+  "67": {
+    "1": {
+      "mon_fri": 40,
+      "saturday": 32,
+      "sunday": 21
+    },
+    "2": {
+      "mon_fri": 32,
+      "saturday": 29,
+      "sunday": 14
+    },
+    "3": {
+      "mon_fri": 22,
+      "saturday": 6,
+      "sunday": 6
+    },
+    "5": {
+      "mon_fri": 7
+    },
+    "6": {
+      "mon_fri": 21,
+      "saturday": 13,
+      "sunday": 9
+    }
+  },
+  "66": {
+    "1": {
+      "mon_fri": 43,
+      "saturday": 33,
+      "sunday": 22
+    },
+    "2": {
+      "mon_fri": 32,
+      "saturday": 29,
+      "sunday": 14
+    },
+    "3": {
+      "mon_fri": 24,
+      "saturday": 5,
+      "sunday": 5
+    },
+    "5": {
+      "mon_fri": 8
+    },
+    "6": {
+      "mon_fri": 22,
+      "saturday": 13,
+      "sunday": 9
+    }
+  },
+  "69": {
+    "A": {
+      "mon_fri": 12,
+      "saturday": 6
+    },
+    "B": {
+      "saturday": 1
+    },
+    "1": {
+      "mon_fri": 48,
+      "saturday": 37,
+      "sunday": 24
+    },
+    "2": {
+      "mon_fri": 32,
+      "saturday": 29,
+      "sunday": 14
+    },
+    "3": {
+      "mon_fri": 29,
+      "saturday": 6,
+      "sunday": 6
+    },
+    "4": {
+      "mon_fri": 1
+    },
+    "5": {
+      "mon_fri": 10
+    },
+    "6": {
+      "mon_fri": 27,
+      "saturday": 15,
+      "sunday": 11
+    },
+    "7": {
+      "mon_fri": 3
+    },
+    "9": {
+      "mon_fri": 1
+    },
+    "10": {
+      "mon_fri": 1
+    },
+    "45": {
+      "mon_fri": 1
+    }
+  },
+  "68": {
+    "1": {
+      "mon_fri": 40,
+      "saturday": 31,
+      "sunday": 22
+    },
+    "2": {
+      "mon_fri": 31,
+      "saturday": 29,
+      "sunday": 14
+    },
+    "3": {
+      "mon_fri": 23,
+      "saturday": 5,
+      "sunday": 5
+    },
+    "5": {
+      "mon_fri": 8
+    },
+    "6": {
+      "mon_fri": 20,
+      "saturday": 12,
+      "sunday": 9
+    },
+    "9": {
+      "mon_fri": 2
+    }
+  },
+  "72": {
+    "A": {
+      "mon_fri": 13,
+      "saturday": 7
+    },
+    "B": {
+      "mon_fri": 12,
+      "saturday": 6
+    },
+    "1": {
+      "mon_fri": 50,
+      "saturday": 38,
+      "sunday": 25
+    },
+    "2": {
+      "mon_fri": 60,
+      "saturday": 47,
+      "sunday": 20
+    },
+    "3": {
+      "mon_fri": 32,
+      "saturday": 5,
+      "sunday": 6
+    },
+    "5": {
+      "mon_fri": 8
+    },
+    "6": {
+      "mon_fri": 28,
+      "saturday": 15,
+      "sunday": 11
+    },
+    "7": {
+      "mon_fri": 3
+    },
+    "9": {
+      "mon_fri": 3
+    },
+    "10": {
+      "mon_fri": 3
+    },
+    "30": {
+      "mon_fri": 3,
+      "saturday": 3,
+      "sunday": 3
+    },
+    "31": {
+      "mon_fri": 7,
+      "saturday": 2,
+      "sunday": 1
+    },
+    "35": {
+      "mon_fri": 10,
+      "saturday": 5,
+      "sunday": 4
+    },
+    "36": {
+      "mon_fri": 7,
+      "saturday": 3,
+      "sunday": 3
+    },
+    "37": {
+      "mon_fri": 2,
+      "saturday": 1,
+      "sunday": 1
+    },
+    "38": {
+      "mon_fri": 3,
+      "saturday": 2,
+      "sunday": 3
+    },
+    "39": {
+      "mon_fri": 1,
+      "saturday": 1,
+      "sunday": 1
+    },
+    "40": {
+      "mon_fri": 4,
+      "saturday": 2,
+      "sunday": 2
+    },
+    "45": {
+      "mon_fri": 6,
+      "saturday": 4,
+      "sunday": 1
+    },
+    "46": {
+      "mon_fri": 3,
+      "saturday": 1
+    },
+    "49": {
+      "mon_fri": 1
+    },
+    "50": {
+      "mon_fri": 1,
+      "saturday": 1
+    },
+    "51": {
+      "mon_fri": 1
+    }
+  },
+  "71": {
+    "A": {
+      "mon_fri": 11,
+      "saturday": 6
+    },
+    "2": {
+      "mon_fri": 1
+    },
+    "4": {
+      "mon_fri": 2
+    },
+    "9": {
+      "mon_fri": 5
+    },
+    "15": {
+      "mon_fri": 28,
+      "saturday": 19,
+      "sunday": 12
+    },
+    "21": {
+      "mon_fri": 16,
+      "saturday": 12,
+      "sunday": 10
+    },
+    "22": {
+      "mon_fri": 16,
+      "saturday": 3
+    },
+    "30": {
+      "mon_fri": 4,
+      "saturday": 4,
+      "sunday": 3
+    },
+    "31": {
+      "mon_fri": 9,
+      "saturday": 3,
+      "sunday": 2
+    },
+    "35": {
+      "mon_fri": 12,
+      "saturday": 7,
+      "sunday": 7
+    },
+    "36": {
+      "mon_fri": 8,
+      "saturday": 4,
+      "sunday": 4
+    },
+    "45": {
+      "mon_fri": 9,
+      "saturday": 6,
+      "sunday": 3
+    },
+    "46": {
+      "mon_fri": 5,
+      "saturday": 2,
+      "sunday": 2
+    },
+    "49": {
+      "mon_fri": 2
+    }
+  }
+}

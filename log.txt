@@ -1,0 +1,614 @@
+Searching for PDFs...
+Search done in 721.70µs
+
+Checking PDFs...
+
+PDF is corrupted: source\Bielawa-Gazownia.pdf
+PDF is corrupted: source\Dzierzoniow-MZK.pdf
+PDF is corrupted: source\Dzierzoniow-Batalionow.pdf
+PDF is corrupted: source\Dzierzoniow-Pilsudskieg-2.pdf
+Check done in 5.98s
+
+Processing PDFs...
+
+Output file: "output\\Dzierzoniow-Nowowiejska.json"
+
+Output file: "output\\Kamionki-Dolne-1.json"
+
+Output file: "output\\Dzierzoniow-Korczaka.json"
+
+Output file: "output\\Bielawa-Ace-Rico.json"
+
+Output file: "output\\Kamionki-I-1.json"
+
+Output file: "output\\Bielawa-Andersa-I.json"
+
+Output file: "output\\Bielawa-Parkowa.json"
+
+Output file: "output\\Kamionki-II-1.json"
+
+Output file: "output\\Dzierzoniow-Ogrodki-dzialkowe.json"
+
+Output file: "output\\Kamionki-III-1-1.json"
+
+Output file: "output\\Dzierzoniow-Diora-1.json"
+
+Output file: "output\\Kielczyn-.json"
+
+Output file: "output\\Dzierzoniow-Dolny-Nowowiejska.json"
+
+Output file: "output\\Bielawa-Andersa-II.json"
+
+Output file: "output\\Ostroszowice-Fabryka-Mebli-.json"
+
+Output file: "output\\Dzierzoniow-Swidnicka-Polmozbyt.json"
+
+Output file: "output\\Dzierzoniow-Lidl.json"
+
+Output file: "output\\Kielczyn-25.json"
+
+Output file: "output\\Pieszyce-Tkalnia-1.json"
+
+Output file: "output\\Dzierzoniow-Staszica.json"
+
+Output file: "output\\Dzierzoniow-Nowowiejska-Szkola-.json"
+
+Output file: "output\\Kielczyn-94.json"
+
+Output file: "output\\Dzierzoniow-Os.-Zielone-II.json"
+
+Output file: "output\\Ostroszowice-I.json"
+
+Output file: "output\\Bielawa-Andersa-III.json"
+
+Output file: "output\\Ostroszowice-Jodlownick.json"
+
+Output file: "output\\Bielawa-Pl.-Koscielny.json"
+
+Output file: "output\\Kietlice-1-1.json"
+
+Output file: "output\\Dzierzoniow-Kilinskieg-1.json"
+
+Output file: "output\\Dzierzoniow-Os.-Zielone.json"
+
+Output file: "output\\Bielawa-Sikorskiego-Rondo.json"
+
+Output file: "output\\Owiesno-Kosciol.json"
+
+Output file: "output\\Ostroszowice-Osrodek-zdrowia.json"
+
+Output file: "output\\Kietlin.json"
+
+Output file: "output\\Dzierzoniow-Sikorskiego.json"
+
+Output file: "output\\Pieszyce-Urzad-Miejski-1.json"
+
+Output file: "output\\Ostroszowice-Poczta.json"
+
+Output file: "output\\Dzierzoniow-dworzec-PK.json"
+
+Output file: "output\\Pieszyce-Bielawska-1.json"
+
+Output file: "output\\Bielawa-Bata.json"
+
+Output file: "output\\Dzierzoniow-Kosciuszki-2.json"
+
+Output file: "output\\Dzierzoniow-Os.-Blekitn-2.json"
+
+Output file: "output\\Pieszyce-VII-oddzial.json"
+
+Output file: "output\\Kosmin-I.json"
+
+Output file: "output\\Bielawa-Sikorskiego.json"
+
+Output file: "output\\Ostroszowice-Sklep.json"
+
+Output file: "output\\Pieszyce-Dolne-1.json"
+
+Output file: "output\\Bielawa-Slowianska-.json"
+
+Output file: "output\\Byszow-.json"
+
+Output file: "output\\Byszow-221.json"
+
+Output file: "output\\Ostroszowice-Zaklad-Stolarskie.json"
+
+Output file: "output\\Dzierzoniow-Strefa-Ekonomiczna.json"
+
+Output file: "output\\Kosmin.json"
+
+Output file: "output\\Owiesno-111.json"
+
+Output file: "output\\Dzierzoniow-Technika-Szpitalna.json"
+
+Output file: "output\\Owiesno-124-.json"
+
+Output file: "output\\Pieszyce-IX-oddzial.json"
+
+Output file: "output\\Ksiaznica-27.json"
+
+Output file: "output\\Cmentarz-Komuna.json"
+
+Output file: "output\\Owiesno-132.json"
+
+Output file: "output\\Dzierzoniow-Dworzec-PKS-Kopernika-.json"
+
+Output file: "output\\Owiesno-81.json"
+
+Output file: "output\\Pilawa-Dolna-B.-Kosciol.json"
+
+Output file: "output\\Owiesno-85-.json"
+
+Output file: "output\\Owiesno-88-.json"
+
+Output file: "output\\Bielawa-Sowia.json"
+
+Output file: "output\\Pieszyce-kino.json"
+
+Output file: "output\\Bielawa-Bielbaw.json"
+
+Output file: "output\\Bielawa-Stacja-Bielawa-Zachodnia-.json"
+
+Output file: "output\\Dobrocin-I.json"
+
+Output file: "output\\Dzierzoniow-ul.Strefowa.json"
+
+Output file: "output\\Dzierzoniow-Os.-Teczowe.json"
+
+Output file: "output\\Dzierzoniow-Strefa-Metzeler.json"
+
+Output file: "output\\Pilawa-Dolna-Cz.-Kosciol.json"
+
+Output file: "output\\Bielawa-Szewska.json"
+
+Output file: "output\\Pieszyce-Kolko-Rolnicz-1.json"
+
+Output file: "output\\Bielawa-Zeromskiego-Pl.json"
+
+Output file: "output\\Bratoszow-I.json"
+
+Output file: "output\\Pieszyce-Mostek.json"
+
+Output file: "output\\Bratoszow-II.json"
+
+Output file: "output\\Dzierzoniow-Strefa-Orio.json"
+
+Output file: "output\\BusMan-A-Uciechow-Przedszkole.json"
+
+Output file: "output\\Dzierzoniow-Dworzec-PKS-mlyn.json"
+
+Output file: "output\\Dobrocin-II.json"
+
+Output file: "output\\Dzierzoniow-Wojska-Polskiego-I.json"
+
+Output file: "output\\Dzierzoniow-Strefowa-I-.json"
+
+Output file: "output\\Ligota-Mala-.json"
+
+Output file: "output\\Dzierzoniow-Kasztanowa.json"
+
+Output file: "output\\Pilawa-Dolna-I.json"
+
+Output file: "output\\Moscisko-Kolejowa.json"
+
+Output file: "output\\Moscisko-Szkola-.json"
+
+Output file: "output\\Bielawa-Kasztanowa.json"
+
+Output file: "output\\Dzierzoniow-Wojska-Polskiego.json"
+
+Output file: "output\\Mysliszow.json"
+
+Output file: "output\\Dzierzoniow-Os.-Jasne-1.json"
+
+Output file: "output\\Lacznik-1-Maja.json"
+
+Output file: "output\\Bielawa-L.O.json"
+
+Output file: "output\\Pieszyce-Sanatoryjna.json"
+
+Output file: "output\\Pieszyce-Ogrodowa.json"
+
+Output file: "output\\Niemcza-Chrobrego-.json"
+
+Output file: "output\\Bielawa-Bieltex-I.json"
+
+Output file: "output\\Bielawa-Lesny-Dworek.json"
+
+Output file: "output\\Dobrocin-Sklep.json"
+
+Output file: "output\\Dzierzoniow-Wroclawska-.json"
+
+Output file: "output\\Bielawa-Bohaterow-Gett.json"
+
+Output file: "output\\Bielawa-Warynskiego-Bi.json"
+
+Output file: "output\\Pieszyce-Sklep.json"
+
+Output file: "output\\Bielawa-Camping-Sudety.json"
+
+Output file: "output\\Dzierzoniow-Strefowa-II.json"
+
+Output file: "output\\Pilawa-Dolna-POM.json"
+
+Output file: "output\\Pieszyce-Osiedle-Gorsk.json"
+
+Output file: "output\\Bielawa-LOK.json"
+
+Output file: "output\\Uciechow-Wroclawska.json"
+
+Output file: "output\\Niemcza-dworzec-PKP.json"
+
+Output file: "output\\Tuszyn-19A.json"
+
+Output file: "output\\Dobrocin-Szkola-.json"
+
+Output file: "output\\Przerzeczyn-Zdroj-.json"
+
+Output file: "output\\Wilkow-Wielki-Sklep.json"
+
+Output file: "output\\Bielawa-Frankowskiego.json"
+
+Output file: "output\\Pieszyce-Swidnicka-1.json"
+
+Output file: "output\\Wloki-102_2.json"
+
+Output file: "output\\Tuszyn-47.json"
+
+Output file: "output\\Dzierzoniow-Strefowa-III.json"
+
+Output file: "output\\Wloki-22.json"
+
+Output file: "output\\Pieszyce-Szkola-1.json"
+
+Output file: "output\\Tuszyn-7.json"
+
+Output file: "output\\Wloki-23-.json"
+
+Output file: "output\\Uciechow-48.json"
+
+Output file: "output\\Przerzeczyn-Zdroj-Skle.json"
+
+Output file: "output\\Wloki-57.json"
+
+Output file: "output\\Niemcza-Os.-Podmiejski.json"
+
+Output file: "output\\Uciechow-57.json"
+
+Output file: "output\\Bielawa-Nowobielawska-III.json"
+
+Output file: "output\\Wloki-78.json"
+
+Output file: "output\\Gilow-Sklep.json"
+
+Output file: "output\\Pilawa-Gorna-Staw.json"
+
+Output file: "output\\Uciechow-Cukiernia-.json"
+
+Output file: "output\\Rosciszow-I.json"
+
+Output file: "output\\Pilawa-Dolna-Remiza.json"
+
+Output file: "output\\Bielawa-Gora-Parkowa.json"
+
+Output file: "output\\Rosciszow-II.json"
+
+Output file: "output\\Bielawa-Nowobielawska.json"
+
+Output file: "output\\Nowa-Wies-Niemczanska-.json"
+
+Output file: "output\\Dzierzoniow-Bar-Kaprys.json"
+
+Output file: "output\\Bielawa-Ogrodki-dzialk.json"
+
+Output file: "output\\Nowizna-12.json"
+
+Output file: "output\\Bielawa-Hotel-_Pod-Wie.json"
+
+Output file: "output\\Gilow-skrzyzowanie.json"
+
+Output file: "output\\Dzierzoniow-Bielawska-Stadion.json"
+
+Output file: "output\\Nowizna-18.json"
+
+Output file: "output\\Rosciszow-III.json"
+
+Output file: "output\\Nowizna-19.json"
+
+Output file: "output\\Niemcza-Remiza.json"
+
+Output file: "output\\Bielawa-Os.-Biale.json"
+
+Output file: "output\\Dzierzoniow-Brzegowa.json"
+
+Output file: "output\\Dzierzoniow-Zlota-III.json"
+
+Output file: "output\\Rosciszow-IV-.json"
+
+Output file: "output\\Gola-Dzierzoniowska-I.json"
+
+Output file: "output\\Bielawa-Ostroszowicka.json"
+
+Output file: "output\\Dzierzoniow-Zlota-kotlo.json"
+
+Output file: "output\\Gola-Dzierzoniowska.json"
+
+Output file: "output\\Dzierzoniow-Zabkowicka.json"
+
+Output file: "output\\Dzierzoniow-Cicha.json"
+
+Output file: "output\\Grodziszcze-I.json"
+
+Output file: "output\\Bielawa-Park-Handlowy.json"
+
+Output file: "output\\Dzierzoniow-Cmentarz-Komunalny.json"
+
+Output file: "output\\Bielawa-Os.-XXV-lecia.json"
+
+Output file: "output\\Pilawa-Gorna-Dworzec-PKP.json"
+
+Output file: "output\\Pilawa-Gorna-Szkola.json"
+
+Output file: "output\\Gilow-I.json"
+
+Output file: "output\\Piskorzow-II.json"
+
+Output file: "output\\Grodziszcze-Sklep.json"
+
+Output file: "output\\Piskorzow-III.json"
+
+Output file: "output\\Jedrzejowice-.json"
+
+Output file: "output\\Roztocznik-I.json"
+
+Output file: "output\\Dzierzoniow-D.T-Slazak-.json"
+
+Output file: "output\\Piskorzow-Kolonia-Doro.json"
+
+Output file: "output\\Jedrzejowice-20A.json"
+
+Output file: "output\\Dzierzoniow-Zlota-II.json"
+
+Output file: "output\\Jemna-.json"
+
+Output file: "output\\Podlesie-.json"
+
+Output file: "output\\Gilow-II.json"
+
+Output file: "output\\Pilawa-Gorna-Zaklady-Mechaniczne.json"
+
+Output file: "output\\Przedborowa-I.json"
+
+Output file: "output\\Bielawa-Ludowa.json"
+
+Output file: "output\\Przedborowa-Kosciol.json"
+
+Output file: "output\\Jodlownik-9-.json"
+
+Output file: "output\\Jodlownik-.json"
+
+Output file: "output\\Piskorzow-I.json"
+
+Output file: "output\\Pilawa-Dolna-Szkola.json"
+
+Output file: "output\\Jodlownik-14-.json"
+
+Output file: "output\\Niemcza-Slowackiego.json"
+
+Output file: "output\\Podlesie-I.json"
+
+Output file: "output\\Pilawa-Gorna-Kopanica.json"
+
+Output file: "output\\Roztocznik-skrzyzowanie.json"
+
+Output file: "output\\Roztocznik-Wies-II.json"
+
+Output file: "output\\Pilawa-Gorna-Zlobek.json"
+
+Output file: "output\\Rudnica-II.json"
+
+Output file: "output\\Dzierzoniow-Zajezdnia-PKS-.json"
+
+Output file: "output\\Rudnica-III.json"
+
+Output file: "output\\Roztocznik-Wies.json"
+
+Output file: "output\\Pilawa-Gorna-Kamieniol.json"
+
+Output file: "output\\Jozefowek.json"
+
+Output file: "output\\Rudnica-I.json"
+
+Output file: "output\\Bielawa-Nowobielawska-II-.json"
+
+Output file: "output\\Pilawa-Gorna-_BoBo_.json"
+
+Output file: "output\\Pilawa-Gorna-Os.-Mlynskie-.json"
+
+
+Parse done in 8.64s
+
+Checking results...
+
+❌ Znaleziono 169 rozbieżności – próba naprawy z backupu ./backup.json...
+
+🔧 Naprawiono z backupu: 169 grup, bez pokrycia w backupie: 0 grup
+
+Przystanek           | Linia    | Dni                  | Pobrano    | Z backupu 
+---------------------------------------------------------------------------
+66                   | 2        | Saturday | 0          | 29        
+66                   | 2        | Sunday | 0          | 14        
+66                   | 2        | MondayToFriday | 0          | 32        
+66                   | 3        | Saturday | 0          | 5         
+66                   | 3        | Sunday | 0          | 5         
+66                   | 3        | MondayToFriday | 0          | 24        
+66                   | 1        | Saturday | 0          | 33        
+66                   | 1        | Sunday | 0          | 22        
+66                   | 1        | MondayToFriday | 0          | 43        
+66                   | 5        | MondayToFriday | 0          | 8         
+66                   | 6        | MondayToFriday | 0          | 22        
+66                   | 6        | Saturday | 0          | 13        
+66                   | 6        | Sunday | 0          | 9         
+67                   | 5        | MondayToFriday | 0          | 7         
+67                   | 2        | MondayToFriday | 0          | 32        
+67                   | 2        | Saturday | 0          | 29        
+67                   | 2        | Sunday | 0          | 14        
+67                   | 3        | Sunday | 0          | 6         
+67                   | 3        | MondayToFriday | 0          | 22        
+67                   | 3        | Saturday | 0          | 6         
+67                   | 6        | Sunday | 0          | 9         
+67                   | 6        | MondayToFriday | 0          | 21        
+67                   | 6        | Saturday | 0          | 13        
+67                   | 1        | Sunday | 0          | 21        
+67                   | 1        | Saturday | 0          | 32        
+67                   | 1        | MondayToFriday | 0          | 40        
+69                   | A        | MondayToFriday | 0          | 12        
+69                   | A        | Saturday | 0          | 6         
+69                   | 5        | MondayToFriday | 0          | 10        
+69                   | 10       | MondayToFriday | 0          | 1         
+69                   | 6        | MondayToFriday | 0          | 27        
+69                   | 6        | Sunday | 0          | 11        
+69                   | 6        | Saturday | 0          | 15        
+69                   | 9        | MondayToFriday | 0          | 1         
+69                   | 3        | Saturday | 0          | 6         
+69                   | 3        | Sunday | 0          | 6         
+69                   | 3        | MondayToFriday | 0          | 29        
+69                   | 45       | MondayToFriday | 0          | 1         
+69                   | 1        | MondayToFriday | 0          | 48        
+69                   | 1        | Sunday | 0          | 24        
+69                   | 1        | Saturday | 0          | 37        
+69                   | 2        | Sunday | 0          | 14        
+69                   | 2        | MondayToFriday | 0          | 32        
+69                   | 2        | Saturday | 0          | 29        
+69                   | 4        | MondayToFriday | 0          | 1         
+69                   | B        | Saturday | 0          | 1         
+69                   | 7        | MondayToFriday | 0          | 3         
+71                   | 22       | MondayToFriday | 0          | 16        
+71                   | 22       | Saturday | 0          | 3         
+71                   | 21       | MondayToFriday | 0          | 16        
+71                   | 21       | Saturday | 0          | 12        
+71                   | 21       | Sunday | 0          | 10        
+71                   | 35       | Saturday | 0          | 7         
+71                   | 35       | Sunday | 0          | 7         
+71                   | 35       | MondayToFriday | 0          | 12        
+71                   | 31       | MondayToFriday | 0          | 9         
+71                   | 31       | Saturday | 0          | 3         
+71                   | 31       | Sunday | 0          | 2         
+71                   | 45       | Saturday | 0          | 6         
+71                   | 45       | Sunday | 0          | 3         
+71                   | 45       | MondayToFriday | 0          | 9         
+71                   | 15       | Sunday | 0          | 12        
+71                   | 15       | Saturday | 0          | 19        
+71                   | 15       | MondayToFriday | 0          | 28        
+71                   | 2        | MondayToFriday | 0          | 1         
+71                   | A        | Saturday | 0          | 6         
+71                   | A        | MondayToFriday | 0          | 11        
+71                   | 46       | Sunday | 0          | 2         
+71                   | 46       | MondayToFriday | 0          | 5         
+71                   | 46       | Saturday | 0          | 2         
+71                   | 9        | MondayToFriday | 0          | 5         
+71                   | 49       | MondayToFriday | 0          | 2         
+71                   | 30       | MondayToFriday | 0          | 4         
+71                   | 30       | Sunday | 0          | 3         
+71                   | 30       | Saturday | 0          | 4         
+71                   | 4        | MondayToFriday | 0          | 2         
+71                   | 36       | Saturday | 0          | 4         
+71                   | 36       | MondayToFriday | 0          | 8         
+71                   | 36       | Sunday | 0          | 4         
+49                   | 2        | Sunday | 0          | 14        
+49                   | 2        | MondayToFriday | 0          | 32        
+49                   | 2        | Saturday | 0          | 29        
+49                   | 3        | Saturday | 0          | 6         
+49                   | 3        | MondayToFriday | 0          | 22        
+49                   | 3        | Sunday | 0          | 6         
+49                   | 5        | MondayToFriday | 0          | 7         
+49                   | 1        | Sunday | 0          | 21        
+49                   | 1        | MondayToFriday | 0          | 40        
+49                   | 1        | Saturday | 0          | 32        
+48                   | 1        | Sunday | 0          | 22        
+48                   | 1        | MondayToFriday | 0          | 43        
+48                   | 1        | Saturday | 0          | 33        
+48                   | 6        | MondayToFriday | 0          | 22        
+48                   | 6        | Sunday | 0          | 9         
+48                   | 6        | Saturday | 0          | 13        
+48                   | 2        | Saturday | 0          | 29        
+48                   | 2        | MondayToFriday | 0          | 32        
+48                   | 2        | Sunday | 0          | 14        
+48                   | 3        | Sunday | 0          | 5         
+48                   | 3        | Saturday | 0          | 5         
+48                   | 3        | MondayToFriday | 0          | 24        
+48                   | 5        | MondayToFriday | 0          | 8         
+72                   | 50       | Saturday | 0          | 1         
+72                   | 50       | MondayToFriday | 0          | 1         
+72                   | 40       | Saturday | 0          | 2         
+72                   | 40       | MondayToFriday | 0          | 4         
+72                   | 40       | Sunday | 0          | 2         
+72                   | 38       | Sunday | 0          | 3         
+72                   | 38       | Saturday | 0          | 2         
+72                   | 38       | MondayToFriday | 0          | 3         
+72                   | 3        | Saturday | 0          | 5         
+72                   | 3        | Sunday | 0          | 6         
+72                   | 3        | MondayToFriday | 0          | 32        
+72                   | B        | MondayToFriday | 0          | 12        
+72                   | B        | Saturday | 0          | 6         
+72                   | 9        | MondayToFriday | 0          | 3         
+72                   | 30       | Saturday | 0          | 3         
+72                   | 30       | Sunday | 0          | 3         
+72                   | 30       | MondayToFriday | 0          | 3         
+72                   | 46       | MondayToFriday | 0          | 3         
+72                   | 46       | Saturday | 0          | 1         
+72                   | 31       | MondayToFriday | 0          | 7         
+72                   | 31       | Saturday | 0          | 2         
+72                   | 31       | Sunday | 0          | 1         
+72                   | A        | Saturday | 0          | 7         
+72                   | A        | MondayToFriday | 0          | 13        
+72                   | 45       | Saturday | 0          | 4         
+72                   | 45       | MondayToFriday | 0          | 6         
+72                   | 45       | Sunday | 0          | 1         
+72                   | 10       | MondayToFriday | 0          | 3         
+72                   | 2        | Sunday | 0          | 20        
+72                   | 2        | MondayToFriday | 0          | 60        
+72                   | 2        | Saturday | 0          | 47        
+72                   | 5        | MondayToFriday | 0          | 8         
+72                   | 39       | Sunday | 0          | 1         
+72                   | 39       | MondayToFriday | 0          | 1         
+72                   | 39       | Saturday | 0          | 1         
+72                   | 37       | MondayToFriday | 0          | 2         
+72                   | 37       | Saturday | 0          | 1         
+72                   | 37       | Sunday | 0          | 1         
+72                   | 51       | MondayToFriday | 0          | 1         
+72                   | 35       | Sunday | 0          | 4         
+72                   | 35       | Saturday | 0          | 5         
+72                   | 35       | MondayToFriday | 0          | 10        
+72                   | 49       | MondayToFriday | 0          | 1         
+72                   | 7        | MondayToFriday | 0          | 3         
+72                   | 36       | Saturday | 0          | 3         
+72                   | 36       | MondayToFriday | 0          | 7         
+72                   | 36       | Sunday | 0          | 3         
+72                   | 1        | Saturday | 0          | 38        
+72                   | 1        | MondayToFriday | 0          | 50        
+72                   | 1        | Sunday | 0          | 25        
+72                   | 6        | MondayToFriday | 0          | 28        
+72                   | 6        | Sunday | 0          | 11        
+72                   | 6        | Saturday | 0          | 15        
+68                   | 5        | MondayToFriday | 0          | 8         
+68                   | 3        | Sunday | 0          | 5         
+68                   | 3        | Saturday | 0          | 5         
+68                   | 3        | MondayToFriday | 0          | 23        
+68                   | 9        | MondayToFriday | 0          | 2         
+68                   | 2        | Sunday | 0          | 14        
+68                   | 2        | MondayToFriday | 0          | 31        
+68                   | 2        | Saturday | 0          | 29        
+68                   | 6        | Sunday | 0          | 9         
+68                   | 6        | Saturday | 0          | 12        
+68                   | 6        | MondayToFriday | 0          | 20        
+68                   | 1        | MondayToFriday | 0          | 40        
+68                   | 1        | Saturday | 0          | 31        
+68                   | 1        | Sunday | 0          | 22        
+
+✅ Wszystkie liczby odjazdów zgadzają się ze wzorcem!
+Check done in 99.53ms
+
+Output file: "./output.json"
+
+Total time: 14.76s

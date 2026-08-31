@@ -40855,16 +40855,9 @@
     {
       "time": "07:32",
       "line": "3",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "free_day_only"
-    },
-    {
-      "time": "07:32",
-      "line": "3",
       "destination": "Bielawa Leśny Dworek",
       "operating_days": "mon_fri",
-      "school_restriction": "school_only"
+      "school_restriction": "normal"
     },
     {
       "time": "08:06",
@@ -41117,13 +41110,6 @@
       "destination": "Jemna",
       "operating_days": "mon_fri",
       "school_restriction": "school_only"
-    },
-    {
-      "time": "04:10",
-      "line": "6",
-      "destination": "Rudnica III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
     },
     {
       "time": "04:18",
@@ -49613,16 +49599,9 @@
     {
       "time": "07:28",
       "line": "3",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "free_day_only"
-    },
-    {
-      "time": "07:28",
-      "line": "3",
       "destination": "Bielawa Leśny Dworek",
       "operating_days": "mon_fri",
-      "school_restriction": "school_only"
+      "school_restriction": "normal"
     },
     {
       "time": "08:02",
@@ -49875,13 +49854,6 @@
       "destination": "Jemna",
       "operating_days": "mon_fri",
       "school_restriction": "school_only"
-    },
-    {
-      "time": "04:06",
-      "line": "6",
-      "destination": "Rudnica III",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
     },
     {
       "time": "04:14",
@@ -51664,13 +51636,6 @@
       "school_restriction": "free_day_only"
     },
     {
-      "time": "05:31",
-      "line": "6",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
-    },
-    {
       "time": "06:20",
       "line": "6",
       "destination": "Dzierżoniów Piłsudskiego",
@@ -53166,16 +53131,9 @@
     {
       "time": "07:27",
       "line": "3",
-      "destination": "Bielawa Pl. Kościelny",
-      "operating_days": "mon_fri",
-      "school_restriction": "free_day_only"
-    },
-    {
-      "time": "07:27",
-      "line": "3",
       "destination": "Bielawa Leśny Dworek",
       "operating_days": "mon_fri",
-      "school_restriction": "school_only"
+      "school_restriction": "normal"
     },
     {
       "time": "08:01",
@@ -55537,13 +55495,6 @@
       "destination": "Dzierżoniów Piłsudskiego",
       "operating_days": "mon_fri",
       "school_restriction": "free_day_only"
-    },
-    {
-      "time": "05:32",
-      "line": "6",
-      "destination": "Dzierżoniów Piłsudskiego",
-      "operating_days": "mon_fri",
-      "school_restriction": "normal"
     },
     {
       "time": "05:34",

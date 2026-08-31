@@ -1,15 +1,15 @@
-﻿use std::collections::HashMap;
-use std::path::{Path, PathBuf};
+﻿use crate::utility::filesystem::save_output;
+use crate::{OperatingDays, SchoolRestriction, StopDetailsBus};
 use regex::Regex;
-use crate::StopDetailsBus;
-use crate::utility::filesystem::save_output;
+use std::collections::HashMap;
+use std::path::{Path, PathBuf};
 
 fn suffix_parse(
     bus: &str,
     destination_map: &HashMap<String, String>,
     line_name: &str,
     line_number: &str,
-    operating_days: &str,
+    operating_days: OperatingDays,
 ) -> StopDetailsBus {
     let re = unsafe { Regex::new(r"(?P<time>\d{1,2}:\d{2})(?P<suffix>[A-Z]*)").unwrap_unchecked() };
 
@@ -27,9 +27,9 @@ fn suffix_parse(
     };
 
     let school_restriction = match suffix.chars().last() {
-        Some('S') => "school_only",
-        Some('W') => "free_day_only",
-        _ => "normal",
+        Some('S') => SchoolRestriction::SchoolOnly,
+        Some('W') => SchoolRestriction::FreeDayOnly,
+        _ => SchoolRestriction::Normal,
     };
 
     if time.len() < 5 {
@@ -40,8 +40,37 @@ fn suffix_parse(
         time: time.to_string(),
         line: line_number.to_string(),
         destination: destination.to_string(),
-        operating_days: operating_days.to_string(),
-        school_restriction: school_restriction.to_string(),
+        operating_days,
+        school_restriction,
+    }
+}
+
+/// Sprowadza identyfikator przystanku z nagłówka PDF do postaci kanonicznej.
+///
+/// Ta sama funkcja jest używana przy ładowaniu backupu, żeby oba źródła danych
+/// były kluczowane identycznie (patrz `load_backup`).
+pub fn normalize_stop_id<'a>(id: &'a str, destination: &str) -> &'a str {
+    match id {
+        "337-338" => match destination {
+            "Dzierżoniów Piłsudskiego" => "338",
+            "Książnica 27" => "337",
+            _ => id,
+        },
+        "221" => match destination {
+            "Dobrocin Szkoła" => "5005",
+            _ => id,
+        },
+        "Handlowy" => "5002",
+        "Szkoła" => "5006",
+        "284." => "284",
+        "45." => "45",
+        "I" => "5009",
+        "Kościół" => "5011",
+        "51,53" => "51",
+        "999" => "84",
+        "14-15" => "14",
+        "352-353" => "352",
+        _ => id,
     }
 }
 
@@ -86,28 +115,7 @@ fn parse_line(line: &str, details: &mut HashMap<String, Vec<StopDetailsBus>>) {
         _ => id,
     };
 
-    let id = match id {
-        "337-338" => match destination {
-            "Dzierżoniów Piłsudskiego" => "338",
-            "Książnica 27" => "337",
-            _ => id,
-        },
-        "221" => match destination {
-            "Dobrocin Szkoła" => "5005",
-            _ => id,
-        },
-        "Handlowy" => "5002",
-        "Szkoła" => "5006",
-        "284." => "284",
-        "45." => "45",
-        "I" => "5009",
-        "Kościół" => "5011",
-        "51,53" => "51",
-        "999" => "84",
-        "14-15" => "14",
-        "352-353" => "352",
-        _ => id,
-    };
+    let id = normalize_stop_id(id, destination);
 
     let legend_regex = unsafe { Regex::new(r"Legenda:\s*(.*?)\s*Operator:").unwrap_unchecked() };
 
@@ -159,7 +167,15 @@ fn parse_line(line: &str, details: &mut HashMap<String, Vec<StopDetailsBus>>) {
             .as_str()
             .trim()
             .split(" ")
-            .map(|time| suffix_parse(time, &destinations_map, destination, line_number, "mon_fri"))
+            .map(|time| {
+                suffix_parse(
+                    time,
+                    &destinations_map,
+                    destination,
+                    line_number,
+                    OperatingDays::MondayToFriday,
+                )
+            })
             .collect();
         stop_detail.append(&mut t);
     }
@@ -176,7 +192,7 @@ fn parse_line(line: &str, details: &mut HashMap<String, Vec<StopDetailsBus>>) {
                     &destinations_map,
                     destination,
                     line_number,
-                    "saturday",
+                    OperatingDays::Saturday,
                 )
             })
             .collect();
@@ -189,7 +205,15 @@ fn parse_line(line: &str, details: &mut HashMap<String, Vec<StopDetailsBus>>) {
             .as_str()
             .trim()
             .split(" ")
-            .map(|time| suffix_parse(time, &destinations_map, destination, line_number, "sunday"))
+            .map(|time| {
+                suffix_parse(
+                    time,
+                    &destinations_map,
+                    destination,
+                    line_number,
+                    OperatingDays::Sunday,
+                )
+            })
             .collect();
         stop_detail.append(&mut t);
     }
